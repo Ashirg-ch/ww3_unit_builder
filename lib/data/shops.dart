@@ -7,6 +7,7 @@ enum Shops {
   russia(Color(0xffff0000)),
   china(Color(0x00c27c0e)),
   usa(Color(0x00206694)),
+  saf(Colors.green),
   research(Colors.white);
 
   final Color color;
