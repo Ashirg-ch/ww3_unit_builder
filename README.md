@@ -1,6 +1,6 @@
 # ww3_unit_builder
 
-A tool to simplify making flexible and scaleable unit formations.
+A tool to simplify making flexible and scalable unit formations.
 
 ## Getting Started
 
