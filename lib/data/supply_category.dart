@@ -313,4 +313,8 @@ enum SupplyCategory {
       orElse: () => throw ArgumentError('Invalid supply category: $string'),
     );
   }
+
+  bool get consumesSupply => supplyUnitCount < 0;
+
+  bool get providesSupply => supplyUnitCount > 0;
 }

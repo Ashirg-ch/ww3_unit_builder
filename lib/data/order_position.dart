@@ -9,8 +9,12 @@ class OrderPosition {
   final List<UnitModification> _modifications;
   final int count;
 
-  OrderPosition(this.count, this._unitType, {List<UnitModification> modifications = const []})
-    : _modifications = modifications, assert(count > 0);
+  const OrderPosition(
+    this.count,
+    this._unitType, {
+    List<UnitModification> modifications = const [],
+  }) : _modifications = modifications,
+       assert(count > 0);
 
   factory OrderPosition.fromJson(Map<String, dynamic> json) {
     try {
@@ -41,7 +45,7 @@ class OrderPosition {
         );
   }
 
-  int get totalSupply {
+  SupplyCategory get supplyCategory {
     SupplyCategory supplyCategory = _unitType.supplyCategory;
     for (final mod in _modifications) {
       if (mod.supplyCategory != null &&
@@ -50,6 +54,11 @@ class OrderPosition {
         supplyCategory = mod.supplyCategory!;
       }
     }
+    return supplyCategory;
+  }
+
+  int get totalSupply {
+    SupplyCategory supplyCategory = this.supplyCategory;
 
     return supplyCategory.supplyUnitCount * count;
   }
@@ -68,8 +77,10 @@ class OrderPosition {
 
   @override
   String toString() {
-    String mods = _modifications.isEmpty ?
-    '' : '\n- ${_modifications.map((e) => e.name).join('\n- ')}';
+    String mods =
+        _modifications.isEmpty
+            ? ''
+            : '\n- ${_modifications.map((e) => e.name).join('\n- ')}';
     return '${count}x ${_unitType.name}$mods';
   }
 }

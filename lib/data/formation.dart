@@ -17,14 +17,14 @@ class Formation {
   factory Formation.fromJson(Map<String, dynamic> json) {
     return Formation(
       json['name'] as String,
-      Formation.parseSubFormations(
+      Formation._parseSubFormations(
         json['subFormations'] as List<dynamic>? ?? const [],
       ),
       (json['units'] as List).map((e) => OrderPosition.fromJson(e)).toList(),
     );
   }
 
-  static Map<String, int> parseSubFormations(List<dynamic> json) {
+  static Map<String, int> _parseSubFormations(List<dynamic> json) {
     final Map<String, int> subFormations = {};
     for (final subFormation in json) {
       subFormations[subFormation['name'] as String] =
