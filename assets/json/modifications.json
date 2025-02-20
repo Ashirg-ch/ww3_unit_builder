@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Electronic ERA",
+    "relativeCost": 0.35
+  },
+  {
+    "name": "Multi-Spectral Camouflage",
+    "fixedCost": 150000
+  },
+  {
+    "name": "Augmented Reality Networked Warfighter",
+    "relativeCost": 0.2
+  }
+]

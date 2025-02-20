@@ -1,0 +1,38 @@
+[
+  {
+    "name": "PMC Soldier",
+    "cost": 50000,
+    "shop": "independent",
+    "supplyCategory": "footSoldier"
+  },
+  {
+    "name": "PMC Medic",
+    "cost": 75000,
+    "shop": "independent",
+    "supplyCategory": "footSoldier"
+  },
+  {
+    "name": "T-72M1",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "M54 cargo truck",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "BMP-3",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Humvee",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": "lightUtilityVehicle"
+  }
+]

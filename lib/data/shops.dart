@@ -13,4 +13,14 @@ enum Shops {
   final Color color;
 
   const Shops(this.color);
+
+  /// Converts a string to a [Shops] value.
+  ///
+  /// Throws an [ArgumentError] if the string is not a valid shop.
+  static Shops fromString(String shop) {
+    return values.firstWhere(
+      (e) => e.toString() == 'Shops.$shop',
+      orElse: () => throw ArgumentError('Invalid shop: $shop'),
+    );
+  }
 }

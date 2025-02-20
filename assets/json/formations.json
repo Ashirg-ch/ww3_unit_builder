@@ -1,0 +1,66 @@
+[
+  {
+    "name": "T-72 Tank Platoon",
+    "units": [
+      {
+        "name": "T-72M1",
+        "count": 4,
+        "modifications": [
+          "Electronic ERA",
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "T-72 Tank Company",
+    "subFormations": [
+      {
+        "name": "T-72 Tank Platoon",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "T-72M1",
+        "count": 2,
+        "modifications": [
+          "Electronic ERA",
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "BMP-3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      }
+    ]
+  }
+]
