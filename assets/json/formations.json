@@ -14,13 +14,7 @@
     ]
   },
   {
-    "name": "T-72 Tank Company",
-    "subFormations": [
-      {
-        "name": "T-72 Tank Platoon",
-        "count": 3
-      }
-    ],
+    "name": "T-72 Tank Company HQ",
     "units": [
       {
         "name": "T-72M1",
@@ -59,6 +53,174 @@
       },
       {
         "name": "PMC Medic",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "T-72 Tank Company",
+    "subFormations": [
+      {
+        "name": "T-72 Tank Platoon",
+        "count": 3
+      },
+      {
+        "name": "T-72 Tank Company HQ",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Mechanised Infantry Squad (Early stage)",
+    "units": [
+      {
+        "name": "PMC Soldier",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "BMP-3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mechanised Infantry Platoon (Early stage)",
+    "subFormations": [
+      {
+        "name": "Mechanised Infantry Squad (Early stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "BMP-2M",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mechanised Infantry Company (Early stage)",
+    "subFormations": [
+      {
+        "name": "Mechanised Infantry Platoon (Early stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "BMP-3",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Urban Security Patrol (Early stage)",
+    "units": [
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      },
+      {
+        "name": "DillonAero CEV",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Light Motorised Squad (Early stage, MRAP)",
+    "units": [
+      {
+        "name": "PMC Soldier",
+        "count": 14
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      },
+      {
+        "name": "Casspir Mk6",
         "count": 1
       }
     ]

@@ -24,6 +24,12 @@
     "supplyCategory": "lightUtilityVehicle"
   },
   {
+    "name": "BMP-2M",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": "ifvApc"
+  },
+  {
     "name": "BMP-3",
     "cost": 600000,
     "shop": "independent",
