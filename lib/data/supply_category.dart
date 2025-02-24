@@ -101,7 +101,7 @@ enum SupplyCategory {
   /// - PzH 2000
   /// - PLZ-45
   /// - CAESAR 8x8
-  selfPropelledGun(-70),
+  selfPropelledHowitzer(-70),
 
   /// Self-propelled Multiple Launch Rocket Systems (MLRS).
   ///
