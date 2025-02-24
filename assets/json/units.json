@@ -12,6 +12,12 @@
     "supplyCategory": "footSoldier"
   },
   {
+    "name": "PMC Heavy Weapons",
+    "cost": 80000,
+    "shop": "independent",
+    "supplyCategory": "footSoldier"
+  },
+  {
     "name": "T-72M1",
     "cost": 2500000,
     "shop": "independent",
@@ -40,5 +46,23 @@
     "cost": 200000,
     "shop": "independent",
     "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "T-55A",
+    "cost": 750000,
+    "shop": "independent",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Casspir Mk6",
+    "cost": 700000,
+    "shop": "independent",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "DillonAero Convoy Escort Vehicle",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": "lightVehicleMrap"
   }
 ]

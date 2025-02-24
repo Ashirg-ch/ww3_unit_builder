@@ -10,5 +10,11 @@
   {
     "name": "Augmented Reality Networked Warfighter",
     "relativeCost": 0.2
+  },
+  {
+    "name": "BTR-T",
+    "fixedCost": 750000,
+    "supplyCategory": "ifvApc",
+    "overrideSupplyCategory": true
   }
 ]

@@ -5,6 +5,22 @@ import 'formations_list.dart';
 class Formation {
   final String name;
 
+  /// The size of the formation.
+  ///
+  /// This describes the size of the formation,
+  /// such as "platoon" or "company".
+  ///
+  /// This is used to determine the symbol that should be shown in the GUI.
+  final String size;
+
+  /// The type of the formation.
+  ///
+  /// This describes the type of the formation,
+  /// such as "infantry", "armor", "wheeled multiple rocket launcher" or "attack helicopter".
+  ///
+  /// This is used to determine the symbol that should be shown in the GUI.
+  final String type;
+
   /// Sub-formations that are part of this formation.
   ///
   /// The key is the name of the sub-formation,
@@ -12,16 +28,32 @@ class Formation {
   final Map<String, int> _subFormations;
   final List<OrderPosition> _directUnits;
 
-  Formation(this.name, this._subFormations, this._directUnits);
+  const Formation(
+    this.name,
+    this._subFormations,
+    this._directUnits,
+    this.size,
+    this.type,
+  );
 
   factory Formation.fromJson(Map<String, dynamic> json) {
-    return Formation(
-      json['name'] as String,
-      Formation._parseSubFormations(
-        json['subFormations'] as List<dynamic>? ?? const [],
-      ),
-      (json['units'] as List).map((e) => OrderPosition.fromJson(e)).toList(),
-    );
+    try {
+      return Formation(
+        json['name'] as String,
+        Formation._parseSubFormations(
+          json['subFormations'] as List<dynamic>? ?? const [],
+        ),
+        (json['units'] as List?)
+                ?.map((e) => OrderPosition.fromJson(e))
+                .toList() ??
+            const [],
+        json['size'] as String? ?? '',
+        json['type'] as String? ?? '',
+      );
+    } catch (e) {
+      print('Error parsing Formation from JSON: $json\nError: $e');
+      rethrow;
+    }
   }
 
   static Map<String, int> _parseSubFormations(List<dynamic> json) {
@@ -44,5 +76,15 @@ class Formation {
       }
     }
     return allUnits;
+  }
+
+  String? get iconPath {
+    if (size.isEmpty) return null;
+
+    if (type.isEmpty) {
+      return 'generic/$size.svg';
+    } else {
+      return '$type/$size.svg';
+    }
   }
 }

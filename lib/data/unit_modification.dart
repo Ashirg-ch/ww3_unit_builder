@@ -11,10 +11,16 @@ class UnitModification {
   /// An optional value that states that applying this modification will change the unit's supply category.
   ///
   /// If this is `null`, the unit's supply category will not be changed.
-  /// Additionally, if the unit's supply category is already more expensive than the new one, 
+  /// Additionally, if the unit's supply category is already more expensive than the new one,
   /// the new one will not be applied.
   final SupplyCategory? supplyCategory;
-  
+
+  /// Whether the supply category of the unit should be overridden even if it is more expensive.
+  ///
+  /// This is intended for modifications that modify the class of the unit to a less expensive one,
+  /// such as the BTR-T modification for the T-55A.
+  final bool overrideSupplyCategory;
+
   /// The fixed cost of a modification.
   ///
   /// Most modification have a fixed cost regardless of the unit's base cost.
@@ -35,9 +41,12 @@ class UnitModification {
   const UnitModification(
     this.name, {
     this.supplyCategory,
+    this.overrideSupplyCategory = false,
     this.fixedCost,
     this.relativeCost,
-  }) : assert((fixedCost == null) != (relativeCost == null));
+  }) : assert((fixedCost == null) != (relativeCost == null)),
+       assert(fixedCost == null || fixedCost >= 0),
+       assert(relativeCost == null || relativeCost >= 0);
 
   int calculateCost(int unitCost) {
     if (fixedCost != null) {
@@ -54,6 +63,7 @@ class UnitModification {
           json['supplyCategory'] == null
               ? null
               : SupplyCategory.fromString(json['supplyCategory'] as String),
+      overrideSupplyCategory: json['overrideSupplyCategory'] as bool? ?? false,
       fixedCost: json['fixedCost'] as int?,
       relativeCost: (json['relativeCost'] as num?)?.toDouble(),
     );

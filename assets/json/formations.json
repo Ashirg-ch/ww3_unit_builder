@@ -192,6 +192,41 @@
     ]
   },
   {
+    "name": "Heavy Mechanised Infantry Squad (Early stage, BTR-T)",
+    "units": [
+      {
+        "name": "PMC Soldier",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "T-55A",
+        "count": 1,
+        "modifications": [
+          "BTR-T",
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Urban Security Patrol (Early stage)",
     "units": [
       {
@@ -203,7 +238,7 @@
         "count": 1
       },
       {
-        "name": "DillonAero CEV",
+        "name": "DillonAero Convoy Escort Vehicle",
         "count": 1
       }
     ]

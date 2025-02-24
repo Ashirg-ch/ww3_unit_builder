@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:ww3_unit_builder/data/formation.dart';
-import 'package:ww3_unit_builder/data/order_position.dart';
 
 import '../data/formations_list.dart';
 import '../data/order.dart';
@@ -29,21 +29,39 @@ class _FormationSelectionWidgetState extends State<FormationSelectionWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      //mainAxisSize: MainAxisSize.min,
+    return Row(
+      mainAxisSize: MainAxisSize.min,
       children: [
-        ListView.builder(
-          padding: const EdgeInsets.all(8),
-          shrinkWrap: true,
-          itemCount: formations.length,
-          itemBuilder: (context, index) {
-            return ListTile(
-              title: Text(formations[index].name),
-              onTap: () => _onClick(index),
-            );
-          },
+        SizedBox(
+          width: 400,
+          height: 600,
+          child: ListView.builder(
+            padding: const EdgeInsets.all(8),
+            shrinkWrap: true,
+            itemCount: formations.length,
+            itemBuilder: (context, index) {
+              return ListTile(
+                title: Text(formations[index].name),
+                onTap: () => _onClick(index),
+              );
+            },
+          ),
         ),
-        Text(output),
+        Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text(output),
+            const SizedBox(width: 8),
+            // Copy button
+            ElevatedButton(
+              onPressed: () {
+                Clipboard.setData(ClipboardData(text: output));
+              },
+              child: const Text('Copy'),
+            ),
+          ],
+        ),
+
         ElevatedButton(
           onPressed:
               () => setState(() {
