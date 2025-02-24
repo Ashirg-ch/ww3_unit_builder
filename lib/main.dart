@@ -12,7 +12,7 @@ void main() {
 }
 
 void _loadData() {
-  _readFile('assets/json/units.json').then((json) {
+  _readFile('assets/json/new_units.json').then((json) {
     UnitTypeList().loadUnitTypes(json);
   });
   _readFile('assets/json/modifications.json').then((json) {
@@ -24,7 +24,7 @@ void _loadData() {
 }
 
 Future<String> _readFile(String filePath) async {
-  return await rootBundle.loadString(filePath);
+  return rootBundle.loadString(filePath);
 }
 
 class MyApp extends StatelessWidget {
@@ -34,11 +34,15 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       themeMode: ThemeMode.dark,
-      title: 'Flutter Demo',
+      title: 'WW3 Unit Builder',
       theme: ThemeData(primarySwatch: Colors.blue),
       darkTheme: ThemeData(
         primarySwatch: Colors.blue,
         brightness: Brightness.dark,
+        listTileTheme: ListTileThemeData(
+          tileColor: Colors.grey[800],
+          selectedTileColor: Colors.blue[800],
+        ),
       ),
       home: MainScreen(),
     );

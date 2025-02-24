@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:ww3_unit_builder/data/formation.dart';
+import 'package:ww3_unit_builder/widgets/unit_icon_widget.dart';
 
 import '../data/formations_list.dart';
 import '../data/order.dart';
@@ -42,6 +43,10 @@ class _FormationSelectionWidgetState extends State<FormationSelectionWidget> {
             itemBuilder: (context, index) {
               return ListTile(
                 title: Text(formations[index].name),
+                leading: UnitIconWidget(
+                  unitSize: formations[index].size,
+                  unitType: formations[index].type,
+                ),
                 onTap: () => _onClick(index),
               );
             },

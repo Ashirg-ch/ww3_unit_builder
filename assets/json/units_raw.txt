@@ -1,0 +1,112 @@
+Local Militia - 35,000
+PMC Soldier - 50,000
+PMC Sniper - 100,000
+PMC Heavy Weapons - 80,000
+PMC Medic - 75,000
+PMC Technical Specialist - 2,000,000
+PMC Engineer - 500,000 (much better than normal engineers)
+Commandos - 100,000 (max of 5,000)
+Counter-Terrorist Operators - 150,000 (max 5,000)
+Direct Action Operators - 250,000 (max 5,000)
+Special Warfare Operators - 300,000 (max 2,500)
+PMC Intelligence Operative - 4,500,000 (max 30) (better than normal intel operatives at non hacking things)
+Black Cube Agent - 10,000,000 (Max 10)
+Condor A350 - 450,000
+Ferret armored car - 150,000
+Renault Sherpa - 600,000
+Saxon armored car - 550,000
+Cadillac Gage Commando V150 - 500,000
+Casspir Mk6 - 700,000
+First Win MRAP - 500,000
+DillonAero Convoy Escort Vehicle - 100,000
+Panhard AML-90 - 1,000,000
+BDRM-2 - 225,000
+Ural-4320 - 225,000
+M54 cargo truck - 100,000
+Polaris MV850 TerrainArmor Edition - 650,000
+Humvee -200,000
+Technical - 100,000
+Lamborghini LM002 - 400,000
+Jeep - 75,000
+Mercedes-Benz G63 AMG 6x6 - 250,000
+Heavy technical - 1,000,000
+Supacat All-Terrain Mobility Platform - 100,000
+MAZ-537 - 600,000
+Caterpillar D9 - 300,000
+Husky 2G Mk.III - 500,000
+M728 CEV - 5,000,000
+BMP-1 - 500,000
+BMP-2M - 600,000
+BMP-3 - 600,000
+Warrior IFV - 900,000
+MT-LB - 400,000
+M113 - 500,000
+Paramount Marauder - 450,000
+BTR 152 - 200,000
+BTR-50 - 300,000
+BTR-60 - 500,000
+FV432 Armored Personnel Carrier - 650,000
+OT-64 SKOT - 850,000
+PT-76 - 600,000
+AMX-13 - 1,000,000
+Cadillac Gage Stingray - 2,500,000
+T-55A- 750,000
+Ripsaw MS3 UGV - 150,000 (remote operator, driver optional)
+T-62M - 1,250,000
+T-72M1 - 2,500,000
+M-48 Patton - 2,000,000
+M-41 Walker Bulldog - 800,000
+M60A1 - 2,500,000
+Chieftain Mk. 10 - 3,000,000
+M109 - 2,500,000
+2S1 Gvozdika - 1,750,000
+L118 - 500,000
+BM-21 Grad -  10,000,000
+Type 63 multiple rocket launcher - 100,000
+2S3 Akatsiya - 2,000,000
+Scud-D - 9,200,000
+ZSU-23-4V1 - 500,000
+ZSU-57(Egypt version) - 200,000
+M167 VADS - 200,000
+Bofors 40 mm gun - 200,000
+ZPU 2 Anti-aircraft Gun - 150,000
+Oerlikon 20 mm gun - 150,000
+9K33 Osa - 1,300,000
+S-75F Dvina - 1,350,000
+MIM-23B I-Hawk - 2,000,000
+S-125M Neva - 8,000,000
+P-40 radar - 7,000,000
+SNAR-2 - 2,000,000
+Cessna C208 - 1,250,000
+F-5 - 7,500,000
+MiG-21 - 5,500,000
+MiG-23MLD - 8,000,000
+MiG-25- 10,000,000
+AV-8B Harrier II - 7,500,000
+F-4E Phantom- 5,500,000
+C-23 Sherpa - 1,200,000
+Textron AirLand Scorpion - 6,500,000
+Mirage F1E - 8,000,000
+F-14A - 15,000,000  (max 20)
+Il-28 - 6,000,000
+de Havilland Canada DHC-6 Twin Otter - 1,750,000
+Antonov An-12 - 4,250,000
+Antonov An-22 - 5,000,000
+Antonov An-28 - 2,000,000
+C-130 Hercules - 2,500,000
+C-130J Super Hercules - 3,000,000
+NGAA Catalina II - 1,500,000
+Mi-4AV - 1,000,000
+Mi-35 Hind E - 2,500,000
+AH-1G HueyCobra - 2,500,000
+Aerospatiale Alouette II - 2,000,000
+UH 1 "Huey" - 650,000
+UH-1N Twin Huey - 1,000,000
+UH-60 Black Hawk - 1,250,000
+Boeing CH-47 Chinook - 2,000,000
+Aérospatiale Alouette III - 1,500,000
+Sikorsky CH-53E Super Stallion - 5,000,000
+Aérospatiale SA 360 Dauphin - 2,000,000
+Mi-8T - 3,000,000
+Explosive kamikaze quadcopter - 55,000  (1kg of explosives strapped to a commercial quadcopter)
+Bayraktar TB2 - 3,500,000

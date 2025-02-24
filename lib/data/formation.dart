@@ -48,7 +48,7 @@ class Formation {
                 .toList() ??
             const [],
         json['size'] as String? ?? '',
-        json['type'] as String? ?? '',
+        json['type'] as String? ?? 'generic',
       );
     } catch (e) {
       print('Error parsing Formation from JSON: $json\nError: $e');
@@ -76,15 +76,5 @@ class Formation {
       }
     }
     return allUnits;
-  }
-
-  String? get iconPath {
-    if (size.isEmpty) return null;
-
-    if (type.isEmpty) {
-      return 'generic/$size.svg';
-    } else {
-      return '$type/$size.svg';
-    }
   }
 }

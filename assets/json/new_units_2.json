@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Local Militia",
+    "cost": 35000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Soldier",
+    "cost": 50000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Sniper",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Heavy Weapons",
+    "cost": 80000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Medic",
+    "cost": 75000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Technical Specialist",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Engineer",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Commandos",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Counter-Terrorist Operators",
+    "cost": 150000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Direct Action Operators",
+    "cost": 250000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Special Warfare Operators",
+    "cost": 300000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PMC Intelligence Operative",
+    "cost": 4500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Black Cube Agent",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Condor A350",
+    "cost": 450000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Ferret armored car",
+    "cost": 150000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Renault Sherpa",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Saxon armored car",
+    "cost": 550000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Cadillac Gage Commando V150",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Casspir Mk6",
+    "cost": 700000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "First Win MRAP",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "DillonAero Convoy Escort Vehicle",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Panhard AML-90",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BDRM-2",
+    "cost": 225000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Ural-4320",
+    "cost": 225000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M54 cargo truck",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Polaris MV850 TerrainArmor Edition",
+    "cost": 650000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Humvee",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Technical",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Lamborghini LM002",
+    "cost": 400000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Jeep",
+    "cost": 75000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Mercedes-Benz G63 AMG 6x6",
+    "cost": 250000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Heavy technical",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Supacat All-Terrain Mobility Platform",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MAZ-537",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Caterpillar D9",
+    "cost": 300000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Husky 2G Mk.III",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M728 CEV",
+    "cost": 5000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BMP-1",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BMP-2M",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BMP-3",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Warrior IFV",
+    "cost": 900000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MT-LB",
+    "cost": 400000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M113",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Paramount Marauder",
+    "cost": 450000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BTR 152",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BTR-50",
+    "cost": 300000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BTR-60",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "FV432 Armored Personnel Carrier",
+    "cost": 650000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "OT-64 SKOT",
+    "cost": 850000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "PT-76",
+    "cost": 600000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "AMX-13",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Cadillac Gage Stingray",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "T-55A",
+    "cost": 750000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Ripsaw MS3 UGV",
+    "cost": 150000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "T-62M",
+    "cost": 1250000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "T-72M1",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M-48 Patton",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M-41 Walker Bulldog",
+    "cost": 800000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M60A1",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Chieftain Mk. 10",
+    "cost": 3000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M109",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "2S1 Gvozdika",
+    "cost": 1750000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "L118",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "BM-21 Grad",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Type 63 multiple rocket launcher",
+    "cost": 100000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "2S3 Akatsiya",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Scud-D",
+    "cost": 9200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "ZSU-23-4V1",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "ZSU-57(Egypt version)",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "M167 VADS",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Bofors 40 mm gun",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "ZPU 2 Anti-aircraft Gun",
+    "cost": 150000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Oerlikon 20 mm gun",
+    "cost": 150000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "9K33 Osa",
+    "cost": 1300000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "S-75F Dvina",
+    "cost": 1350000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MIM-23B I-Hawk",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "S-125M Neva",
+    "cost": 8000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "P-40 radar",
+    "cost": 7000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "SNAR-2",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Cessna C208",
+    "cost": 1250000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "F-5",
+    "cost": 7500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MiG-21",
+    "cost": 5500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MiG-23MLD",
+    "cost": 8000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MiG-25",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "AV-8B Harrier II",
+    "cost": 7500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "F-4E Phantom",
+    "cost": 5500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "C-23 Sherpa",
+    "cost": 1200000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Textron AirLand Scorpion",
+    "cost": 6500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Mirage F1E",
+    "cost": 8000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "F-14A",
+    "cost": 15000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Il-28",
+    "cost": 6000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "de Havilland Canada DHC-6 Twin Otter",
+    "cost": 1750000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Antonov An-12",
+    "cost": 4250000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Antonov An-22",
+    "cost": 5000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Antonov An-28",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "C-130 Hercules",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "C-130J Super Hercules",
+    "cost": 3000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "NGAA Catalina II",
+    "cost": 1500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Mi-4AV",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Mi-35 Hind E",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "AH-1G HueyCobra",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Aerospatiale Alouette II",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "UH 1 \"Huey\"",
+    "cost": 650000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "UH-1N Twin Huey",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "UH-60 Black Hawk",
+    "cost": 1250000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Boeing CH-47 Chinook",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "A\u00e9rospatiale Alouette III",
+    "cost": 1500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Sikorsky CH-53E Super Stallion",
+    "cost": 5000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "A\u00e9rospatiale SA 360 Dauphin",
+    "cost": 2000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Mi-8T",
+    "cost": 3000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Explosive kamikaze quadcopter",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Bayraktar TB2",
+    "cost": 3500000,
+    "shop": "independent",
+    "supplyCategory": ""
+  }
+]

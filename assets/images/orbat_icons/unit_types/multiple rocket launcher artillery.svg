@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="135" viewBox="7.1583329875 15.8749996875 53.416664325 35.983330625" width="201">
+    <g display="inline">
+        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="#80dfff" stop-color="#000000" />
+        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.05833" />
+    </g>
+<path d="m39.7543960 33.8666650 a5.8877311 5.8877311 0 0 1 -5.887731 5.887731 5.8877311 5.8877311 0 0 1 -5.887731-5.887731 5.8877311 5.8877311 0 0 1 5.887731-5.887731 5.8877311 5.8877311 0 0 1 5.887731 5.887731z" display="inline" opacity="1" stop-color="#000000" stroke-width="1.05833" />
+<g display="inline" opacity="1">
+        <path d="m29.8976860 26.0349990  3.96898-3.968981 3.96898 3.968981" fill="none" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
+        <path d="m29.8976860 22.8599970  3.96898-3.968981 3.96898 3.968981" fill="none" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
+    </g>
+</svg>

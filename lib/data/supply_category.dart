@@ -294,7 +294,7 @@ enum SupplyCategory {
   lightVehicleMrap(0),
 
   /// Engineering vehicles, such as bulldozers and mine-clearing vehicles,
-  engineeringVehicles(0);
+  engineeringVehicle(0);
 
   /// The number of supply units that a unit costs or provides.
   ///
@@ -310,7 +310,7 @@ enum SupplyCategory {
   static SupplyCategory fromString(String string) {
     return SupplyCategory.values.firstWhere(
       (e) => e.toString() == 'SupplyCategory.$string',
-      orElse: () => throw ArgumentError('Invalid supply category: $string'),
+      orElse: () => SupplyCategory.lightVehicleMrap//throw ArgumentError('Invalid supply category: $string'),
     );
   }
 

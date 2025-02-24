@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf8'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="136" viewBox="7.1583329875 15.874999687499997 53.416664325 35.983332625" width="201">
+    <g display="inline">
+        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="#80dfff" stop-color="#000000" />
+        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.05833" />
+    </g>
+<path d="m8.2166665 50.7999990  51.2999965-33.866666" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
+<path d="m33.8666690 16.9333330 v33.866665" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
+</svg>

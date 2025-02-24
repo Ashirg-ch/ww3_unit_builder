@@ -1,6 +1,8 @@
 [
   {
     "name": "T-72 Tank Platoon",
+    "size": "platoon",
+    "type": "armor",
     "units": [
       {
         "name": "T-72M1",
@@ -15,6 +17,8 @@
   },
   {
     "name": "T-72 Tank Company HQ",
+    "size": "platoon",
+    "type": "armor headquarters",
     "units": [
       {
         "name": "T-72M1",
@@ -59,6 +63,8 @@
   },
   {
     "name": "T-72 Tank Company",
+    "size": "company",
+    "type": "armor",
     "subFormations": [
       {
         "name": "T-72 Tank Platoon",
@@ -72,6 +78,8 @@
   },
   {
     "name": "Mechanised Infantry Squad (Early stage)",
+    "size": "squad",
+    "type": "mechanized",
     "units": [
       {
         "name": "PMC Soldier",
@@ -106,6 +114,8 @@
   },
   {
     "name": "Mechanised Infantry Platoon (Early stage)",
+    "size": "platoon",
+    "type": "mechanized",
     "subFormations": [
       {
         "name": "Mechanised Infantry Squad (Early stage)",
@@ -146,6 +156,8 @@
   },
   {
     "name": "Mechanised Infantry Company (Early stage)",
+    "size": "company",
+    "type": "mechanized",
     "subFormations": [
       {
         "name": "Mechanised Infantry Platoon (Early stage)",
@@ -193,6 +205,8 @@
   },
   {
     "name": "Heavy Mechanised Infantry Squad (Early stage, BTR-T)",
+    "size": "squad",
+    "type": "heavy mechanized",
     "units": [
       {
         "name": "PMC Soldier",
@@ -244,11 +258,17 @@
     ]
   },
   {
-    "name": "Light Motorised Squad (Early stage, MRAP)",
+    "name": "Motorised Squad (Early stage, MRAP)",
+    "size": "squad",
+    "type": "motorized infantry",
     "units": [
       {
         "name": "PMC Soldier",
-        "count": 14
+        "count": 13
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 1
       },
       {
         "name": "PMC Medic",
