@@ -12,7 +12,7 @@ void main() {
 }
 
 void _loadData() {
-  _readFile('assets/json/new_units.json').then((json) {
+  _readFile('assets/json/units.json').then((json) {
     UnitTypeList().loadUnitTypes(json);
   });
   _readFile('assets/json/modifications.json').then((json) {

@@ -41,7 +41,7 @@ enum SupplyCategory {
   /// Attack helicopters and gunships.
   ///
   /// This also includes armed helicopters that can be used for transport,
-  /// such as the Mil Mi-24 Hind or the Mil Mi-8 Hip.
+  /// such as the Mil Mi-24 Hind or the Mil Mi-8T Hip.
   attackHelicopter(-100),
 
   /// Infantry fighting vehicles (IFVs) and armored personnel carriers (APCs).
@@ -294,7 +294,10 @@ enum SupplyCategory {
   lightVehicleMrap(0),
 
   /// Engineering vehicles, such as bulldozers and mine-clearing vehicles,
-  engineeringVehicle(0);
+  engineeringVehicle(0),
+
+  /// Intelligence Operatives and agents that are not part of the regular military.
+  intelligence(0);
 
   /// The number of supply units that a unit costs or provides.
   ///
@@ -310,7 +313,7 @@ enum SupplyCategory {
   static SupplyCategory fromString(String string) {
     return SupplyCategory.values.firstWhere(
       (e) => e.toString() == 'SupplyCategory.$string',
-      orElse: () => SupplyCategory.lightVehicleMrap//throw ArgumentError('Invalid supply category: $string'),
+      orElse: () => throw ArgumentError('Invalid supply category: $string'),
     );
   }
 

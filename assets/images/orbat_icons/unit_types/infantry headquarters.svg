@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf8'?>
-<svg xmlns="http://www.w3.org/2000/svg" height="199" viewBox="7.158331287499999 15.8749996875 53.416666025 52.916665624999986" width="201">
+<svg xmlns="http://www.w3.org/2000/svg" height="135" viewBox="7.1583329875 15.8749996875 53.416664325 35.983332624999996" width="201">
     <g display="inline">
         <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="#80dfff" stop-color="#000000" />
         <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.05833" />
@@ -8,5 +8,5 @@
         <path d="m8.2166665 16.9333330  51.2999965 33.866666" fill="none" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
         <path d="m59.5166630 16.9333330 -51.2999965 33.866666" fill="none" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
     </g>
-<path d="m8.2166646 16.9333350  v50.799997" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.64583" />
+<path d="m59.5166630 25.8441500 h-51.2999966" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
 </svg>

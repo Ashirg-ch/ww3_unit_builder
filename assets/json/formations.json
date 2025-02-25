@@ -17,7 +17,7 @@
   },
   {
     "name": "T-72 Tank Company HQ",
-    "size": "platoon",
+    "size": "section",
     "type": "armor headquarters",
     "units": [
       {
@@ -37,11 +37,10 @@
         ]
       },
       {
-        "name": "BMP-3",
+        "name": "M113",
         "count": 1,
         "modifications": [
-          "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Multi-Spectral Camouflage"
         ]
       },
       {
@@ -79,7 +78,7 @@
   {
     "name": "Mechanised Infantry Squad (Early stage)",
     "size": "squad",
-    "type": "mechanized",
+    "type": "mechanized infantry",
     "units": [
       {
         "name": "PMC Soldier",
@@ -115,7 +114,7 @@
   {
     "name": "Mechanised Infantry Platoon (Early stage)",
     "size": "platoon",
-    "type": "mechanized",
+    "type": "mechanized infantry",
     "subFormations": [
       {
         "name": "Mechanised Infantry Squad (Early stage)",
@@ -157,7 +156,7 @@
   {
     "name": "Mechanised Infantry Company (Early stage)",
     "size": "company",
-    "type": "mechanized",
+    "type": "mechanized infantry",
     "subFormations": [
       {
         "name": "Mechanised Infantry Platoon (Early stage)",
@@ -167,8 +166,17 @@
     "units": [
       {
         "name": "BMP-3",
-        "count": 2,
+        "count": 1,
         "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "T-72M1",
+        "count": 1,
+        "modifications": [
+          "Electronic ERA",
           "Multi-Spectral Camouflage",
           "Augmented Reality Networked Warfighter"
         ]
@@ -206,8 +214,60 @@
   {
     "name": "Heavy Mechanised Infantry Squad (Early stage, BTR-T)",
     "size": "squad",
-    "type": "heavy mechanized",
+    "type": "heavy mechanized infantry",
     "units": [
+      {
+        "name": "PMC Soldier",
+        "count": 7,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 2,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "T-55A",
+        "count": 2,
+        "modifications": [
+          "BTR-T",
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Mechanised Infantry Platoon (Early stage, BTR-T)",
+    "size": "platoon",
+    "type": "heavy mechanized infantry",
+    "subFormations": [
+      {
+        "name": "Heavy Mechanised Infantry Squad (Early stage, BTR-T)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "T-55A",
+        "count": 1,
+        "modifications": [
+          "BTR-T",
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
       {
         "name": "PMC Soldier",
         "count": 3,
@@ -228,12 +288,51 @@
         "modifications": [
           "Augmented Reality Networked Warfighter"
         ]
+      }
+    ]
+  },
+  {
+    "name": "Combined Arms Battalion (Early stage)",
+    "size": "battalion",
+    "type": "combined arms",
+    "subFormations": [
+      {
+        "name": "T-72 Tank Company",
+        "count": 2
       },
       {
-        "name": "T-55A",
-        "count": 1,
+        "name": "Mechanised Infantry Company (Early stage)",
+        "count": 2
+      },
+      {
+        "name": "Combined Arms Battalion HQ Company (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Sniper Squad (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Heavy Mortar Platoon (Early stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Combined Arms Battalion HQ Company (Early stage)",
+    "size": "company",
+    "type": "combined arms headquarters",
+    "units": []
+  },
+  {
+    "name": "Heavy Mortar Section (Early stage)",
+    "size": "section",
+    "type": "",
+    "units": [
+      {
+        "name": "M113",
+        "count": 3,
         "modifications": [
-          "BTR-T",
           "Multi-Spectral Camouflage",
           "Augmented Reality Networked Warfighter"
         ]
@@ -241,7 +340,47 @@
     ]
   },
   {
+    "name": "Heavy Mortar Platoon (Early stage)",
+    "size": "platoon",
+    "type": "heavy mortar",
+    "subFormations": [
+      {
+        "name": "Heavy Mortar Section (Early stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+    ]
+  },
+  {
+    "name": "Sniper Squad (Early stage)",
+    "size": "squad",
+    "type": "sniper",
+    "units": [
+      {
+        "name": "PMC Sniper",
+        "count": 10
+      },
+      {
+        "name": "Humvee",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Polaris MV850 TerrainArmor Edition",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Urban Security Patrol (Early stage)",
+    "size": "team",
+    "type": "security",
     "units": [
       {
         "name": "PMC Soldier",

@@ -1,0 +1,572 @@
+```Speed and Camouflage```
+**"Camouflage Net** - 50,000
+- Adds a camouflage net over the vehicle making it harder to detect visually.
+**"Multi-Spectral Camouflage** - 150,000
+- Adds a multi spectral camouflage net over the vehicle making it harder to detect by infrared and other electronic waves. 
+- It is still detectable, however.
+**Upgraded Engine** - 20% of vehicle cost
+- Installs upgraded engine.
+- Not stackable.
+- Cannot be combined with modernized engine modernization.
+
+```Weaponry```
+(Note: For every mod that is not a roof mounted MG or a grenade launcher, 1 mp is added because of the need for a gunner or you must provide an extended information post to explain why there isn’t another crew member.)
+**'Roof Mounted 5.56 MG** - 25,000
+- Adds a roof mounted 5.56 or 5.45 MG of your choosing
+**'7.62 Roof Mounted MG** - 50,000
+- Adds a roof mounted 7.62 MG of your choosing
+**'.50 Cal Roof Mounted MG** - 75,000
+- Adds a roof mounted 12.7mm or 14.5mm MG of your choosing 
+**60mm Mortar** - 100,000
+- Adds a 60 mm mortar to the armored vehicle
+- Operable internally.
+**81mm Mortar** - 125,000
+- Adds a 81mm mortar to the armored vehicle.
+- Operable internally.
+**120mm Mortar** - 175,000
+- Adds a 120mm mortar to the armored vehicle.
+- Operable internally.
+**'7.62 Roof Mounted Minigun** - 125,000
+- Adds a 7.62 Minigun to the roof of the vehicle to be used by the commander.
+**Mounted Flamethrower** - 150,000
+- Mounts a Flamethrower and a Fuel Tank onto the vehicle
+- Only for vehicles with tracks
+**Autocannon** - 100,000
+- Adds a <40 mm autocannon to the vehicle
+**'Grenade Launcher** - 75,000
+- Adds a Roof Mounted GL to the vehicle
+
+**ATGM Launcher** - 150,000 
+- Adds a ATGM Launcher to the vehicle
+**'Recoilless rifle** - 120,000
+- Adds a recoilless rifle to the vehicle
+**Small MLRS Tubes** - 2,000,000
+- Adds 10 rocket tubes of your choice.
+- Less than 200mm.
+**Medium MLRS Tubes** - 3,500,000
+- Adds 5 rocket tubes of your choice
+- Less than 300mm.
+**Large MLRS Tube** -  1,000,000
+- Adds 1 rocket tube of your choice.
+- Can be over 300mm.
+**MANPAD Launcher** - 100,000
+- Adds a single MANPAD launcher to a ground vehicle.
+- Does not come with any sensors, so further modification may be required if the MANPAD is not self contained or a heat seeking missile.
+
+```Armor```
+**"Simple AT Armor** - 100,000
+- Adds chainlink armor to the side which have a 60% chance to stop a rocket
+**"Sideskirt Armor** - 150,000 
+- Adds sideskirts to the vehicle.
+**"Advanced SLAT Armor** - 10% of vehicle cost
+- Adds cage armor to the vehicle which will stop rockets.
+**"NERA Armor** - 20% of vehicle cost
+- Adds NERA Plating To Tanks
+**"Bulletproof Glass** - 50,000
+- Replaces all glass with bulletproof glass
+**"Reactive Armor Tiles** - 25% of vehicle cost
+- Adds reactive armor tiles to the vehicle making it more resistant
+**"Electronic ERA** - 35% of vehicle cost
+- Adds reactive armor tiles detonated by a MAWS
+- Can use existing MAWS or APS for guidance
+**"Roof Armor** - 10% of vehicle cost
+- Adds lightweight composite armor to provide some protection against EFPs or cluster munitions
+-  Covers only crucial areas (i.e. doesn't cover every single part)
+**" 'Gunner Shield** - 100,000
+- Adds a gun shield if a weapon is roof mounted
+**" '360 Gun Turret** - 100,000
+- Adds a 360° shield around the roof mounted weapon protecting the gunner from all sides.
+**" 'Reinforced Chassis** - 90,000
+- Reinforces the chassis which will help with off roading.
+**" 'Reinforced Underside** - 150,000
+- Reinforces the belly of the vehicle, making it more resistant to mines and IEDs
+
+```Miscellaneous Gadgets/Modifications```
+**'Camera System (Interior)** - 120,000
+- Adds a camera system
+- Viewable from interior of the vehicle
+**Camera System (Exterior)** - 80,000
+- Adds a camera system
+- Viewable from a screen on the exterior
+**"Smoke Launcher**- 70,000
+- Adds 2 smoke launchers to the vehicle
+- 10 Smoke Grenades Each
+**Mine Blade**- 100,000
+- Bulldozer Blade mounted to the vehicle
+**" 'Short Range Radar** - 600,000
+- Adds radar with <25 km range
+**" 'Medium Range Radar** - 1,500,000
+- Adds radar with >25 km range and <100 km range
+- 2 Mod Slots
+**" 'Long Range Radar** - 3,000,000
+- Adds radar with >100 km range
+- 4 Mod Slots
+**Electronic Warfare System** - 100% of electronic warfare system cost
+- Installs a specified jammer, ELINT, or ESM system
+- **Ask for price if not in shop**
+- Cannot be a system intended for aircraft
+- Replaces turret (if system is sufficiently large)
+- 4 Mod Slots
+
+**"Autoloader** - 800,000
+- Removes 1 MP from the vehicle 
+- The reload time constant 5 seconds 
+- Can cause a round cookoff if hit
+- Cannot be installed in vehicles which already have an autoloader
+- Only useable on tanks
+**Reconfigurable Wheel Track System** - 500,000
+- Replaces the wheels with a reconfigurable wheel system which allows the wheels to transform into a small track system.
+**Off-road Track Set** - 450,000
+- Improves off-road and road traction
+- Decreases speed by 5%
+**'Remote Weapon Station** - 420,000
+- Adds a RWS to replace the vehicle's roof mounted machine gun (if applicable)
+- Controllable from within the vehicle
+
+**Trophy APS** - 850,000 (United States and Israel only)
+- Installs Trophy APS 
+- Usable on MBTs
+**Trophy MV APS** - 600,000 (United States and Israel only)
+- Installs Trophy MV APS 
+- Usable on light and medium armored vehicles (Stryker, Bradley, etc.)
+**Trophy LV APS** - 400,000 (United States and Israel only)
+- Installs Trophy LV APS
+- Usable on light vehicles such as jeeps and 4x4s
+**GL5 APS** - 700,000 (China only) 
+-  Installs GL5 APS 
+- Usable on MBTs
+**AMAP-ADS** - 900,000 (European Union only)
+- Installs AMAP-ADS 
+**LEDS-150 APS** - 750,000 (European Union only)
+- Installs LEDS-150 APS
+**Arena APS** - 900,000 (Russia only)
+- Installs Arena APS
+- Usable on MBTs and medium armored vehicles 
+**Shtora-1 APS** - 300,000 (Russia only)
+- Installs Shtora-1 electro-optical APS
+- Usable on MBTs and medium armored vehicles 
+**Iron Fist APS** - 650,000 (SAF only)
+- Installs Iron Fist APS
+**Drozd APS** - 325,000 (Independents and Russia only)
+- Installs Drozd APS
+***Vehicles which already have an APS installed can install a new one. However, you cannot stack multiple of the same APS __mod__.***
+
+```Light Vehicle Refits```
+__**M1114 Humvee**__
+**ZEUS HLONS** - 300,000
+ **M1165 Up-Armored** - 50,000
+**Starstreak*** - 1,000,000
+**M1097 Avenger*** - 750,000
+**TOW missile*** - 500,000
+**Survivable Combat Tactical Vehicle** - 150,000
+**Active Denial System** - 200,000
+
+__**Jeep**__
+**M151A2 TOW** - 200,000
+**M40 106 mm recoilless rifle** - 250,000
+**M151A2 FAV** - 400,000
+
+__**Cougar H/HE**__
+**Fire Support Cougar** - 400,000
+
+__**L-ATV**__
+**M1278 Heavy Guns Carrier** - 150,000
+**M1281 Close Combat Weapons Carrier** - 60,000
+
+**__GAZ Tigr__**
+**MZ-204 Highlander Mortar** - 500,000
+**Gibka-S** - 450,000
+
+**__Enok__**
+**Tankhunter** - 150,000
+
+__**Land Rover Defender**__
+**Panama Refit*** - 200,000 
+- Installs IED Ground Penetrating Radar
+**Snatch Refit*** - 500,000 
+- Heavily armored
+- Personal Weapons concealed
+- No Weapons of its own
+**SVX Refit*** - 100,000 
+- Superior navigation and suspension 
+- High intensity driving lamps for night patrols
+
+```Tank Refits```
+__**Leopard Series Tanks**__
+**Revolution Package** - 600,000
+- For the 2A4 Only
+**Leopard 2 140mm*** - 1,000,000
+**Leopard 2A6 PSO** - 500,000
+
+__**Leclerc**__
+**Leclerc XLR** - 450,000
+**Leclerc T4 Terminateur** - 950,000
+
+__**T-80 Refits**__
+**T-80B*** - 750,000
+**T-80U-M1 Bars*** - 1,800,000
+
+__**M1 Abrams**__
+**TUSK II** - 500,000
+- Upgrades Abrams to TUSK II protection standards
+**CATTB** - 1,200,000 
+- Adds XM291 dual-caliber (120mm or 140mm) ETC cannon and autoloader
+- Protection equivalent to M1A2 SEPv3
+- M1A2C or older variants only
+
+__**Challenger 2**__
+**Challenger 2 TES** - 1,250,000
+**Challenger 2 Black Night** - 750,000
+**Challenger 2 Streetfighter II** - 1,500,000
+
+__**TAM**__
+**TAM 2 C** - 750,000
+**TAM 2IP** - 1,000,000
+**TAM VCLC** - 7,000,000
+
+__**M-41 Walker Bulldog**__
+**MB-3 Tamoyo*** - 2,000,000
+**M-41 HAKO*** - 900,000
+
+__**M48 Patton**__
+**M67A2*** - 700,000
+**CM-12***  - 2,000,000
+**Super M-48*** - 1,250,000
+**Zulfiqar-1*** - 1,250,000
+
+__**PT-91 Twardy**__
+**PT-16** - 800,000
+**PT-72U** - 500,000
+
+__**T-55**__
+**BTR-T*** - 750,000
+**TO-55*** - 1,000,000
+**Tifon 2A** - 2,500,000
+**Type 72Z*** - 700,000
+**T-55E MK II*** - 1,200,000
+**Achzarit APC*** - 600,000
+
+__**M60 Patton**__
+**M60A2 Starship*** - 2,000,000
+**Magach 7*** - 1,250,000
+**M60-2000 MBT*** - 1,500,000
+
+__**T-72**__
+**T-72M1 Slovak Moderna Turret Refit*** - 1,000,000
+**T-72 Adra*** - 750,000
+**Golan-1000** - 4,500,000
+**T-72 FINMOD 3** - 1,700,000
+**BMO-T** - 300,000
+
+__**VT-4**__
+**VN20** - 500,000
+
+__**VT-5U**__
+**VN17** - 200,000
+
+```IFV/APC Refits```
+__**M113**__
+**M58 Wolf*** - 200,000
+**FMC 210CA Skidder*** - 500,000
+**M113A4 ICV** - 500,000 
+**M113A4 ARV** - 600,000
+**M163 Vulcan*** - 750,000
+**NM142*** - 750,000
+**M106 Mortar Carrier** - 800,000
+**M901 ITV** - 900,000
+**SIDAM 25** - 750,000
+**M132 Armored Flamethrower "Zippo"** - 1,500,000
+**M113 ADATS** - 1,500,000
+
+__**M2/M3 Bradley**__
+**BUSK III** - 300,000
+**Bradley ADATS** - 1,500,000
+
+__**ZBD-04**__
+**ZBD-04 HJ-8** - 1,000,000 
+- Installs 4 HJ-8s
+- Turret Mounted
+
+__**T-15 Armata**__
+**BMP T-15 "Terminator-3"** - 250,000 
+
+__**CV90**__
+**AMOS 120mm Mortar** - 1,250,000
+
+__**Stryker Family**__
+**Tracked Stryker** - 250,000
+**Stryker AUDS** - 600,000
+**Stryker MEHEL** - 800,000
+
+__**Patria AMV-XP**__
+**105mm Smoothbore Cannon** - 1,250,000
+**120mm Smoothbore Cannon** - 2,000,000
+**AMOS 120mm Mortar** - 1,250,000
+
+__**Boxer**__
+**Boxer CRV** - 1,200,000
+**Artillery Gun Module** - 3,000,000
+**Boxer ARTHUR** - 3,000,000
+**Boxer Mobile LWS** - 1,000,000
+**Boxer EW** - 10,000,000
+
+__**Fuchs**__
+**TPz 1A1 EloKa*** - 1,000,000 
+**RASIT***- 2,500,000 
+
+__**Marder**__
+**Marder Roland*** - 2,500,000
+**Marder Close Combat Vehicle** - 350,000
+
+__**Lynx**__
+**Lynx 120** - 1,500,000
+
+__**PT 76**__
+**PT-76(M) Refit*** - 600,000
+
+__**AMX-13**__
+**AMX-13PA8 Escorpion-2** - 300,000
+**AMX-13/105 Retrofit*** - 120,000
+
+**__BMP-2M__**
+**BVP-M2 SKCZ IFV** - 400,000
+
+**__BMP-3__**
+**BRM-3K "Rys"*** - 200,000
+**BMP-3F** - 250,000
+**Ptitselov** - 1,750,000
+
+**__BMD-4M__**
+**Ptitselov** - 2,000,000
+
+```Modernizations```
+Modernizations can **only** be used if the vehicle was a 2nd Gen MBT, prototype tank produced before 2000, or light tank produced before 2000 (Variants included). Modernizations do not take up mod slots.
+{The Modernized Gun Modernization and the Hull Change take no mod slots but are excluded from the other rules above.) 
+**Stabilizer** - 5% of vehicle cost
+- Installs a stabilizer to the tank 
+- Aiming is easier
+**Bore Evacuator** - 5% of vehicle cost
+- Installs a Bore evacuator to the tank
+- Removes fumes from inside of the barrel, increasing fire rate.
+**Modernized Gun **- 10% of vehicle cost
+- Exchanges Gun Variant
+- The gun must be in a caliber which can be mounted onto the tank and a normal gun variant (I.E no weird prototypes of guns.)
+- 5mm Change Upwards or Downwards
+**Composite Armor** - 10% of vehicle cost
+- Replaces with composite armor
+- Doubles effective armor thickness 
+- Decreases the speed of the tank by 20%.
+**Modernized Engine **- 10% of vehicle cost
+- Installs Modern Engine
+- Changes horsepower accordingly
+**Navigation Systems and GPS** - 5% of vehicle cost
+- Modern Navigation and GPS Systems 
+**Fire Control System** - 10% of vehicle cost
+- Modern FCS 
+- Much easier to aim
+**Hull changes** - 5% of vehicle cost
+- Adds changes to the hull of the vehicle. It changes the shape of the vehicle and does not take up mod slots.
+
+```Advanced Modification```
+**Turret Removal** - 100,000
+- Removes turret and main cannon of the vehicle
+- Increases the speed by 30%
+- **Needed for further Conversions**
+
+```Conversion Modifications```
+***Conversion mods do not take up slots on the vehicle. They will change how the vehicle functions.***
+These can only be applied to tanks, armored cars and tank analogs.
+**Open Top Tank Destroyer** - 15% of vehicle cost
+- Removes the roof of the vehicle's turret
+- Thins out armor
+- Vehicle is 10% lighter than original weight
+- Allows a larger gun (Maximum of 15 mm larger)
+**Mounted Tank Destroyer** - 15% of vehicle cost
+- Adds about 5 tons to the vehicle
+- Upgradeable Gun (Maximum of 35 mm)
+- Has to be mounted and cannot be in a turret
+**Open Top Mounted Tank Destroyer** - 15% of vehicle cost
+- Removes the Turret and Roof
+- Makes it about 15 tons lighter 
+- Upgradeable Gun to 40mm
+**APC Conversion** - 10% of vehicle cost
+- Turns the vehicle into a APC
+- Removes most interiors and replaces them with troop seating 
+- Carries a different amount of troops (Heavy Tanks = 10 | MBTs = 8 | Light Tanks = 5)
+
+**SPAAG Conversion** - 10% of vehicle cost
+- Installs 2 20-30mm cannons and short-range target detection and tracking radar
+- Carries around 400 rounds of ammunition 
+- Replaces turret
+**Reconnaissance Vehicle** - 15% of vehicle cost
+- Adds ground surveillance radar and radio equipment
+- Adds mine and chemical detectors
+- Adds infrared searchlight
+- Adds thermal imaging if not already installed
+- Removes space for dismounts
+- Replaces turret
+**Giraffe Refit** - 10% of vehicle cost
+- Installs an extending arm
+- Replaces the turret. 
+- Can extend up to 6 meters 
+- Carries 1 large bore gun (up to 60 mm) and up to 3 small bore guns (up to 14mm)
+**ATGM Launcher** - 10% of vehicle cost
+- Installs 3 ATGM Mounts
+- Nation of Origin Only
+- Replaces Turret
+**Autocannon** - 10% of vehicle cost
+- Adds a <60mm autocannon (of your faction's origin)
+- Replaces Main Gun 
+- Installable with all other conversion kits
+
+```Aircraft Weapons```
+**7.62 Machine Gun** - 100,000
+**.50 Cal Machine Gun** - 150,000
+**7.62 Minigun** - 200,000
+**<30mm Autocannon** - 250,000
+**30-50mm Cannon** - 400,000
+- Not for armed Light Aircraft
+**50-105mm Cannon** - 550,000
+- Not for Light Aircraft
+**Weapon Hardpoints **- 400,000
+- Installs 2 Hardpoints for a variety of weapons
+- Not for armed Light Aircraft
+**Retractable Guns** - 300,000
+- Allows an aircraft's muzzle to be covered by a retractable door to maintain stealth capabilities, like the F-22.
+**Weapons Rack** - 800,000 
+- Provides room for up to 10 SDB-sized weapons or <152mm missile tubes
+- Only Large Aircraft
+**Aerial Weapons Bay** - 1,000,000
+- Gives an aircraft a small weapons bay that can either carry 3 bombs or 2 missiles in it.
+- Only pre-1960 Light Aircraft.
+**Cargo Bay Weapons Conversion** - 700% of unit cost
+- Converts cargo space to hold racks of missiles or bombs in a system similar to Rapid Dragon
+- Only transport aircraft
+- Independents only
+
+```Aircraft Systems```
+**Countermeasure Dispenser System** - 400,000
+- Adds an existing flare and chaff dispensing system within reason
+**Directional Infrared Counter Measures** - 400,000
+- Adds an existing DIRCM system within reason
+**Micro Drone Storage** - 500,000
+- Takes up 2 hardpoints
+- Adds 40 micro UAVs deployed from underwing canisters
+- Only Light Aircraft
+**Modern Radar** - 1,500,000
+- Installs modern radar
+- Nation of origin only
+- Only Light Aircraft
+**Fly-By-Wire** - 500,000
+- Installs a fly-by-wire system
+**Analog to Digital Avionics Conversion** - 500,000
+- Analog avionics converted to digital avionics; controls are better and allow tighter turns
+**Digital to Analog Avionics Conversion** - 500,000
+- Digital avionics converted to analog avionics; controls are worse but plane is less suspect to EW
+**Light Armor** - 250,000
+- Adds light armor
+- Lose 5% speed
+- Decrease in operating altitude by 5% 
+**FLIR Camera** - 500,000
+- Installs an Infrared Camera
+- Capable of night operations
+
+```Aircraft Propulsion```
+**Retractable In-Flight Refueling Probe** - 500,000
+- Installs the ability for mid-air refueling
+- Not for Helicopters
+**Fuel Pods** - 200,000
+**Engine Anti-Ice System** - 400,000
+- Installs a system to dispense anti icing to the engine ensuring the plane is all-weather capable
+**Engine Upgrade** - 20% of unit cost
+- Allows upgrade to a reasonable new engine of similar dimensions
+**JATO Pods** - 200,000 
+- Installs JATO rocket pods, decreasing the length of runway required for takeoff by 60%
+- Gives aircraft with existing JATO pod loadouts their specific loadouts instead (e.g. C-130 from Operation Credible Sport)
+- Not for Helicopters
+```Aircraft Refits```
+**Aircraft Modernization Refit** - 4,000,000
+- Upgrades an aircraft's parts, weapons (does not add weapons if there was none originally), radar, systems, etc. Exceptions are electronic warfare capabilities, carrier or catapult operation capabilities, and stealth capabilities.
+- Can only be used for pre-2000 planes.
+- Upgrades can only be up to 20 years after the aircraft's existing equipment
+- Extended information post required.
+
+**__F-4E__**
+**F-4G Wild Weasel V*** - 3,000,000
+**F-4E Kurnass 2000*** - 3,000,000
+
+**__A-10__**
+**A-10 PCAS** - 1,000,000
+
+**__F-15__**
+**F-15SE Silent Eagle** - 1,500,000
+
+**__F/A-18E/F Super Hornet__**
+**Advanced Super Hornet** - 1,600,000
+
+**__F-35A and F-35C__** 
+**Sidekick Racks** - 750,000
+
+```Helicopter Refits```
+**Stealth Operations Helicopter Refit** - 125% of helicopter cost 
+- Adds stub wings if the helicopter does not have them already (1 hardpoint on each side)
+- Changes the shape of the fuselage and engine intakes/exhausts to reduce RCS
+- Changes the helicopter's body to composites
+- Modifies rotor design to be quieter but reduces maximum speed by 10%
+- Cannot stack with other refits 
+
+**Manned-Unmanned Teaming Refit** - 60% of helicopter cost
+- Adds electronic systems to control up to two UAVs simultaneously
+- Works with any type of UAV from any faction
+- Can "switch" to controlling other UAVs in flight
+
+**__Mi-24__**
+**Mi-24 SuperHind Mk. III*** - 750,000
+**Mi-PSV** - 400,000
+**Mi-24PU-1** - 700,000
+**AH-2 Sabre** - 500,000
+
+**__Mi-8__**
+**Mi-8SMV*** - 600,000
+**Mi-8AD*** - 250,000
+**Mi-8AV*** - 300,000
+**Mi-8MTR1** - 900,000
+**Mi-8MS** - 400,000
+
+**__UH-60__**
+**VH-60N*** - 500,000
+**AH-60L Arpía IV** - 1,000,000
+**Optionally Piloted Black Hawk** - 400,000
+**HH-60W Jolly Green II** - 350,000
+
+**__UH-1 variants__**
+**JUH-1 SOTAS*** - 250,000
+**Bell Huey II*** - 350,000
+
+**__CH-47 Chinook__**
+**ACH-47A*** - 400,000
+**XM204 Aerial Artillery Weapon System*** - 1,000,000
+
+**__AW101__**
+**AW101 VVIP** - 500,000
+
+**__Z-9__**
+**Z-9WA** - 1,250,000
+
+**__Z-18__**
+**Z-18J** - 1,000,000
+
+```Miscellaneous Refits```
+**Fuselage changes** - 1,000,000
+- Alters the fuselage of the aircraft to change its shape and or size to a __reasonable extent__
+- Can be used with any type of aircraft
+- Does not take up mod slots
+**Luxury Refit** - 2,000,000
+- Refits an aircraft to be more luxurious
+- Cannot be used on fighter aircraft or unmanned vehicles
+- Cannot be used on aircraft with an asterisk next to them
+- Is intended mainly for civilian shop aircraft
+
+
+```Research Store Modifications```
+**Augmented Reality Networked Warfighter** - 20%
