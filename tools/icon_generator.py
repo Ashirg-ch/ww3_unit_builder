@@ -55,6 +55,7 @@ if __name__ == '__main__':
         "Supply",
         "Medical",
         "Hospital",
+        "Communications",
         "Generic"
     ]
 
