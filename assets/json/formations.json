@@ -307,18 +307,6 @@
       {
         "name": "Combined Arms Battalion HQ Company (Early stage)",
         "count": 1
-      },
-      {
-        "name": "Sniper Squad (Early stage)",
-        "count": 1
-      },
-      {
-        "name": "Heavy Mortar Platoon (Early stage)",
-        "count": 1
-      },
-      {
-        "name": "Medical Treatment Platoon (Early stage)",
-        "count": 1
       }
     ]
   },
@@ -326,10 +314,50 @@
     "name": "Combined Arms Battalion HQ Company (Early stage)",
     "size": "company",
     "type": "combined arms headquarters",
+    "subFormations": [
+      {
+        "name": "Sniper Squad (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Medical Treatment Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Heavy SP Mortar Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Retransmission Team",
+        "count": 1
+      },
+      {
+        "name": "Armored Cavalry Troop (Early stage)",
+        "count": 1
+      }
+    ],
     "units": []
   },
   {
-    "name": "Cavalry Scout Squad (Early stage)",
+    "name": "Retransmission Team",
+    "size": "team",
+    "type": "communications",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Armored Cavalry Squad (Early stage)",
     "size": "squad",
     "type": "armored cavalry",
     "units": [
@@ -345,13 +373,32 @@
     ]
   },
   {
-    "name": "Cavalry Scout Platoon (Early stage)",
+    "name": "Mechanized Cavalry Scout Squad",
+    "size": "squad",
+    "type": "armored cavalry",
+    "units": [
+      {
+        "name": "Warrior IFV",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Cavalry Troop (Early stage)",
     "size": "platoon",
     "type": "armored cavalry",
     "subFormations": [
       {
-        "name": "Cavalry Scout Squad (Early stage)",
+        "name": "Armored Cavalry Squad (Early stage)",
         "count": 3
+      },
+      {
+        "name": "Mechanized Cavalry Scout Squad",
+        "count": 1
       }
     ],
     "units": [
@@ -363,11 +410,51 @@
           "Augmented Reality Networked Warfighter",
           "BRM-3K \"Rys\""
         ]
+      },
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
       }
     ]
   },
   {
-    "name": "Heavy Mortar Section (Early stage)",
+    "name": "Mechanized Cavalry Scout Troop (Early stage)",
+    "size": "platoon",
+    "type": "armored cavalry",
+    "subFormations": [
+      {
+        "name": "Mechanized Cavalry Scout Squad",
+        "count": 3
+      },
+      {
+        "name": "Armored Cavalry Squad (Early stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "BMP-3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "BRM-3K \"Rys\""
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy SP Mortar Section (Early stage)",
     "size": "section",
     "type": "motorized mortar",
     "units": [
@@ -390,7 +477,7 @@
     ]
   },
   {
-    "name": "Medium Mortar Section (Early stage)",
+    "name": "Medium SP Mortar Section (Early stage)",
     "size": "section",
     "type": "motorized mortar",
     "units": [
@@ -413,12 +500,55 @@
     ]
   },
   {
-    "name": "Heavy Mortar Platoon (Early stage)",
+    "name": "Heavy SP Mortar Platoon (Early stage)",
     "size": "platoon",
     "type": "motorized mortar",
     "subFormations": [
       {
-        "name": "Heavy Mortar Section (Early stage)",
+        "name": "Heavy SP Mortar Section (Early stage)",
+        "count": 4
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M113",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medium SP Mortar Platoon (Early stage)",
+    "size": "platoon",
+    "type": "motorized mortar",
+    "subFormations": [
+      {
+        "name": "Medium SP Mortar Section (Early stage)",
         "count": 4
       }
     ],
@@ -532,7 +662,10 @@
     "units": [
       {
         "name": "PMC Sniper",
-        "count": 10
+        "count": 10,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
       },
       {
         "name": "Humvee",
