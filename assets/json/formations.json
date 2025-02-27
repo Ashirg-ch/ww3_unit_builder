@@ -315,6 +315,10 @@
       {
         "name": "Heavy Mortar Platoon (Early stage)",
         "count": 1
+      },
+      {
+        "name": "Medical Treatment Platoon (Early stage)",
+        "count": 1
       }
     ]
   },
@@ -325,15 +329,84 @@
     "units": []
   },
   {
+    "name": "Cavalry Scout Squad (Early stage)",
+    "size": "squad",
+    "type": "armored cavalry",
+    "units": [
+      {
+        "name": "BMP-3",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "BRM-3K \"Rys\""
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cavalry Scout Platoon (Early stage)",
+    "size": "platoon",
+    "type": "armored cavalry",
+    "subFormations": [
+      {
+        "name": "Cavalry Scout Squad (Early stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "BMP-3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "BRM-3K \"Rys\""
+        ]
+      }
+    ]
+  },
+  {
     "name": "Heavy Mortar Section (Early stage)",
     "size": "section",
-    "type": "",
+    "type": "motorized mortar",
     "units": [
       {
         "name": "M113",
-        "count": 3,
+        "count": 2,
         "modifications": [
           "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "120mm Mortar"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medium Mortar Section (Early stage)",
+    "size": "section",
+    "type": "motorized mortar",
+    "units": [
+      {
+        "name": "M113",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "81mm Mortar"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2,
+        "modifications": [
           "Augmented Reality Networked Warfighter"
         ]
       }
@@ -342,14 +415,114 @@
   {
     "name": "Heavy Mortar Platoon (Early stage)",
     "size": "platoon",
-    "type": "heavy mortar",
+    "type": "motorized mortar",
     "subFormations": [
       {
         "name": "Heavy Mortar Section (Early stage)",
+        "count": 4
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M113",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medical Treatment Squad (Early stage)",
+    "size": "squad",
+    "type": "medical",
+    "units": [
+      {
+        "name": "OT-64 SKOT",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medical Treatment Platoon (Early stage)",
+    "size": "platoon",
+    "type": "medical",
+    "subFormations": [
+      {
+        "name": "Medical Treatment Squad (Early stage)",
         "count": 3
       }
     ],
     "units": [
+      {
+        "name": "Supacat All-Terrain Mobility Platform",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 6,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
     ]
   },
   {

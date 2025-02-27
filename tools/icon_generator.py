@@ -22,6 +22,9 @@ if __name__ == '__main__':
         "Motorized Cavalry",
         "Sniper",
         "Mortar",
+        "Mortar Heavy",
+        "Mortar Medium",
+        "Mortar Light",
         "Motorized Mortar",
         "Motorized Infantry",
         "Motorized Anti-tank",
@@ -69,8 +72,11 @@ if __name__ == '__main__':
         ["Air Defense Headquarters", "13031000001301009800"],
         ["Engineer Headquarters", "13031000001407009800"],
         ["Medical Headquarters", "13031000001613009800"],
+        ["Mortar Headquarters", "13031000001308009800"],
+        #["Wheeled Mortar Headquarters", "13031000001308029800"] # Doesn't work
     ]
     if not os.path.exists(path):
+        print('Creating directory "{}"'.format(path))
         os.makedirs(path)
 
     def write_file(symbol, unit_type):

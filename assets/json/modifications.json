@@ -1,896 +1,1147 @@
 [
   {
     "name": "Camouflage Net",
+    "noRestrictions": false,
     "fixedCost": 50000
   },
   {
     "name": "Multi-Spectral Camouflage",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "Upgraded Engine",
+    "noRestrictions": false,
     "relativeCost": 0.2
   },
   {
     "name": "Roof Mounted 5.56 MG",
+    "noRestrictions": false,
     "fixedCost": 25000
   },
   {
     "name": "7.62 Roof Mounted MG",
+    "noRestrictions": false,
     "fixedCost": 50000
   },
   {
     "name": ".50 Cal Roof Mounted MG",
+    "noRestrictions": false,
     "fixedCost": 75000
   },
   {
     "name": "60mm Mortar",
+    "noRestrictions": false,
     "fixedCost": 100000,
     "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "81mm Mortar",
+    "noRestrictions": false,
     "fixedCost": 125000,
     "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "120mm Mortar",
+    "noRestrictions": false,
     "fixedCost": 175000,
     "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "7.62 Roof Mounted Minigun",
+    "noRestrictions": false,
     "fixedCost": 125000
   },
   {
     "name": "Mounted Flamethrower",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "Autocannon",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "Grenade Launcher",
+    "noRestrictions": false,
     "fixedCost": 75000
   },
   {
     "name": "ATGM Launcher",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "Recoilless rifle",
+    "noRestrictions": false,
     "fixedCost": 120000
   },
   {
     "name": "Small MLRS Tubes",
+    "noRestrictions": false,
     "fixedCost": 2000000,
     "supplyCategory": "mlrs"
   },
   {
     "name": "Medium MLRS Tubes",
+    "noRestrictions": false,
     "fixedCost": 3500000,
     "supplyCategory": "mlrs"
   },
   {
     "name": "MANPAD Launcher",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "Simple AT Armor",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "Sideskirt Armor",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "Advanced SLAT Armor",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "NERA Armor",
+    "noRestrictions": false,
     "relativeCost": 0.2
   },
   {
     "name": "Bulletproof Glass",
+    "noRestrictions": false,
     "fixedCost": 50000
   },
   {
     "name": "Reactive Armor Tiles",
+    "noRestrictions": false,
     "relativeCost": 0.25
   },
   {
     "name": "Electronic ERA",
+    "noRestrictions": false,
     "relativeCost": 0.35
   },
   {
     "name": "Roof Armor",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "Gunner Shield",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "360 Gun Turret",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "Reinforced Chassis",
+    "noRestrictions": false,
     "fixedCost": 90000
   },
   {
     "name": "Reinforced Underside",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "Camera System (Interior)",
+    "noRestrictions": false,
     "fixedCost": 120000
   },
   {
     "name": "Camera System (Exterior)",
+    "noRestrictions": false,
     "fixedCost": 80000
   },
   {
     "name": "Smoke Launcher",
+    "noRestrictions": false,
     "fixedCost": 70000
   },
   {
     "name": "Mine Blade",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "Short Range Radar",
+    "noRestrictions": false,
     "fixedCost": 600000
   },
   {
     "name": "Medium Range Radar",
+    "noRestrictions": false,
     "fixedCost": 1500000
   },
   {
     "name": "Long Range Radar",
+    "noRestrictions": false,
     "fixedCost": 3000000
   },
   {
     "name": "Electronic Warfare System",
+    "noRestrictions": false,
     "relativeCost": 1.0,
     "supplyCategory": "electronicWarfareSystem"
   },
   {
     "name": "Autoloader",
+    "noRestrictions": false,
     "fixedCost": 800000
   },
   {
     "name": "Reconfigurable Wheel Track System",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Off-road Track Set",
+    "noRestrictions": false,
     "fixedCost": 450000
   },
   {
     "name": "Remote Weapon Station",
+    "noRestrictions": false,
     "fixedCost": 420000
   },
   {
     "name": "Trophy APS",
+    "noRestrictions": false,
     "fixedCost": 850000
   },
   {
     "name": "Trophy MV APS",
+    "noRestrictions": false,
     "fixedCost": 600000
   },
   {
     "name": "Trophy LV APS",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "GL5 APS",
+    "noRestrictions": false,
     "fixedCost": 700000
   },
   {
     "name": "AMAP-ADS",
+    "noRestrictions": false,
     "fixedCost": 900000
   },
   {
     "name": "LEDS-150 APS",
+    "noRestrictions": false,
     "fixedCost": 750000
   },
   {
     "name": "Arena APS",
+    "noRestrictions": false,
     "fixedCost": 900000
   },
   {
     "name": "Shtora-1 APS",
+    "noRestrictions": false,
     "fixedCost": 300000
   },
   {
     "name": "Iron Fist APS",
+    "noRestrictions": false,
     "fixedCost": 650000
   },
   {
     "name": "Drozd APS",
+    "noRestrictions": false,
     "fixedCost": 325000
   },
   {
     "name": "ZEUS HLONS",
+    "noRestrictions": false,
     "fixedCost": 300000
   },
   {
     "name": "M1165 Up-Armored",
+    "noRestrictions": false,
     "fixedCost": 50000
   },
   {
-    "name": "Starstreak*",
+    "name": "Starstreak",
+    "noRestrictions": true,
     "fixedCost": 1000000
   },
   {
-    "name": "M1097 Avenger*",
+    "name": "M1097 Avenger",
+    "noRestrictions": true,
     "fixedCost": 750000
   },
   {
-    "name": "TOW missile*",
+    "name": "TOW missile",
+    "noRestrictions": true,
     "fixedCost": 500000
   },
   {
     "name": "Survivable Combat Tactical Vehicle",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "Active Denial System",
+    "noRestrictions": false,
     "fixedCost": 200000
   },
   {
     "name": "M151A2 TOW",
+    "noRestrictions": false,
     "fixedCost": 200000
   },
   {
     "name": "M40 106 mm recoilless rifle",
+    "noRestrictions": false,
     "fixedCost": 250000
   },
   {
     "name": "M151A2 FAV",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "Fire Support Cougar",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "M1278 Heavy Guns Carrier",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "M1281 Close Combat Weapons Carrier",
+    "noRestrictions": false,
     "fixedCost": 60000
   },
   {
     "name": "MZ-204 Highlander Mortar",
-    "fixedCost": 500000
+    "noRestrictions": false,
+    "fixedCost": 500000,
+    "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "Gibka-S",
+    "noRestrictions": false,
     "fixedCost": 450000
   },
   {
     "name": "Tankhunter",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
-    "name": "Panama Refit*",
+    "name": "Panama Refit",
+    "noRestrictions": true,
     "fixedCost": 200000
   },
   {
-    "name": "Snatch Refit*",
+    "name": "Snatch Refit",
+    "noRestrictions": true,
     "fixedCost": 500000
   },
   {
-    "name": "SVX Refit*",
+    "name": "SVX Refit",
+    "noRestrictions": true,
     "fixedCost": 100000
   },
   {
     "name": "Revolution Package",
+    "noRestrictions": false,
     "fixedCost": 600000
   },
   {
-    "name": "Leopard 2 140mm*",
+    "name": "Leopard 2 140mm",
+    "noRestrictions": true,
     "fixedCost": 1000000
   },
   {
     "name": "Leopard 2A6 PSO",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Leclerc XLR",
+    "noRestrictions": false,
     "fixedCost": 450000
   },
   {
     "name": "Leclerc T4 Terminateur",
+    "noRestrictions": false,
     "fixedCost": 950000
   },
   {
-    "name": "T-80B*",
+    "name": "T-80B",
+    "noRestrictions": true,
     "fixedCost": 750000
   },
   {
-    "name": "T-80U-M1 Bars*",
+    "name": "T-80U-M1 Bars",
+    "noRestrictions": true,
     "fixedCost": 1800000
   },
   {
     "name": "TUSK II",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "CATTB",
+    "noRestrictions": false,
     "fixedCost": 1200000
   },
   {
     "name": "Challenger 2 TES",
+    "noRestrictions": false,
     "fixedCost": 1250000
   },
   {
     "name": "Challenger 2 Black Night",
+    "noRestrictions": false,
     "fixedCost": 750000
   },
   {
     "name": "Challenger 2 Streetfighter II",
+    "noRestrictions": false,
     "fixedCost": 1500000
   },
   {
     "name": "TAM 2 C",
+    "noRestrictions": false,
     "fixedCost": 750000
   },
   {
     "name": "TAM 2IP",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "TAM VCLC",
+    "noRestrictions": false,
     "fixedCost": 7000000
   },
   {
-    "name": "MB-3 Tamoyo*",
+    "name": "MB-3 Tamoyo",
+    "noRestrictions": true,
     "fixedCost": 2000000
   },
   {
-    "name": "M-41 HAKO*",
+    "name": "M-41 HAKO",
+    "noRestrictions": true,
     "fixedCost": 900000
   },
   {
-    "name": "M67A2*",
+    "name": "M67A2",
+    "noRestrictions": true,
     "fixedCost": 700000
   },
   {
-    "name": "Super M-48*",
+    "name": "Super M-48",
+    "noRestrictions": true,
     "fixedCost": 1250000
   },
   {
-    "name": "Zulfiqar-1*",
-    "fixedCost": 1250000
+    "name": "Zulfiqar-1",
+    "noRestrictions": true,
+    "fixedCost": 1250000,
+    "supplyCategory": "mbt"
   },
   {
     "name": "PT-16",
+    "noRestrictions": false,
     "fixedCost": 800000
   },
   {
     "name": "PT-72U",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
-    "name": "BTR-T*",
-    "fixedCost": 750000
+    "name": "BTR-T",
+    "noRestrictions": true,
+    "fixedCost": 750000,
+    "supplyCategory": "ifvApc",
+    "overrideSupplyCategory": true
   },
   {
-    "name": "TO-55*",
+    "name": "TO-55",
+    "noRestrictions": true,
     "fixedCost": 1000000
   },
   {
     "name": "Tifon 2A",
+    "noRestrictions": false,
     "fixedCost": 2500000
   },
   {
-    "name": "Type 72Z*",
+    "name": "Type 72Z",
+    "noRestrictions": true,
     "fixedCost": 700000
   },
   {
-    "name": "T-55E MK II*",
+    "name": "T-55E MK II",
+    "noRestrictions": true,
     "fixedCost": 1200000
   },
   {
-    "name": "Achzarit APC*",
-    "fixedCost": 600000
+    "name": "Achzarit APC",
+    "noRestrictions": true,
+    "fixedCost": 600000,
+    "supplyCategory": "ifvApc",
+    "overrideSupplyCategory": true
   },
   {
-    "name": "M60A2 Starship*",
+    "name": "M60A2 Starship",
+    "noRestrictions": true,
     "fixedCost": 2000000
   },
   {
-    "name": "Magach 7*",
+    "name": "Magach 7",
+    "noRestrictions": true,
     "fixedCost": 1250000
   },
   {
-    "name": "M60-2000 MBT*",
+    "name": "M60-2000 MBT",
+    "noRestrictions": true,
     "fixedCost": 1500000
   },
   {
-    "name": "T-72M1 Slovak Moderna Turret Refit*",
+    "name": "T-72M1 Slovak Moderna Turret Refit",
+    "noRestrictions": true,
     "fixedCost": 1000000
   },
   {
-    "name": "T-72 Adra*",
+    "name": "T-72 Adra",
+    "noRestrictions": true,
     "fixedCost": 750000
   },
   {
     "name": "Golan-1000",
+    "noRestrictions": false,
     "fixedCost": 4500000
   },
   {
     "name": "T-72 FINMOD 3",
+    "noRestrictions": false,
     "fixedCost": 1700000
   },
   {
     "name": "BMO-T",
-    "fixedCost": 300000
+    "noRestrictions": false,
+    "fixedCost": 300000,
+    "supplyCategory": "ifvApc",
+    "overrideSupplyCategory": true
   },
   {
     "name": "VN20",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "VN17",
+    "noRestrictions": false,
     "fixedCost": 200000
   },
   {
-    "name": "M58 Wolf*",
+    "name": "M58 Wolf",
+    "noRestrictions": true,
     "fixedCost": 200000
   },
   {
-    "name": "FMC 210CA Skidder*",
+    "name": "FMC 210CA Skidder",
+    "noRestrictions": true,
     "fixedCost": 500000
   },
   {
     "name": "M113A4 ICV",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "M113A4 ARV",
+    "noRestrictions": false,
     "fixedCost": 600000
   },
   {
-    "name": "M163 Vulcan*",
-    "fixedCost": 750000
+    "name": "M163 Vulcan",
+    "noRestrictions": true,
+    "fixedCost": 750000,
+    "supplyCategory": "cRamSpaag"
   },
   {
-    "name": "NM142*",
-    "fixedCost": 750000
+    "name": "NM142",
+    "noRestrictions": true,
+    "fixedCost": 750000,
+    "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "M106 Mortar Carrier",
-    "fixedCost": 800000
+    "noRestrictions": false,
+    "fixedCost": 800000,
+    "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "M901 ITV",
+    "noRestrictions": false,
     "fixedCost": 900000
   },
   {
     "name": "SIDAM 25",
+    "noRestrictions": false,
     "fixedCost": 750000
   },
   {
     "name": "M132 Armored Flamethrower \"Zippo\"",
+    "noRestrictions": false,
     "fixedCost": 1500000
   },
   {
     "name": "M113 ADATS",
-    "fixedCost": 1500000
+    "noRestrictions": false,
+    "fixedCost": 1500000,
+    "supplyCategory": "shortRangeSam"
   },
   {
     "name": "BUSK III",
+    "noRestrictions": false,
     "fixedCost": 300000
   },
   {
     "name": "Bradley ADATS",
-    "fixedCost": 1500000
+    "noRestrictions": false,
+    "fixedCost": 1500000,
+    "supplyCategory": "shortRangeSam"
   },
   {
     "name": "ZBD-04 HJ-8",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "BMP T-15 \"Terminator-3\"",
+    "noRestrictions": false,
     "fixedCost": 250000
   },
   {
     "name": "AMOS 120mm Mortar",
-    "fixedCost": 1250000
+    "noRestrictions": false,
+    "fixedCost": 1250000,
+    "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "Tracked Stryker",
+    "noRestrictions": false,
     "fixedCost": 250000
   },
   {
     "name": "Stryker AUDS",
+    "noRestrictions": false,
     "fixedCost": 600000
   },
   {
     "name": "Stryker MEHEL",
+    "noRestrictions": false,
     "fixedCost": 800000
   },
   {
     "name": "105mm Smoothbore Cannon",
-    "fixedCost": 1250000
+    "noRestrictions": false,
+    "fixedCost": 1250000,
+    "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "120mm Smoothbore Cannon",
-    "fixedCost": 2000000
+    "noRestrictions": false,
+    "fixedCost": 2000000,
+    "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "AMOS 120mm Mortar",
-    "fixedCost": 1250000
+    "noRestrictions": false,
+    "fixedCost": 1250000,
+    "supplyCategory": "selfPropelledMortars"
   },
   {
     "name": "Boxer CRV",
+    "noRestrictions": false,
     "fixedCost": 1200000
   },
   {
     "name": "Artillery Gun Module",
+    "noRestrictions": false,
     "fixedCost": 3000000
   },
   {
     "name": "Boxer ARTHUR",
+    "noRestrictions": false,
     "fixedCost": 3000000
   },
   {
     "name": "Boxer Mobile LWS",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "Boxer EW",
-    "fixedCost": 10000000
+    "noRestrictions": false,
+    "fixedCost": 10000000,
+    "supplyCategory": "electronicWarfareSystem"
   },
   {
-    "name": "TPz 1A1 EloKa*",
-    "fixedCost": 1000000
+    "name": "TPz 1A1 EloKa",
+    "noRestrictions": true,
+    "fixedCost": 1000000,
+    "supplyCategory": "electronicWarfareSystem"
   },
   {
-    "name": "RASIT*",
+    "name": "RASIT",
+    "noRestrictions": true,
     "fixedCost": 2500000
   },
   {
-    "name": "Marder Roland*",
+    "name": "Marder Roland",
+    "noRestrictions": true,
     "fixedCost": 2500000
   },
   {
     "name": "Marder Close Combat Vehicle",
+    "noRestrictions": false,
     "fixedCost": 350000
   },
   {
     "name": "Lynx 120",
+    "noRestrictions": false,
     "fixedCost": 1500000
   },
   {
-    "name": "PT-76(M) Refit*",
+    "name": "PT-76(M) Refit",
+    "noRestrictions": true,
     "fixedCost": 600000
   },
   {
     "name": "AMX-13PA8 Escorpion-2",
+    "noRestrictions": false,
     "fixedCost": 300000
   },
   {
-    "name": "AMX-13/105 Retrofit*",
+    "name": "AMX-13/105 Retrofit",
+    "noRestrictions": true,
     "fixedCost": 120000
   },
   {
     "name": "BVP-M2 SKCZ IFV",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
-    "name": "BRM-3K \"Rys\"*",
+    "name": "BRM-3K \"Rys\"",
+    "noRestrictions": true,
     "fixedCost": 200000
   },
   {
     "name": "BMP-3F",
+    "noRestrictions": false,
     "fixedCost": 250000
   },
   {
     "name": "Ptitselov",
+    "noRestrictions": false,
     "fixedCost": 1750000
   },
   {
     "name": "Ptitselov",
+    "noRestrictions": false,
     "fixedCost": 2000000
   },
   {
     "name": "Stabilizer",
+    "noRestrictions": false,
     "relativeCost": 0.05
   },
   {
     "name": "Bore Evacuator",
+    "noRestrictions": false,
     "relativeCost": 0.05
   },
   {
     "name": "Modernized Gun",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "Composite Armor",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "Modernized Engine",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "Navigation Systems and GPS",
+    "noRestrictions": false,
     "relativeCost": 0.05
   },
   {
     "name": "Fire Control System",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "Hull changes",
+    "noRestrictions": false,
     "relativeCost": 0.05
   },
   {
     "name": "Turret Removal",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": "Open Top Tank Destroyer",
-    "relativeCost": 0.15
+    "noRestrictions": false,
+    "relativeCost": 0.15,
+    "supplyCategory": "lightTankTankDestroyer",
+    "overrideSupplyCategory": true
   },
   {
     "name": "Mounted Tank Destroyer",
-    "relativeCost": 0.15
+    "noRestrictions": false,
+    "relativeCost": 0.15,
+    "supplyCategory": "lightTankTankDestroyer",
+    "overrideSupplyCategory": true
   },
   {
     "name": "Open Top Mounted Tank Destroyer",
-    "relativeCost": 0.15
+    "noRestrictions": false,
+    "relativeCost": 0.15,
+    "supplyCategory": "lightTankTankDestroyer",
+    "overrideSupplyCategory": true
   },
   {
     "name": "APC Conversion",
-    "relativeCost": 0.1
+    "noRestrictions": false,
+    "relativeCost": 0.1,
+    "supplyCategory": "ifvApc",
+    "overrideSupplyCategory": true
   },
   {
     "name": "SPAAG Conversion",
-    "relativeCost": 0.1
+    "noRestrictions": false,
+    "relativeCost": 0.1,
+    "supplyCategory": "cRamSpaag",
+    "overrideSupplyCategory": true
   },
   {
     "name": "Reconnaissance Vehicle",
+    "noRestrictions": false,
     "relativeCost": 0.15
   },
   {
     "name": "Giraffe Refit",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "ATGM Launcher",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "Autocannon",
+    "noRestrictions": false,
     "relativeCost": 0.1
   },
   {
     "name": "7.62 Machine Gun",
+    "noRestrictions": false,
     "fixedCost": 100000
   },
   {
     "name": ".50 Cal Machine Gun",
+    "noRestrictions": false,
     "fixedCost": 150000
   },
   {
     "name": "7.62 Minigun",
+    "noRestrictions": false,
     "fixedCost": 200000
   },
   {
     "name": "30-50mm Cannon",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "50-105mm Cannon",
+    "noRestrictions": false,
     "fixedCost": 550000
   },
   {
     "name": "Weapon Hardpoints",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "Retractable Guns",
+    "noRestrictions": false,
     "fixedCost": 300000
   },
   {
     "name": "Weapons Rack",
+    "noRestrictions": false,
     "fixedCost": 800000
   },
   {
     "name": "Aerial Weapons Bay",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "Cargo Bay Weapons Conversion",
+    "noRestrictions": false,
     "relativeCost": 7.0
   },
   {
     "name": "Countermeasure Dispenser System",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "Directional Infrared Counter Measures",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "Micro Drone Storage",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Modern Radar",
+    "noRestrictions": false,
     "fixedCost": 1500000
   },
   {
     "name": "Fly-By-Wire",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Analog to Digital Avionics Conversion",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Digital to Analog Avionics Conversion",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Light Armor",
+    "noRestrictions": false,
     "fixedCost": 250000
   },
   {
     "name": "FLIR Camera",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Retractable In-Flight Refueling Probe",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Fuel Pods",
+    "noRestrictions": false,
     "fixedCost": 200000
   },
   {
     "name": "Engine Anti-Ice System",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "Engine Upgrade",
+    "noRestrictions": false,
     "relativeCost": 0.2
   },
   {
     "name": "JATO Pods",
+    "noRestrictions": false,
     "fixedCost": 200000
   },
   {
     "name": "Aircraft Modernization Refit",
+    "noRestrictions": false,
     "fixedCost": 4000000
   },
   {
-    "name": "F-4G Wild Weasel V*",
+    "name": "F-4G Wild Weasel V",
+    "noRestrictions": true,
     "fixedCost": 3000000
   },
   {
-    "name": "F-4E Kurnass 2000*",
+    "name": "F-4E Kurnass 2000",
+    "noRestrictions": true,
     "fixedCost": 3000000
   },
   {
     "name": "A-10 PCAS",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "F-15SE Silent Eagle",
+    "noRestrictions": false,
     "fixedCost": 1500000
   },
   {
     "name": "Advanced Super Hornet",
+    "noRestrictions": false,
     "fixedCost": 1600000
   },
   {
     "name": "Sidekick Racks",
+    "noRestrictions": false,
     "fixedCost": 750000
   },
   {
     "name": "Stealth Operations Helicopter Refit",
+    "noRestrictions": false,
     "relativeCost": 1.25
   },
   {
     "name": "Manned-Unmanned Teaming Refit",
+    "noRestrictions": false,
     "relativeCost": 0.6
   },
   {
-    "name": "Mi-24 SuperHind Mk. III*",
+    "name": "Mi-24 SuperHind Mk. III",
+    "noRestrictions": true,
     "fixedCost": 750000
   },
   {
     "name": "Mi-PSV",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "Mi-24PU-1",
+    "noRestrictions": false,
     "fixedCost": 700000
   },
   {
     "name": "AH-2 Sabre",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
-    "name": "Mi-8SMV*",
+    "name": "Mi-8SMV",
+    "noRestrictions": true,
     "fixedCost": 600000
   },
   {
-    "name": "Mi-8AD*",
+    "name": "Mi-8AD",
+    "noRestrictions": true,
     "fixedCost": 250000
   },
   {
-    "name": "Mi-8AV*",
+    "name": "Mi-8AV",
+    "noRestrictions": true,
     "fixedCost": 300000
   },
   {
     "name": "Mi-8MTR1",
+    "noRestrictions": false,
     "fixedCost": 900000
   },
   {
     "name": "Mi-8MS",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
-    "name": "VH-60N*",
+    "name": "VH-60N",
+    "noRestrictions": true,
     "fixedCost": 500000
   },
   {
     "name": "AH-60L Arp\u00eda IV",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "Optionally Piloted Black Hawk",
+    "noRestrictions": false,
     "fixedCost": 400000
   },
   {
     "name": "HH-60W Jolly Green II",
+    "noRestrictions": false,
     "fixedCost": 350000
   },
   {
-    "name": "JUH-1 SOTAS*",
+    "name": "JUH-1 SOTAS",
+    "noRestrictions": true,
     "fixedCost": 250000
   },
   {
-    "name": "Bell Huey II*",
+    "name": "Bell Huey II",
+    "noRestrictions": true,
     "fixedCost": 350000
   },
   {
-    "name": "ACH-47A*",
+    "name": "ACH-47A",
+    "noRestrictions": true,
     "fixedCost": 400000
   },
   {
-    "name": "XM204 Aerial Artillery Weapon System*",
+    "name": "XM204 Aerial Artillery Weapon System",
+    "noRestrictions": true,
     "fixedCost": 1000000
   },
   {
     "name": "AW101 VVIP",
+    "noRestrictions": false,
     "fixedCost": 500000
   },
   {
     "name": "Z-9WA",
+    "noRestrictions": false,
     "fixedCost": 1250000
   },
   {
     "name": "Z-18J",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "Fuselage changes",
+    "noRestrictions": false,
     "fixedCost": 1000000
   },
   {
     "name": "Luxury Refit",
+    "noRestrictions": false,
     "fixedCost": 2000000
   },
   {
