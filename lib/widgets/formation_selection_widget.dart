@@ -35,7 +35,7 @@ class _FormationSelectionWidgetState extends State<FormationSelectionWidget> {
       children: [
         SizedBox(
           width: 400,
-          height: 600,
+          height: 800,
           child: ListView.builder(
             padding: const EdgeInsets.all(8),
             shrinkWrap: true,

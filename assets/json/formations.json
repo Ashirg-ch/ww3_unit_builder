@@ -297,6 +297,10 @@
     "type": "combined arms",
     "subFormations": [
       {
+        "name": "Combined Arms Battalion HQ Company (Early stage)",
+        "count": 1
+      },
+      {
         "name": "T-72 Tank Company",
         "count": 2
       },
@@ -305,7 +309,7 @@
         "count": 2
       },
       {
-        "name": "Combined Arms Battalion HQ Company (Early stage)",
+        "name": "Sustainment Company (Early stage)",
         "count": 1
       }
     ]
@@ -336,7 +340,184 @@
         "count": 1
       }
     ],
-    "units": []
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 7
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Husky 2G Mk.III",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sustainment Company (Early stage)",
+    "size": "company",
+    "type": "supply",
+    "subFormations": [
+      {
+        "name": "Sustainment Company HQ",
+        "count": 1
+      },
+      {
+        "name": "Field Feeding Section",
+        "count": 1
+      },
+      {
+        "name": "Distribution Platoon",
+        "count": 1
+      },
+      {
+        "name": "Maintenance Platoon",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Sustainment Company HQ",
+    "size": "squad",
+    "type": "supply",
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Field Feeding Section",
+    "size": "section",
+    "type": "supply",
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 5,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "Distribution Platoon",
+    "size": "platoon",
+    "type": "supply",
+    "units": [
+      {
+        "name": "MAZ-537",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 10,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "Maintenance Platoon",
+    "size": "platoon",
+    "type": "maintenance",
+    "units": [
+      {
+        "name": "MAZ-537",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M113",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Caterpillar D9",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      }
+    ]
   },
   {
     "name": "Retransmission Team",
@@ -591,7 +772,7 @@
     "type": "medical",
     "units": [
       {
-        "name": "OT-64 SKOT",
+        "name": "Casspir Mk6",
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
