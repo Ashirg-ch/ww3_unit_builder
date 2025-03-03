@@ -57,6 +57,7 @@ if __name__ == '__main__':
         "Medical",
         "Hospital",
         "Communications",
+        "UAV",
         "Generic"
     ]
 
@@ -76,6 +77,7 @@ if __name__ == '__main__':
         ["Medical Headquarters", "13031000001613009800"],
         ["Mortar Headquarters", "13031000001308009800"],
         #["Wheeled Mortar Headquarters", "13031000001308029800"] # Doesn't work
+        #["Supply and Maintenance", "13031000001611000062"]
     ]
     if not os.path.exists(path):
         print('Creating directory "{}"'.format(path))
