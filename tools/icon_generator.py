@@ -40,17 +40,24 @@ if __name__ == '__main__':
         "Self-propelled artillery",
         "Wheeled self-propelled artillery",
         "Wheeled artillery",
-        "Tracked self-propelled artillery",
         "Anti-air missile",
         "Wheeled Anti-air missile",
-        "Tracked anti-air missile",
+        "Anti-air missile",
         "Wheeled anti-air gun",
-        "Tracked anti-air gun",
+        "Anti-air gun",
         "Attack rotary wing",
+        "Reconnaissance rotary wing",
         "Light utility rotary wing",
         "Medium utility rotary wing",
         "Heavy utility rotary wing",
+        "Rotary wing",
+        "Attack fixed wing",
+        "Light utility fixed wing",
+        "Medium utility fixed wing",
+        "Heavy utility fixed wing",
+        "Fixed wing",
         "Military Police",
+        "Military Police Operations",
         "Security",
         "Supply",
         "Maintenance",
@@ -58,6 +65,9 @@ if __name__ == '__main__':
         "Hospital",
         "Communications",
         "UAV",
+        "Unmanned Aerial Vehicle",
+        "Unmanned Aerial Vehicle Attack",
+        "K9",
         "Generic"
     ]
 
@@ -78,6 +88,12 @@ if __name__ == '__main__':
         ["Mortar Headquarters", "13031000001308009800"],
         #["Wheeled Mortar Headquarters", "13031000001308029800"] # Doesn't work
         #["Supply and Maintenance", "13031000001611000062"]
+        ["Military Police Headquarters", "13031000001412009800"],
+        #["Attack reconnaissance rotary wing", "130310000012060106001"],
+        ["Reconnaissance rotary wing", "13031000001206010000"],
+        ["Reconnaissance fixed wing", "13031000001208010000"],
+        #["Unmanned fixed wing reconnaissance", "13031000001208014700"],
+        #["Unmanned rotary wing reconnaissance", "13031000001206014700"],
     ]
     if not os.path.exists(path):
         print('Creating directory "{}"'.format(path))
