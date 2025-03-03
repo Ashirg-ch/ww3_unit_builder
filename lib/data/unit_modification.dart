@@ -1,4 +1,5 @@
 import 'package:ww3_unit_builder/data/supply_category.dart';
+import 'package:ww3_unit_builder/data/unlocks.dart';
 
 /// A modification that can be applied to a unit.
 class UnitModification {
@@ -35,18 +36,25 @@ class UnitModification {
   /// If the unit has a fixed cost, this must be `null`.
   final double? relativeCost;
 
+  final bool requiresUnlock;
+
   /// Creates a new unit modification.
   ///
   /// Exactly one of [fixedCost] and [relativeCost] must be `null`.
-  const UnitModification(
+  UnitModification(
     this.name, {
     this.supplyCategory,
     this.overrideSupplyCategory = false,
     this.fixedCost,
     this.relativeCost,
+    this.requiresUnlock = false,
   }) : assert((fixedCost == null) != (relativeCost == null)),
        assert(fixedCost == null || fixedCost >= 0),
-       assert(relativeCost == null || relativeCost >= 0);
+       assert(relativeCost == null || relativeCost >= 0) {
+    if (requiresUnlock) {
+      Unlocks().setUnlocked(name, Unlocks().isUnlocked(name));
+    }
+  }
 
   int calculateCost(int unitCost) {
     if (fixedCost != null) {
@@ -66,6 +74,7 @@ class UnitModification {
       overrideSupplyCategory: json['overrideSupplyCategory'] as bool? ?? false,
       fixedCost: json['fixedCost'] as int?,
       relativeCost: (json['relativeCost'] as num?)?.toDouble(),
+      requiresUnlock: json['requiresUnlock'] as bool? ?? false,
     );
   }
 }

@@ -1,18 +1,22 @@
 import 'package:ww3_unit_builder/data/order_position.dart';
+import 'package:ww3_unit_builder/data/shops.dart';
 
 import 'formation.dart';
 
 class Order {
   final List<Formation> _formations;
+  final List<Shops> _enabledShops;
   final List<OrderPosition> _positions = [];
 
-  Order(this._formations) {
+  Order(this._formations, this._enabledShops) {
     List<OrderPosition> redundantPositions = [];
     for (final formation in _formations) {
       redundantPositions.addAll(formation.getAllUnits);
     }
 
     for (final position in redundantPositions) {
+      if (!_enabledShops.contains(position.unitType.shop)) continue;
+
       bool found = false;
       for (final position2 in _positions) {
         if (position2.equals(position)) {

@@ -3,6 +3,7 @@ import 'package:ww3_unit_builder/data/supply_category.dart';
 import 'package:ww3_unit_builder/data/unit_modification.dart';
 import 'package:ww3_unit_builder/data/unit_type.dart';
 import 'package:ww3_unit_builder/data/unit_type_list.dart';
+import 'package:ww3_unit_builder/data/unlocks.dart';
 
 class OrderPosition {
   final UnitType _unitType;
@@ -39,7 +40,7 @@ class OrderPosition {
 
   int get totalCost {
     return _unitType.cost * count +
-        _modifications.fold(
+        getUnlockedModifications().fold(
           0,
           (sum, mod) => sum + mod.calculateCost(_unitType.cost) * count,
         );
@@ -47,7 +48,7 @@ class OrderPosition {
 
   SupplyCategory get supplyCategory {
     SupplyCategory supplyCategory = _unitType.supplyCategory;
-    for (final mod in _modifications) {
+    for (final mod in getUnlockedModifications()) {
       if (mod.supplyCategory != null &&
           mod.supplyCategory!.supplyUnitCount >
               supplyCategory.supplyUnitCount) {
@@ -70,17 +71,30 @@ class OrderPosition {
   /// Two order positions are considered equal if they have the same unit type and modifications.
   /// The count is not considered.
   bool equals(OrderPosition other) {
+    List thisUnlockedMods = getUnlockedModifications();
+    List otherUnlockedMods = other.getUnlockedModifications();
     return _unitType == other._unitType &&
-        _modifications.length == other._modifications.length &&
-        _modifications.every((mod) => other._modifications.contains(mod));
+        thisUnlockedMods.length == otherUnlockedMods.length &&
+        thisUnlockedMods.every((mod) => otherUnlockedMods.contains(mod));
+  }
+
+  List<UnitModification> getUnlockedModifications() {
+    return _modifications
+        .where((mod) => !mod.requiresUnlock || Unlocks().isUnlocked(mod.name))
+        .toList();
   }
 
   @override
   String toString() {
-    String mods =
-        _modifications.isEmpty
-            ? ''
-            : '\n- ${_modifications.map((e) => e.name).join('\n- ')}';
+    String mods = _modificationsToString();
     return '${count}x ${_unitType.name}$mods';
+  }
+
+  String _modificationsToString() {
+    List<UnitModification> mods = getUnlockedModifications();
+
+    if (mods.isEmpty) return '';
+
+    return '\n- ${mods.map((e) => e.name).join('\n- ')}';
   }
 }

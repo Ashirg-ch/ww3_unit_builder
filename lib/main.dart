@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:provider/provider.dart';
+import 'package:ww3_unit_builder/data/enabled_shops.dart';
+import 'package:ww3_unit_builder/data/order_provider.dart';
 import 'package:ww3_unit_builder/data/unit_type_list.dart';
 import 'package:ww3_unit_builder/screens/main_screen.dart';
 
@@ -7,7 +10,16 @@ import 'data/formations_list.dart';
 import 'data/modifications_list.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => OrderProvider()),
+        ChangeNotifierProvider(create: (_) => FormationsList()),
+        ChangeNotifierProvider(create: (_) => EnabledShops())
+      ],
+      child: const MyApp(),
+    ),
+  );
   _loadData();
 }
 

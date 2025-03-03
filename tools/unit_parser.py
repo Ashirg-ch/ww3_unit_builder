@@ -2,13 +2,13 @@ import json
 import re
 
 # Define the input and output file paths
-input_file_path = '../assets/json/units_raw.txt'
+input_file_path = 'units_raw/eu.txt'
 output_file_path = '../assets/json/new_units_2.json'
 
 # Function to parse a single line of unit data
 def parse_unit_line(line):
     # Regular expression to match the unit data
-    match = re.match(r'^(.*?)(?: *- *(\d+(?:,\d+)*))(?: *\((.*?)\))?$', line.strip())
+    match = re.match(r'^(.*?)(?: *- *(\d+(?:,\d+)*))(?: *\((.*?)\))? ?$', line.strip())
     if match:
         name = match.group(1).strip()
         cost = int(match.group(2).replace(',', ''))
@@ -16,7 +16,7 @@ def parse_unit_line(line):
         return {
             'name': name,
             'cost': cost,
-            'shop': 'independent',
+            'shop': 'eu',
             'supplyCategory': ''
         }
     return None

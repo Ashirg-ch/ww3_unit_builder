@@ -1,8 +1,10 @@
 import 'dart:convert';
 
+import 'package:flutter/foundation.dart';
+
 import 'formation.dart';
 
-class FormationsList {
+class FormationsList with ChangeNotifier {
   final List<Formation> _formations = [];
 
   static final FormationsList _instance = FormationsList._();
@@ -33,5 +35,6 @@ class FormationsList {
 
     // Log
     print('Formations loaded: ${_formations.length}');
+    notifyListeners();
   }
 }

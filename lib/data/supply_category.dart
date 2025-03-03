@@ -313,7 +313,11 @@ enum SupplyCategory {
   static SupplyCategory fromString(String string) {
     return SupplyCategory.values.firstWhere(
       (e) => e.toString() == 'SupplyCategory.$string',
-      orElse: () => throw ArgumentError('Invalid supply category: $string'),
+      orElse: () {
+        print('Invalid supply category: $string');
+        return SupplyCategory.lightVehicleMrap;
+      }
+      //() => throw ArgumentError('Invalid supply category: $string'),
     );
   }
 

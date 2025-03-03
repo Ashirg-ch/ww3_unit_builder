@@ -21,6 +21,11 @@ class UnitTypeList {
   }
 
   UnitType getUnitType(String name) {
-    return _unitTypes.firstWhere((element) => element.name == name);
+    return _unitTypes.firstWhere(
+      (element) => element.name == name,
+      orElse: () {
+        throw ArgumentError('No unit type with name $name');
+      },
+    );
   }
 }

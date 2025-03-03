@@ -676,5 +676,1277 @@
     "cost": 3500000,
     "shop": "independent",
     "supplyCategory": "maleDrone"
+  },
+  {
+    "name": "Vespa 150 TAP",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Harley MT500/350",
+    "cost": 650000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "ACMAT VLA",
+    "cost": 125000,
+    "shop": "eu",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "Mercedes-Benz G-Class 6x6",
+    "cost": 120000,
+    "shop": "eu",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "Mercedes-Benz Unimog",
+    "cost": 175000,
+    "shop": "eu",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "ACMAT VLRA",
+    "cost": 100000,
+    "shop": "eu",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "Sisu SA-150",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "Saurer 6DM",
+    "cost": 175000,
+    "shop": "eu",
+    "supplyCategory": "lightUtilityVehicle"
+  },
+  {
+    "name": "MAN HX77",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "MAN SX44",
+    "cost": 225000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "MAN SX45",
+    "cost": 350000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "MAN HX81",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "Volvo N10",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "Volvo FMX 6x6",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "Oshkosh 1070F",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "Scania CaRaPACE",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "Unipower M-series",
+    "cost": 450000,
+    "shop": "eu",
+    "supplyCategory": "heavyUtilityVehicle"
+  },
+  {
+    "name": "Kodiak",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Wisent 2",
+    "cost": 225000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Trojan",
+    "cost": 300000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Terrier",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Leclerc DNG",
+    "cost": 175000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Bergepanzer 3 Buffel",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Bulldog",
+    "cost": 125000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "CRARRV",
+    "cost": 350000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "PSB 2",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Titan",
+    "cost": 225000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "M3",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "SEE",
+    "cost": 125000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "JCB 4CXM",
+    "cost": 175000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Patria Heavy Mine Breaching Vehicle",
+    "cost": 225000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Keiler",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Aardvark",
+    "cost": 245000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Liebherr LTM 1055-3.1",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "HMRTF",
+    "cost": 125000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Case 721 CXT",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": "engineeringVehicle"
+  },
+  {
+    "name": "Land Rover Defender 110",
+    "cost": 50000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "LIV (SO) Serval",
+    "cost": 120000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Supacat Extenda",
+    "cost": 125000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Land Rover Defender 130CC-R",
+    "cost": 300000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Mercedes Benz G-class Unimog",
+    "cost": 275000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Iveco LMV",
+    "cost": 550000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "International MXT-MV",
+    "cost": 600000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Mowag Eagle",
+    "cost": 700000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Enok",
+    "cost": 760000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "MWMIK Jackal",
+    "cost": 800000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "LGS Fennek",
+    "cost": 1500000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "M1114 Humvee",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Oshkosh L-ATV",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Cougar H",
+    "cost": 475000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Dingo 2",
+    "cost": 500000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "RG-32 Scout",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Force Protection Ocelot LPPV",
+    "cost": 1500000,
+    "shop": "eu",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Luchs",
+    "cost": 600000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "EXACTOR 2",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "XA-202",
+    "cost": 1750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Piranha ASV",
+    "cost": 2000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Piranha ACV",
+    "cost": 2500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "FV102",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "FV104 Samaritan",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Panhard VBL",
+    "cost": 200000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Panhard CRAB",
+    "cost": 250000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Jaguar",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "AMV35",
+    "cost": 900000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Scout Specialist Vehicle",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Shielder",
+    "cost": 1750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "NM142",
+    "cost": 2750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Griffon APC",
+    "cost": 320000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Patria AMV XP",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Patria AMV",
+    "cost": 700000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Puma APC",
+    "cost": 375000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Piranha V",
+    "cost": 700000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Piranha IIIC",
+    "cost": 450000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Boxer MRAV",
+    "cost": 500000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "BMR-600",
+    "cost": 375000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "PANDUR II",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "M113A2",
+    "cost": 550000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Stormer",
+    "cost": 500000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Spartan",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Mk.3 Bulldog",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "PMRS",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Marder Evolution APC",
+    "cost": 600000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Fuchs",
+    "cost": 550000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "VAB Mk.3",
+    "cost": 450000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "XA-203",
+    "cost": 450000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Tatrapan",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Warrior",
+    "cost": 900000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "CV90",
+    "cost": 900000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Marder",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Marder 2",
+    "cost": 900000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Puma",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Lynx",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Wiesel 1",
+    "cost": 700000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "Wiesel 2",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "VCAC Mephisto",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "EBRC Jaguar",
+    "cost": 1200000,
+    "shop": "eu",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "T-72M1",
+    "cost": 1500000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "T-72M4",
+    "cost": 1750000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "PT-91 Twardy",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "M-95 Degman",
+    "cost": 3250000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "C-1 Ariete",
+    "cost": 3250000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Leopard 2A4",
+    "cost": 3400000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Leopard 2A5",
+    "cost": 3500000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Leopard 2PL",
+    "cost": 3500000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Leopard 2A6",
+    "cost": 3750000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Leopard 2A7",
+    "cost": 3900000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Leopard 2A7+",
+    "cost": 4000000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "AMX Leclerc",
+    "cost": 3750000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Challenger 2",
+    "cost": 4250000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Challenger 2 Black Night",
+    "cost": 5000000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "EMBT",
+    "cost": 5000000,
+    "shop": "eu",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "PL-01",
+    "cost": 6000000,
+    "shop": "eu",
+    "supplyCategory": "lightTankTankDestroyer"
+  },
+  {
+    "name": "L118 Light Gun",
+    "cost": 450000,
+    "shop": "eu",
+    "supplyCategory": "towedHowitzersAndMRLs"
+  },
+  {
+    "name": "FH-70",
+    "cost": 600000,
+    "shop": "eu",
+    "supplyCategory": "towedHowitzersAndMRLs"
+  },
+  {
+    "name": "2A18",
+    "cost": 450000,
+    "shop": "eu",
+    "supplyCategory": "towedHowitzersAndMRLs"
+  },
+  {
+    "name": "GIAT LG1",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "towedHowitzersAndMRLs"
+  },
+  {
+    "name": "TRF1",
+    "cost": 600000,
+    "shop": "eu",
+    "supplyCategory": "towedHowitzersAndMRLs"
+  },
+  {
+    "name": "OTO Melara Mod 56",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": "towedHowitzersAndMRLs"
+  },
+  {
+    "name": "AS-90",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "Panzerhaubitze 2000",
+    "cost": 3500000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "K9 Thunder",
+    "cost": 3250000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "AHS Krab",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "2S1 Gvozdika",
+    "cost": 2000000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "Archer",
+    "cost": 2750000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "CAESAR 8x8",
+    "cost": 2650000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "CAESAR",
+    "cost": 2500000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "DANA M1 CZ",
+    "cost": 2600000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "DANA",
+    "cost": 2500000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "Zuzana",
+    "cost": 2500000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "Zuzana 2",
+    "cost": 2750000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "Centauro 155/39LW",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "MARS2/LRU",
+    "cost": 13000000,
+    "shop": "eu",
+    "supplyCategory": "mlrs"
+  },
+  {
+    "name": "M270B1",
+    "cost": 13000000,
+    "shop": "eu",
+    "supplyCategory": "mlrs"
+  },
+  {
+    "name": "M142 HIMARS",
+    "cost": 12500000,
+    "shop": "eu",
+    "supplyCategory": "mlrs"
+  },
+  {
+    "name": "WR-40 Langusta",
+    "cost": 14000000,
+    "shop": "eu",
+    "supplyCategory": "mlrs"
+  },
+  {
+    "name": "RM-70 Vampir",
+    "cost": 15000000,
+    "shop": "eu",
+    "supplyCategory": "mlrs"
+  },
+  {
+    "name": "Centauro 2",
+    "cost": 2100000,
+    "shop": "eu",
+    "supplyCategory": "selfPropelledHowitzer"
+  },
+  {
+    "name": "Aegis Ashore",
+    "cost": 100000000,
+    "shop": "eu",
+    "supplyCategory": "abmSam"
+  },
+  {
+    "name": "NASAMS 1",
+    "cost": 12500000,
+    "shop": "eu",
+    "supplyCategory": "shortRangeSam"
+  },
+  {
+    "name": "NASAMS 2",
+    "cost": 14000000,
+    "shop": "eu",
+    "supplyCategory": "mediumRangeSam"
+  },
+  {
+    "name": "Patriot PAC-1",
+    "cost": 20000000,
+    "shop": "eu",
+    "supplyCategory": "longRangeSam"
+  },
+  {
+    "name": "Patriot PAC-2",
+    "cost": 25000000,
+    "shop": "eu",
+    "supplyCategory": "longRangeSam"
+  },
+  {
+    "name": "Patriot PAC-3",
+    "cost": 30000000,
+    "shop": "eu",
+    "supplyCategory": "longRangeSam"
+  },
+  {
+    "name": "MEADS",
+    "cost": 27000000,
+    "shop": "eu",
+    "supplyCategory": "longRangeSam"
+  },
+  {
+    "name": "SAMP/T",
+    "cost": 20000000,
+    "shop": "eu",
+    "supplyCategory": "longRangeSam"
+  },
+  {
+    "name": "Crotale",
+    "cost": 1600000,
+    "shop": "eu",
+    "supplyCategory": "shortRangeSam"
+  },
+  {
+    "name": "Stormer HVM",
+    "cost": 1500000,
+    "shop": "eu",
+    "supplyCategory": "shortRangeSam"
+  },
+  {
+    "name": "Gepard",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "cRamSpaag"
+  },
+  {
+    "name": "Loara",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "cRamSpaag"
+  },
+  {
+    "name": "ZSU-23-4MP",
+    "cost": 800000,
+    "shop": "eu",
+    "supplyCategory": "cRamSpaag"
+  },
+  {
+    "name": "MANTIS C-RAM",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "cRamSpaag"
+  },
+  {
+    "name": "ZSU-23-4 upgrade",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "cRamSpaag"
+  },
+  {
+    "name": "NSM Land based",
+    "cost": 20000000,
+    "shop": "eu",
+    "supplyCategory": "surfaceToSurfaceMissile"
+  },
+  {
+    "name": "Ground Master 400",
+    "cost": 18750000,
+    "shop": "eu",
+    "supplyCategory": "surveillanceTrackingRadars"
+  },
+  {
+    "name": "ARTHUR Counter fire radar",
+    "cost": 3250000,
+    "shop": "eu",
+    "supplyCategory": "counterBatteryBattlefieldSurveillanceRadars"
+  },
+  {
+    "name": "NOSTRADAMUS OTH radar",
+    "cost": 100000000,
+    "shop": "eu",
+    "supplyCategory": "othRadar"
+  },
+  {
+    "name": "AN/FPS-132",
+    "cost": 140000000,
+    "shop": "eu",
+    "supplyCategory": "othRadar"
+  },
+  {
+    "name": "AMX International",
+    "cost": 9000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "JAS 39 Gripen C",
+    "cost": 10000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "Eurofighter Typhoon",
+    "cost": 20000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "Dassault Rafale M",
+    "cost": 20000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "Panavia Tornado IDS",
+    "cost": 10000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "JAS 39 Gripen E",
+    "cost": 12500000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "F/A-18 Hornet",
+    "cost": 12500000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "F/A-18E/F Super Hornet",
+    "cost": 15500000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "MiG-29AS",
+    "cost": 10000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "MiG-29A",
+    "cost": 10000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "F-16V",
+    "cost": 12000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "F-35A",
+    "cost": 35000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "F-35B",
+    "cost": 35000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "MiG-21Bis",
+    "cost": 5000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "MiG-21LanceR",
+    "cost": 6000000,
+    "shop": "eu",
+    "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "C-130 Hercules",
+    "cost": 4000000,
+    "shop": "eu",
+    "supplyCategory": "tacticalAirLifter"
+  },
+  {
+    "name": "C-295",
+    "cost": 4000000,
+    "shop": "eu",
+    "supplyCategory": "tacticalAirLifter"
+  },
+  {
+    "name": "A310 MRTT",
+    "cost": 4250000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "A330 MRTT",
+    "cost": 4500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Airbus A400M",
+    "cost": 5000000,
+    "shop": "eu",
+    "supplyCategory": "strategicAirLifter"
+  },
+  {
+    "name": "C-17 Globemaster III",
+    "cost": 6250000,
+    "shop": "eu",
+    "supplyCategory": "strategicAirLifter"
+  },
+  {
+    "name": "Eurocopter Dauphin",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "NH-90",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "Eurocopter Puma",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "EC725 Caracal",
+    "cost": 1500000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "AW101",
+    "cost": 1500000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "AW159",
+    "cost": 2000000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "CH-47 Chinook",
+    "cost": 2000000,
+    "shop": "eu",
+    "supplyCategory": "transportHelicopter"
+  },
+  {
+    "name": "A\u00e9rospatiale Gazelle SA 342",
+    "cost": 3250000,
+    "shop": "eu",
+    "supplyCategory": "attackHelicopter"
+  },
+  {
+    "name": "Agusta A-129 Mangusta",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "attackHelicopter"
+  },
+  {
+    "name": "Eurocopter Tiger",
+    "cost": 4000000,
+    "shop": "eu",
+    "supplyCategory": "attackHelicopter"
+  },
+  {
+    "name": "WAH-64D",
+    "cost": 5000000,
+    "shop": "eu",
+    "supplyCategory": "attackHelicopter"
+  },
+  {
+    "name": "AH-64E",
+    "cost": 5300000,
+    "shop": "eu",
+    "supplyCategory": "attackHelicopter"
+  },
+  {
+    "name": "WB Electronics Warmate",
+    "cost": 100000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Elbit SkyStriker",
+    "cost": 150000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "IAI Harop",
+    "cost": 400000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "ScanEagle",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Schiebel Camcopter S-100",
+    "cost": 750000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "MQ-9 Reaper",
+    "cost": 3500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Merlin Crowsnest AEW",
+    "cost": 6000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "C-295 AEW&C",
+    "cost": 10000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "C-295 SINGT",
+    "cost": 8000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "E-99",
+    "cost": 7500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Saab 340",
+    "cost": 8000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "G550 AEW",
+    "cost": 6500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "P-3C",
+    "cost": 7000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "P-72AS",
+    "cost": 5000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Voyager KC3",
+    "cost": 11000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "E-2C Hawkeye",
+    "cost": 12500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "E-3 Sentry",
+    "cost": 10000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Raytheon Sentinel",
+    "cost": 18000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "RC-135W Rivet Joint",
+    "cost": 25000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Breguet Atlantique 2",
+    "cost": 7000000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "P-8 Poseidon",
+    "cost": 7500000,
+    "shop": "eu",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Panavia Tornado ECR",
+    "cost": 30000000,
+    "shop": "eu",
+    "supplyCategory": ""
   }
 ]
