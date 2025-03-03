@@ -177,6 +177,334 @@
     ]
   },
   {
+    "name": "Protection Brigade (Middle stage)",
+    "size": "brigade",
+    "type": "security",
+    "subFormations": [
+      {
+        "name": "HQ Company",
+        "count": 1
+      },
+      {
+        "name": "Military Police Battalion (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Military Intelligence Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Air Defense Battalion (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Brigade Support Battalion (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Air Defense Battalion (Middle stage)",
+    "size": "battalion",
+    "type": "air defense",
+    "subFormations": [
+      {
+        "name": "Air Defense HQ Battery (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Air Defense Battery (Middle stage)",
+        "count": 3
+      },
+      {
+        "name": "Indirect Fire Protection Capability Battery (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Counter-UAS Battery (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Air Defense HQ Battery (Middle stage)",
+    "size": "company",
+    "type": "air defense headquarters",
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      },
+      {
+        "name": "Oshkosh L-ATV",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "MAZ-537",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military Police Battalion (Middle stage)",
+    "size": "battalion",
+    "type": "military police",
+    "subFormations": [
+      {
+        "name": "Military Police Company (Middle stage)",
+        "count": 4
+      },
+      {
+        "name": "Military Police HQ Detachment (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Military Police K9 Detachment (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Military Police K9 Detachment (Middle stage)",
+    "size": "company",
+    "type": "military police",
+    "units": [
+      {
+        "name": "PMC Soldier",
+        "count": 10,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military Police Company (Middle stage)",
+    "size": "company",
+    "type": "military police",
+    "subFormations": [
+      {
+        "name": "Military Police Platoon (Middle stage)",
+        "count": 3
+      },
+      {
+        "name": "Military Police Company HQ (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Military Police Ops Center (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Military Police Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "military police",
+    "subFormations": [
+      {
+        "name": "Military Police Squad (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Oshkosh L-ATV",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military Police Squad (Middle stage)",
+    "size": "squad",
+    "type": "military police",
+    "units": [
+      {
+        "name": "Oshkosh L-ATV",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military Police Company HQ (Middle stage)",
+    "size": "section",
+    "type": "military police headquarters",
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      },
+      {
+        "name": "MAN HX77",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military Police Ops Center (Middle stage)",
+    "size": "section",
+    "type": "military police operations",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 9,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military Police HQ Detachment (Middle stage)",
+    "size": "company",
+    "type": "military police headquarters",
+    "subFormations": [
+      {
+        "name": "Military Police Ops Center (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Military Police HQ Detachment (Middle stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      },
+      {
+        "name": "Oshkosh L-ATV",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HQ Company (Early stage)",
+    "size": "company",
+    "type": "headquarters",
+    "subFormations": [
+      {
+        "name": "Medical Treatment Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Retransmission Team",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 17
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Husky 2G Mk.III",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
     "name": "MLRS Battalion (Middle stage)",
     "size": "battalion",
     "type": "multiple rocket launcher artillery",
