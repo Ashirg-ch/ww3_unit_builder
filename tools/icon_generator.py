@@ -40,6 +40,7 @@ if __name__ == '__main__':
         "Construction Engineer",
         "Tracked Engineer",
         "Wheeled Engineer",
+        "Bridging Engineer",
         "Multiple rocket launcher artillery",
         "Wheeled Multiple rocket launcher artillery",
         "Self-propelled artillery",
