@@ -70,9 +70,15 @@ class Formation {
     allUnits.addAll(_directUnits);
     for (final subFormation in _subFormations.entries) {
       for (int i = 0; i < subFormation.value; i++) {
-        allUnits.addAll(
-          FormationsList().getFormation(subFormation.key).getAllUnits,
-        );
+        try {
+          allUnits.addAll(
+            FormationsList()
+                .getFormation(subFormation.key)
+                .getAllUnits,
+          );
+        } catch (e) {
+          print('Error getting sub-formation ${subFormation.key} for $name: $e');
+        }
       }
     }
     return allUnits;
