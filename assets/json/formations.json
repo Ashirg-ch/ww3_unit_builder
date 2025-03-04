@@ -25,7 +25,7 @@
         "count": 1
       },
       {
-        "name": "Combat Aviation Brigade, Heavy",
+        "name": "Combat Aviation Brigade, Heavy (Middle stage)",
         "count": 1
       },
       {
@@ -55,9 +55,408 @@
     ]
   },
   {
+    "name": "Engineer Brigade (Middle stage)",
+    "size": "brigade",
+    "type": "engineer",
+    "subFormations": [
+      {
+        "name": "HQ Company (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Combat Engineer Company (Middle stage)",
+        "count": 7
+      },
+      {
+        "name": "Multi-Role Bridge Company (Middle stage)",
+        "count": 5
+      },
+      {
+        "name": "Engineer Construction Company (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Route Clearance Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Brigade Support Battalion (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Multi-Role Bridge Company (Middle stage)",
+    "size": "company",
+    "type": "bridging engineer",
+    "subFormations": [
+      {
+        "name": "Bridge Platoon (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "RG-32 Scout",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1
+      },
+      {
+        "name": "M3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bridge Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "bridging engineer",
+    "units": [
+      {
+        "name": "Titan",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Combat Engineer Company (Middle stage)",
+    "size": "company",
+    "type": "combat engineer",
+    "subFormations": [
+      {
+        "name": "Engineer Company HQ (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Combat Engineer Platoon (Middle stage)",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Combat Engineer Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "combat engineer",
+    "subFormations": [
+      {
+        "name": "Combat Engineer Squad (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "RG-32 Scout",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineer Support Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "engineer",
+    "subFormations": [
+      {
+        "name": "Construction Section (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Recovery Squad (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Mine Clearance Squad (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "RG-32 Scout",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Construction Section (Middle stage)",
+    "size": "section",
+    "type": "construction engineer",
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Terrier",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Engineer Construction Company (Middle stage)",
+    "size": "company",
+    "type": "construction engineer",
+    "subFormations": [
+      {
+        "name": "Engineer Company HQ (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Construction Platoon (Middle stage)",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Construction Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "construction engineer",
+    "subFormations": [
+      {
+        "name": "Construction Section (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "RG-32 Scout",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Mine Clearance Squad (Middle stage)",
+    "size": "squad",
+    "type": "engineer",
+    "units": [
+      {
+        "name": "Trojan",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Recovery Squad (Middle stage)",
+    "size": "squad",
+    "type": "engineer",
+    "units": [
+      {
+        "name": "CRARRV",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Combat Engineer Squad (Middle stage)",
+    "size": "squad",
+    "type": "combat engineer",
+    "units": [
+      {
+        "name": "VAB Mk.3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "Mine Blade",
+          "Reinforced Underside"
+        ]
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineer Company HQ (Middle stage)",
+    "size": "platoon",
+    "type": "engineer headquarters",
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "RG-32 Scout",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Husky 2G Mk.III",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 2,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M728 CEV",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Casspir Mk6",
+        "count": 1
+      }
+    ]
+  },
+  {
     "name": "Combat Aviation Brigade, Heavy (Middle stage)",
     "size": "brigade",
-    "type": "rotary aviation",
+    "type": "rotary wing",
     "subFormations": [
       {
         "name": "CAB HQ Company (Middle stage)",
@@ -84,7 +483,7 @@
   {
     "name": "CAB HQ Company (Middle stage)",
     "size": "company",
-    "type": "rotary aviation headquarters",
+    "type": "rotary wing headquarters",
     "subFormations": [
       {
         "name": "Medical Treatment Platoon (Early stage)",
@@ -453,6 +852,48 @@
     ]
   },
   {
+    "name": "UAS Company (Middle stage)",
+    "size": "company",
+    "type": "uav",
+    "subFormations": [
+      {
+        "name": "TUAS Platoon (Middle stage)",
+        "count": 4
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      },
+      {
+        "name": "PMC Technical Specialist",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MQ-9 Reaper",
+        "count": 4
+      }
+    ]
+  },
+  {
     "name": "Armored Brigade Combat Team (Middle stage)",
     "size": "brigade",
     "type": "combined arms",
@@ -518,7 +959,8 @@
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       },
       {
@@ -577,7 +1019,7 @@
     "type": "security",
     "subFormations": [
       {
-        "name": "HQ Company",
+        "name": "HQ Company (Early stage)",
         "count": 1
       },
       {
@@ -1557,7 +1999,8 @@
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       }
     ]
@@ -1729,7 +2172,8 @@
         "count": 4,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       }
     ]
@@ -1744,7 +2188,8 @@
         "count": 2,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       },
       {
@@ -1960,7 +2405,8 @@
         "count": 2,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       }
     ]
@@ -1981,7 +2427,8 @@
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       },
       {
@@ -2030,7 +2477,8 @@
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
         ]
       },
       {
@@ -2039,7 +2487,8 @@
         "modifications": [
           "Multi-Spectral Camouflage",
           "Augmented Reality Networked Warfighter",
-          "Lynx 120"
+          "Lynx 120",
+          "AMAP-ADS"
         ]
       },
       {
@@ -2047,7 +2496,9 @@
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
-          "Augmented Reality Networked Warfighter"
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS",
+          "Leopard 2A6 PSO"
         ]
       },
       {
@@ -2775,6 +3226,13 @@
       {
         "name": "PMC Soldier",
         "count": 2,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Technical Specialist",
+        "count": 1,
         "modifications": [
           "Augmented Reality Networked Warfighter"
         ]
