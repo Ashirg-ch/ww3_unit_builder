@@ -17,7 +17,7 @@
         "count": 3
       },
       {
-        "name": "Division Cavalry Squadron (Middle stage)",
+        "name": "Cavalry Squadron (Middle stage)",
         "count": 1
       },
       {
@@ -44,7 +44,331 @@
     "type": "combined arms headquarters"
   },
   {
-    "name": "Division Cavalry Squadron (Middle stage)",
+    "name": "Division Sustainment Brigade (Middle stage)",
+    "size": "brigade",
+    "type": "supply",
+    "subFormations": [
+      {
+        "name": "Brigade Support Battalion (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Combat Aviation Brigade, Heavy (Middle stage)",
+    "size": "brigade",
+    "type": "rotary aviation",
+    "subFormations": [
+      {
+        "name": "CAB HQ Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Attack Reconnaissance Squadron (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Assault Helicopter Squadron (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "UAS Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Aviation Support Battalion (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "CAB HQ Company (Middle stage)",
+    "size": "company",
+    "type": "rotary aviation headquarters",
+    "subFormations": [
+      {
+        "name": "Medical Treatment Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Retransmission Team",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "UH-60 Black Hawk",
+        "count": 3
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 15
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 5,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Attack Reconnaissance Squadron (Middle stage)",
+    "size": "battalion",
+    "type": "reconnaissance rotary wing",
+    "subFormations": [
+      {
+        "name": "Helicopter HQ Troop (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Air Cavalry Troop (Middle stage)",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Air Cavalry Troop (Middle stage)",
+    "size": "company",
+    "type": "reconnaissance rotary wing",
+    "subFormations": [
+      {
+        "name": "Air Cavalry Platoon (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "TUAS Platoon (Middle stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Air Cavalry Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "reconnaissance rotary wing",
+    "units": [
+      {
+        "name": "AH-64E",
+        "count": 1,
+        "modifications": [
+          "Manned-Unmanned Teaming Refit"
+        ]
+      },
+      {
+        "name": "AH-64E",
+        "count": 3
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "Assault Helicopter Squadron (Middle stage)",
+    "size": "battalion",
+    "type": "medium utility rotary wing",
+    "subFormations": [
+      {
+        "name": "Helicopter HQ Troop (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Assault Helicopter Troop (Middle stage)",
+        "count": 3
+      },
+      {
+        "name": "Helicopter MEDEVAC Troop (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Assault Helicopter Troop (Middle stage)",
+    "size": "company",
+    "type": "medium utility rotary wing",
+    "subFormations": [
+      {
+        "name": "Assault Helicopter Platoon (Middle stage)",
+        "count": 2
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Assault Helicopter Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "medium utility rotary wing",
+    "units": [
+      {
+        "name": "Mi-35 Hind E",
+        "count": 5,
+        "modifications": [
+          "Mi-24 SuperHind Mk. III"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Helicopter MEDEVAC Troop (Middle stage)",
+    "size": "company",
+    "type": "rotary wing medical evacuation",
+    "subFormations": [
+      {
+        "name": "Helicopter MEDEVAC Platoon (Middle stage)",
+        "count": 2
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      },
+      {
+        "name": "PMC Medic",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Helicopter MEDEVAC Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "rotary wing medical evacuation",
+    "units": [
+      {
+        "name": "UH-60 Black Hawk",
+        "count": 3
+      },
+      {
+        "name": "Boeing CH-47 Chinook",
+        "count": 2
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      },
+      {
+        "name": "PMC Medic",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "Helicopter HQ Troop (Middle stage)",
+    "size": "company",
+    "type": "rotary wing headquarters",
+    "subFormations": [
+      {
+        "name": "Retransmission Team",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "UH-60 Black Hawk",
+        "count": 3
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 15
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 5,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cavalry Squadron (Middle stage)",
     "size": "battalion",
     "type": "armored cavalry",
     "subFormations": [
@@ -55,6 +379,76 @@
       {
         "name": "Armored Cavalry Troop (Middle stage)",
         "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Cavalry Squadron HQ Troop (Middle stage)",
+    "size": "company",
+    "type": "armored cavalry headquarters",
+    "subFormations": [
+      {
+        "name": "Sniper Squad (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Medical Treatment Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Heavy SP Mortar Platoon (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Retransmission Team",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "EBRC Jaguar",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "RG-32 Scout",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 17,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Husky 2G Mk.III",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
       }
     ]
   },
@@ -107,7 +501,7 @@
         "count": 1
       },
       {
-        "name": "Armored Cavalry Troop (Middle stage)",
+        "name": "Armored Cavalry Platoon (Middle stage)",
         "count": 1
       }
     ],
@@ -120,7 +514,7 @@
         ]
       },
       {
-        "name": "EMBT",
+        "name": "Leopard 2A6",
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
@@ -157,10 +551,10 @@
   {
     "name": "Heavy Division Artillery (Middle stage)",
     "size": "brigade",
-    "type": "tracked self-propelled artillery",
+    "type": "self-propelled artillery",
     "subFormations": [
       {
-        "name": "Division Artillery HQ Battery (Middle stage)",
+        "name": "Artillery HQ Battery",
         "count": 1
       },
       {
@@ -172,7 +566,8 @@
         "count": 1
       },
       {
-        "name": "Brigade Support Battalion (Middle stage)"
+        "name": "Brigade Support Battalion (Middle stage)",
+        "count": 1
       }
     ]
   },
@@ -213,8 +608,12 @@
         "count": 1
       },
       {
-        "name": "Air Defense Battery (Middle stage)",
-        "count": 3
+        "name": "SHORAD Battery (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "LRAD Battery (Middle stage)",
+        "count": 1
       },
       {
         "name": "Indirect Fire Protection Capability Battery (Middle stage)",
@@ -233,7 +632,7 @@
     "units": [
       {
         "name": "M54 cargo truck",
-        "count": 2,
+        "count": 5,
         "modifications": [
           "Multi-Spectral Camouflage"
         ]
@@ -262,6 +661,354 @@
         "modifications": [
           "Multi-Spectral Camouflage"
         ]
+      },
+      {
+        "name": "Ground Master 400",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SHORAD Battery (Middle stage)",
+    "size": "company",
+    "type": "air defense missile",
+    "subFormations": [
+      {
+        "name": "SHORAD Platoon (Middle stage)",
+        "count": 4
+      },
+      {
+        "name": "Ammunition Section",
+        "count": 2
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 10,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SHORAD Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "air defense missile",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Crotale",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Stormer HVM",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "LRAD Battery (Middle stage)",
+    "size": "company",
+    "type": "wheeled air defense missile",
+    "subFormations": [
+      {
+        "name": "LRAD Platoon (Middle stage)",
+        "count": 4
+      },
+      {
+        "name": "Ammunition Section",
+        "count": 2
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 15
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LRAD Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "wheeled air defense missile",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "MEADS",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "SAMP/T",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Indirect Fire Protection Capability Battery (Middle stage)",
+    "size": "company",
+    "type": "air defense",
+    "subFormations": [
+      {
+        "name": "C-RAM Platoon (Middle stage)",
+        "count": 4
+      },
+      {
+        "name": "Ammunition Section",
+        "count": 2
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 15
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      },
+      {
+        "name": "ARTHUR Counter fire radar",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "C-RAM Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "air defense gun",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "MANTIS C-RAM",
+        "count": 6,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Counter-UAS Battery (Middle stage)",
+    "size": "company",
+    "type": "air defense",
+    "subFormations": [
+      {
+        "name": "Counter-UAS Platoon (Middle stage)",
+        "count": 4
+      },
+      {
+        "name": "Ammunition Section",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 5
+      },
+      {
+        "name": "PMC Medic",
+        "count": 2
+      },
+      {
+        "name": "PMC Heavy Weapons",
+        "count": 10,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Counter-UAS Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "air defense",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "ZSU-23-4 upgrade",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "Starstreak"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
       }
     ]
   },
@@ -421,10 +1168,6 @@
       {
         "name": "Military Police Ops Center (Middle stage)",
         "count": 1
-      },
-      {
-        "name": "Military Police HQ Detachment (Middle stage)",
-        "count": 1
       }
     ],
     "units": [
@@ -461,7 +1204,7 @@
     "type": "headquarters",
     "subFormations": [
       {
-        "name": "Medical Treatment Platoon (Early stage)",
+        "name": "Medical Treatment Squad (Early stage)",
         "count": 1
       },
       {
@@ -510,7 +1253,7 @@
     "type": "multiple rocket launcher artillery",
     "subFormations": [
       {
-        "name": "Field Artillery Battalion HQ Battery",
+        "name": "Artillery HQ Battery",
         "count": 1
       },
       {
@@ -518,7 +1261,7 @@
         "count": 3
       },
       {
-        "name": "Forward Support Company",
+        "name": "Forward Support Section",
         "count": 1
       }
     ]
@@ -586,10 +1329,10 @@
   {
     "name": "Field Artillery Battalion (Middle stage)",
     "size": "battalion",
-    "type": "tracked self-propelled artillery",
+    "type": "self-propelled artillery",
     "subFormations": [
       {
-        "name": "Field Artillery Battalion HQ Battery",
+        "name": "Artillery HQ Battery",
         "count": 1
       },
       {
@@ -597,13 +1340,13 @@
         "count": 3
       },
       {
-        "name": "Forward Support Company",
+        "name": "Forward Support Section",
         "count": 1
       }
     ]
   },
   {
-    "name": "Field Artillery Battalion HQ Battery",
+    "name": "Artillery HQ Battery",
     "size": "company",
     "type": "artillery headquarters",
     "subFormations": [
@@ -633,7 +1376,7 @@
       },
       {
         "name": "PMC Medic",
-        "count": 5
+        "count": 3
       },
       {
         "name": "Husky 2G Mk.III",
@@ -647,7 +1390,7 @@
   {
     "name": "Field Artillery Battery (Middle stage)",
     "size": "company",
-    "type": "tracked self-propelled artillery",
+    "type": "self-propelled artillery",
     "subFormations": [
       {
         "name": "Field Artillery Platoon (Middle stage)",
@@ -662,7 +1405,7 @@
   {
     "name": "Field Artillery Platoon (Middle stage)",
     "size": "platoon",
-    "type": "tracked self-propelled artillery",
+    "type": "self-propelled artillery",
     "units": [
       {
         "name": "Humvee",
@@ -730,7 +1473,7 @@
         "count": 1
       },
       {
-        "name": "EMBT Tank Company",
+        "name": "Leopard 2A6 Tank Company",
         "count": 2
       },
       {
@@ -765,7 +1508,7 @@
         "count": 1
       },
       {
-        "name": "Armored Cavalry Troop (Middle stage)",
+        "name": "Armored Cavalry Platoon (Middle stage)",
         "count": 1
       }
     ],
@@ -825,7 +1568,7 @@
     "type": "armored cavalry",
     "subFormations": [
       {
-        "name": "Armored Cavalry Squad (Early stage)",
+        "name": "Armored Cavalry Squad (Middle stage)",
         "count": 3
       },
       {
@@ -837,7 +1580,7 @@
   {
     "name": "Heavy SP Mortar Section (Middle stage)",
     "size": "section",
-    "type": "motorized mortar",
+    "type": "tracked mortar",
     "units": [
       {
         "name": "CV90",
@@ -860,7 +1603,7 @@
   {
     "name": "Heavy SP Mortar Platoon (Middle stage)",
     "size": "platoon",
-    "type": "motorized mortar",
+    "type": "tracked mortar",
     "subFormations": [
       {
         "name": "Heavy SP Mortar Section (Middle stage)",
@@ -977,12 +1720,12 @@
     ]
   },
   {
-    "name": "EMBT Tank Platoon",
+    "name": "Leopard 2A6 Tank Platoon",
     "size": "platoon",
     "type": "armor",
     "units": [
       {
-        "name": "EMBT",
+        "name": "Leopard 2A6",
         "count": 4,
         "modifications": [
           "Multi-Spectral Camouflage",
@@ -992,12 +1735,12 @@
     ]
   },
   {
-    "name": "EMBT Tank Company HQ",
+    "name": "Leopard 2A6 Tank Company HQ",
     "size": "section",
     "type": "armor headquarters",
     "units": [
       {
-        "name": "EMBT",
+        "name": "Leopard 2A6",
         "count": 2,
         "modifications": [
           "Multi-Spectral Camouflage",
@@ -1036,16 +1779,16 @@
     ]
   },
   {
-    "name": "EMBT Tank Company",
+    "name": "Leopard 2A6 Tank Company",
     "size": "company",
     "type": "armor",
     "subFormations": [
       {
-        "name": "EMBT Tank Platoon",
+        "name": "Leopard 2A6 Tank Platoon",
         "count": 3
       },
       {
-        "name": "EMBT Tank Company HQ",
+        "name": "Leopard 2A6 Tank Company HQ",
         "count": 1
       }
     ]
@@ -1300,7 +2043,7 @@
         ]
       },
       {
-        "name": "EMBT",
+        "name": "Leopard 2A6",
         "count": 1,
         "modifications": [
           "Multi-Spectral Camouflage",
@@ -1903,7 +2646,7 @@
         "count": 1
       },
       {
-        "name": "EMBT Tank Platoon",
+        "name": "Leopard 2A6 Tank Platoon",
         "count": 1
       },
       {
@@ -1916,10 +2659,6 @@
       },
       {
         "name": "SUAS Team (Middle stage)",
-        "count": 1
-      },
-      {
-        "name": "CBRN Recon Platoon (Middle stage)",
         "count": 1
       },
       {
@@ -1950,7 +2689,7 @@
       },
       {
         "name": "PMC Medic",
-        "count": 3
+        "count": 2
       },
       {
         "name": "PMC Sniper",
@@ -2000,8 +2739,47 @@
     ]
   },
   {
-    "name": "CBRN Recon Platoon (Middle stage)",
-    "size": "platoon"
+    "name": "TUAS Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "uav",
+    "subFormations": [
+      {
+        "name": "SUAS Team (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "WB Electronics Warmate",
+        "count": 5
+      },
+      {
+        "name": "IAI Harop",
+        "count": 5
+      },
+      {
+        "name": "ScanEagle",
+        "count": 2
+      },
+      {
+        "name": "Schiebel Camcopter S-100",
+        "count": 1
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
   },
   {
     "name": "Forward Support Section",
@@ -2056,10 +2834,6 @@
     "size": "company",
     "type": "supply headquarters",
     "subFormations": [
-      {
-        "name": "Medical Treatment Platoon (Early stage)",
-        "count": 1
-      },
       {
         "name": "Retransmission Team",
         "count": 1
@@ -2182,7 +2956,7 @@
   {
     "name": "Heavy SP Mortar Section (Early stage)",
     "size": "section",
-    "type": "motorized mortar",
+    "type": "tracked mortar",
     "units": [
       {
         "name": "M113",
@@ -2205,7 +2979,7 @@
   {
     "name": "Medium SP Mortar Section (Early stage)",
     "size": "section",
-    "type": "motorized mortar",
+    "type": "tracked mortar",
     "units": [
       {
         "name": "M113",
@@ -2228,7 +3002,7 @@
   {
     "name": "Heavy SP Mortar Platoon (Early stage)",
     "size": "platoon",
-    "type": "motorized mortar",
+    "type": "tracked mortar",
     "subFormations": [
       {
         "name": "Heavy SP Mortar Section (Early stage)",
@@ -2271,7 +3045,7 @@
   {
     "name": "Medium SP Mortar Platoon (Early stage)",
     "size": "platoon",
-    "type": "motorized mortar",
+    "type": "tracked mortar",
     "subFormations": [
       {
         "name": "Medium SP Mortar Section (Early stage)",
@@ -2360,7 +3134,7 @@
       },
       {
         "name": "PMC Medic",
-        "count": 6,
+        "count": 5,
         "modifications": [
           "Augmented Reality Networked Warfighter"
         ]
@@ -2401,7 +3175,7 @@
       },
       {
         "name": "PMC Medic",
-        "count": 8,
+        "count": 6,
         "modifications": [
           "Augmented Reality Networked Warfighter"
         ]
