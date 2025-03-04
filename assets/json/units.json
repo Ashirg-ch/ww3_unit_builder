@@ -1821,132 +1821,132 @@
     "name": "WB Electronics Warmate",
     "cost": 100000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "tacticalDrone"
   },
   {
     "name": "Elbit SkyStriker",
     "cost": 150000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "tacticalDrone"
   },
   {
     "name": "IAI Harop",
     "cost": 400000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "tacticalDrone"
   },
   {
     "name": "ScanEagle",
     "cost": 750000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "tacticalDrone"
   },
   {
     "name": "Schiebel Camcopter S-100",
     "cost": 750000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "maleDrone"
   },
   {
     "name": "MQ-9 Reaper",
     "cost": 3500000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "haleDrone"
   },
   {
     "name": "Merlin Crowsnest AEW",
     "cost": 6000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "C-295 AEW&C",
     "cost": 10000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "C-295 SINGT",
     "cost": 8000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "E-99",
     "cost": 7500000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "Saab 340",
     "cost": 8000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "G550 AEW",
     "cost": 6500000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "P-3C",
     "cost": 7000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "P-72AS",
     "cost": 5000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "Voyager KC3",
     "cost": 11000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "E-2C Hawkeye",
     "cost": 12500000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "E-3 Sentry",
     "cost": 10000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "Raytheon Sentinel",
     "cost": 18000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "RC-135W Rivet Joint",
     "cost": 25000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "Breguet Atlantique 2",
     "cost": 7000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "P-8 Poseidon",
     "cost": 7500000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   },
   {
     "name": "Panavia Tornado ECR",
     "cost": 30000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "otherAircraft"
   }
 ]
