@@ -90,6 +90,8 @@ if __name__ == '__main__':
         "Medical Headquarters unit",
         "Mortar Headquarters unit",
         "Military Police Headquarters unit",
+        "Rotary wing Headquarters unit",
+        "Fixed wing Headquarters unit",
         "Headquarters unit",
     ]
 
