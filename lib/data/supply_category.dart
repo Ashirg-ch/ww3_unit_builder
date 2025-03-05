@@ -22,27 +22,17 @@ enum SupplyCategory {
   /// Combat engineers and technical specialists.
   engineerTechnicalSpecialist(-3),
 
-  /// Light drones, such as quadcopters.
-  handheldDrone(-2),
-  tacticalDrone(-10),
+  /// Intelligence Operatives and agents that are not part of the regular military.
+  intelligence(0),
 
-  /// Medium-altitude long endurance (MALE) drones.
+  /// Light vehicles, such as MRAPs.
   ///
-  /// Examples:
-  /// - General Atomics MQ-1 Predator
-  /// - Baykar Bayraktar TB2
-  maleDrone(-25),
+  /// They are not included in the supply count system,
+  /// because they're constrained by more limited capabilities.
+  lightVehicleMrap(0),
 
-  /// High-altitude long endurance (HALE) drones.
-  ///
-  /// Example: Northrop Grumman RQ-4 Global Hawk.
-  haleDrone(-50),
-
-  /// Attack helicopters and gunships.
-  ///
-  /// This also includes armed helicopters that can be used for transport,
-  /// such as the Mil Mi-24 Hind or the Mil Mi-8T Hip.
-  attackHelicopter(-100),
+  /// Engineering vehicles, such as bulldozers and mine-clearing vehicles,
+  engineeringVehicle(0),
 
   /// Infantry fighting vehicles (IFVs) and armored personnel carriers (APCs).
   ///
@@ -206,6 +196,28 @@ enum SupplyCategory {
   /// - Krasukha 4
   electronicWarfareSystem(-40),
 
+  /// Light drones, such as quadcopters.
+  handheldDrone(-2),
+  tacticalDrone(-10),
+
+  /// Medium-altitude long endurance (MALE) drones.
+  ///
+  /// Examples:
+  /// - General Atomics MQ-1 Predator
+  /// - Baykar Bayraktar TB2
+  maleDrone(-25),
+
+  /// High-altitude long endurance (HALE) drones.
+  ///
+  /// Example: Northrop Grumman RQ-4 Global Hawk.
+  haleDrone(-50),
+
+  /// Attack helicopters and gunships.
+  ///
+  /// This also includes armed helicopters that can be used for transport,
+  /// such as the Mil Mi-24 Hind or the Mil Mi-8T Hip.
+  attackHelicopter(-100),
+
   /// Light utility vehicles and trucks, used for transport and logistics.
   ///
   /// Examples:
@@ -285,19 +297,7 @@ enum SupplyCategory {
 
   /// Animals could be used for both transport and combat,
   /// and are therefore considered neutral per staff judgement.
-  animal(0),
-
-  /// Light vehicles, such as MRAPs.
-  ///
-  /// They are not included in the supply count system,
-  /// because they're constrained by more limited capabilities.
-  lightVehicleMrap(0),
-
-  /// Engineering vehicles, such as bulldozers and mine-clearing vehicles,
-  engineeringVehicle(0),
-
-  /// Intelligence Operatives and agents that are not part of the regular military.
-  intelligence(0);
+  animal(0);
 
   /// The number of supply units that a unit costs or provides.
   ///
@@ -316,7 +316,7 @@ enum SupplyCategory {
       orElse: () {
         print('Invalid supply category: $string');
         return SupplyCategory.lightVehicleMrap;
-      }
+      },
       //() => throw ArgumentError('Invalid supply category: $string'),
     );
   }
