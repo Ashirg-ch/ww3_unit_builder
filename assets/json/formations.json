@@ -41,7 +41,111 @@
   {
     "name": "Division HQ Battalion (Middle stage)",
     "size": "battalion",
-    "type": "combined arms headquarters"
+    "type": "combined arms headquarters unit",
+    "subFormations": [
+      {
+        "name": "Sniper Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "HQ Company (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Medical Treatment Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Signal Company",
+        "count": 1
+      },
+      {
+        "name": "Armored Cavalry Troop (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Military Intelligence Company (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Military Intelligence Company (Middle stage)",
+    "size": "company",
+    "type": "military intelligence",
+    "subFormations": [
+      {
+        "name": "Military Intelligence Platoon (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      },
+      {
+        "name": "PMC Technical Specialist",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "ScanEagle",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Military Intelligence Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "military intelligence",
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Condor A350",
+        "count": 2
+      },
+      {
+        "name": "Jeep",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 5
+      },
+      {
+        "name": "PMC Intelligence Operative",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
   },
   {
     "name": "Division Sustainment Brigade (Middle stage)",
@@ -77,6 +181,14 @@
       },
       {
         "name": "Route Clearance Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Mine Laying Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "TO-55 Company (Early stage)",
         "count": 1
       },
       {
@@ -384,9 +496,154 @@
     ]
   },
   {
+    "name": "Route Clearance Company (Middle stage)",
+    "size": "company",
+    "type": "engineer",
+    "subFormations": [
+      {
+        "name": "Engineer Company HQ (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Route Clearance Platoon (Middle stage)",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Route Clearance Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "engineer",
+    "subFormations": [
+      {
+        "name": "Route Clearance Section (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Mine Clearance Squad (Middle stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "Land Rover Defender 130CC-R",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "Panama Refit"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      },
+      {
+        "name": "PMC Medic",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Route Clearance Section (Middle stage)",
+    "size": "section",
+    "type": "engineer",
+    "units": [
+      {
+        "name": "Husky 2G Mk.III",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Keiler",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Mine Laying Company (Middle stage)",
+    "size": "company",
+    "type": "engineer",
+    "subFormations": [
+      {
+        "name": "Mine Laying Section (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "RG-32 Scout",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Mine Laying Section (Middle stage)",
+    "size": "section",
+    "type": "engineer",
+    "units": [
+      {
+        "name": "Shielder",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
     "name": "Engineer Company HQ (Middle stage)",
     "size": "platoon",
-    "type": "engineer headquarters",
+    "type": "engineer headquarters unit",
     "units": [
       {
         "name": "M54 cargo truck",
@@ -454,6 +711,66 @@
     ]
   },
   {
+    "name": "TO-55 Company (Early stage)",
+    "size": "company",
+    "type": "engineer",
+    "subFormations": [
+      {
+        "name": "TO-55 Platoon (Early stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "T-55A",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "TO-55"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "TO-55 Platoon (Early stage)",
+    "size": "platoon",
+    "type": "engineer",
+    "units": [
+      {
+        "name": "T-55A",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "TO-55"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 1
+      }
+    ]
+  },
+  {
     "name": "Combat Aviation Brigade, Heavy (Middle stage)",
     "size": "brigade",
     "type": "rotary wing",
@@ -483,7 +800,7 @@
   {
     "name": "CAB HQ Company (Middle stage)",
     "size": "company",
-    "type": "rotary wing headquarters",
+    "type": "rotary wing headquarters unit",
     "subFormations": [
       {
         "name": "Medical Treatment Platoon (Early stage)",
@@ -727,7 +1044,7 @@
   {
     "name": "Helicopter HQ Troop (Middle stage)",
     "size": "company",
-    "type": "rotary wing headquarters",
+    "type": "rotary wing headquarters unit",
     "subFormations": [
       {
         "name": "Retransmission Team",
@@ -767,6 +1084,110 @@
     ]
   },
   {
+    "name": "Aviation Support Battalion (Middle stage)",
+    "size": "battalion",
+    "type": "rotary wing maintenance",
+    "subFormations": [
+      {
+        "name": "Helicopter HQ Troop (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Aviation Maintenance Company (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Aviation Support Company (Middle stage)",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Aviation Maintenance Company (Middle stage)",
+    "size": "company",
+    "type": "rotary wing maintenance",
+    "subFormations": [
+      {
+        "name": "Maintenance Platoon",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Sikorsky CH-53E Super Stallion",
+        "count": 2
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Aviation Support Company (Middle stage)",
+    "size": "company",
+    "type": "rotary wing supply",
+    "subFormations": [
+      {
+        "name": "Rotary Supply Platoon (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Rotary Supply Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "rotary wing supply",
+    "units": [
+      {
+        "name": "UH-60 Black Hawk",
+        "count": 3
+      },
+      {
+        "name": "Boeing CH-47 Chinook",
+        "count": 2
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 2
+      }
+    ]
+  },
+  {
     "name": "Cavalry Squadron (Middle stage)",
     "size": "battalion",
     "type": "armored cavalry",
@@ -784,7 +1205,7 @@
   {
     "name": "Cavalry Squadron HQ Troop (Middle stage)",
     "size": "company",
-    "type": "armored cavalry headquarters",
+    "type": "armored cavalry headquarters unit",
     "subFormations": [
       {
         "name": "Sniper Squad (Early stage)",
@@ -911,7 +1332,7 @@
         "count": 1
       },
       {
-        "name": "Brigade Signal Company",
+        "name": "Signal Company",
         "count": 1
       },
       {
@@ -923,7 +1344,7 @@
   {
     "name": "ABCT HQ Company (Middle stage)",
     "size": "company",
-    "type": "combined arms headquarters",
+    "type": "combined arms headquarters unit",
     "subFormations": [
       {
         "name": "Sniper Squad (Early stage)",
@@ -1027,10 +1448,6 @@
         "count": 1
       },
       {
-        "name": "Military Intelligence Company (Middle stage)",
-        "count": 1
-      },
-      {
         "name": "Air Defense Battalion (Middle stage)",
         "count": 2
       },
@@ -1070,7 +1487,7 @@
   {
     "name": "Air Defense HQ Battery (Middle stage)",
     "size": "company",
-    "type": "air defense headquarters",
+    "type": "air defense headquarters unit",
     "units": [
       {
         "name": "M54 cargo truck",
@@ -1552,7 +1969,7 @@
   {
     "name": "Military Police Company HQ (Middle stage)",
     "size": "section",
-    "type": "military police headquarters",
+    "type": "military police headquarters unit",
     "units": [
       {
         "name": "M54 cargo truck",
@@ -1605,7 +2022,7 @@
   {
     "name": "Military Police HQ Detachment (Middle stage)",
     "size": "company",
-    "type": "military police headquarters",
+    "type": "military police headquarters unit",
     "subFormations": [
       {
         "name": "Military Police Ops Center (Middle stage)",
@@ -1643,7 +2060,7 @@
   {
     "name": "HQ Company (Early stage)",
     "size": "company",
-    "type": "headquarters",
+    "type": "headquarters unit",
     "subFormations": [
       {
         "name": "Medical Treatment Squad (Early stage)",
@@ -1790,7 +2207,7 @@
   {
     "name": "Artillery HQ Battery",
     "size": "company",
-    "type": "artillery headquarters",
+    "type": "artillery headquarters unit",
     "subFormations": [
       {
         "name": "Fire Direction Platoon (Middle stage)",
@@ -1931,7 +2348,7 @@
   {
     "name": "Combined Arms Battalion HQ Company (Middle stage)",
     "size": "company",
-    "type": "combined arms headquarters",
+    "type": "combined arms headquarters unit",
     "subFormations": [
       {
         "name": "Sniper Squad (Early stage)",
@@ -2105,7 +2522,7 @@
   {
     "name": "T-72 Tank Company HQ",
     "size": "section",
-    "type": "armor headquarters",
+    "type": "armor headquarters unit",
     "units": [
       {
         "name": "T-72M1",
@@ -2181,7 +2598,7 @@
   {
     "name": "Leopard 2A6 Tank Company HQ",
     "size": "section",
-    "type": "armor headquarters",
+    "type": "armor headquarters unit",
     "units": [
       {
         "name": "Leopard 2A6",
@@ -2644,7 +3061,7 @@
   {
     "name": "Combined Arms Battalion HQ Company (Early stage)",
     "size": "company",
-    "type": "combined arms headquarters",
+    "type": "combined arms headquarters unit",
     "subFormations": [
       {
         "name": "Sniper Squad (Early stage)",
@@ -2843,6 +3260,10 @@
       {
         "name": "PMC Soldier",
         "count": 10
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 1
       }
     ]
   },
@@ -3121,7 +3542,7 @@
   {
     "name": "Armored Cavalry Troop HQ (Middle stage)",
     "size": "section",
-    "type": "armored cavalry headquarters",
+    "type": "armored cavalry headquarters unit",
     "units": [
       {
         "name": "Humvee",
@@ -3285,12 +3706,32 @@
         "name": "Maintenance Company (Middle stage)",
         "count": 1
       }
+    ],
+    "units": [
+      {
+        "name": "Case 721 CXT",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "JCB 4CXM",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Condor A350",
+        "count": 1
+      }
     ]
   },
   {
     "name": "Brigade Support Battalion HQ Company (Middle stage)",
     "size": "company",
-    "type": "supply headquarters",
+    "type": "supply headquarters unit",
     "subFormations": [
       {
         "name": "Retransmission Team",
@@ -3691,12 +4132,60 @@
     ]
   },
   {
-    "name": "Brigade Signal Company",
+    "name": "Sniper Platoon (Early stage)",
+    "size": "platoon",
+    "type": "sniper",
+    "subFormations": [
+      {
+        "name": "Sniper Squad (Early stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Polaris MV850 TerrainArmor Edition",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Sniper",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Medic",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Signal Company",
     "size": "company",
     "type": "communications",
     "subFormations": [
       {
-        "name": "Brigade Signal Company HQ",
+        "name": "Signal Company HQ",
         "count": 1
       },
       {
@@ -3710,9 +4199,9 @@
     ]
   },
   {
-    "name": "Brigade Signal Company HQ",
+    "name": "Signal Company HQ",
     "size": "section",
-    "type": "headquarters",
+    "type": "headquarters unit",
     "units": [
       {
         "name": "M54 cargo truck",
