@@ -2658,7 +2658,7 @@
   {
     "name": "Mechanized Infantry Squad (Early stage)",
     "size": "squad",
-    "type": "mechanized infantry",
+    "type": "infantry fighting vehicle",
     "units": [
       {
         "name": "PMC Soldier",
@@ -2694,7 +2694,7 @@
   {
     "name": "Mechanized Infantry Platoon (Early stage)",
     "size": "platoon",
-    "type": "mechanized infantry",
+    "type": "infantry fighting vehicle",
     "subFormations": [
       {
         "name": "Mechanized Infantry Squad (Early stage)",
@@ -2736,7 +2736,7 @@
   {
     "name": "Mechanized Infantry Company (Early stage)",
     "size": "company",
-    "type": "mechanized infantry",
+    "type": "infantry fighting vehicle",
     "subFormations": [
       {
         "name": "Mechanized Infantry Platoon (Early stage)",
@@ -2794,7 +2794,7 @@
   {
     "name": "Mechanized Infantry Squad (Middle stage)",
     "size": "squad",
-    "type": "mechanized infantry",
+    "type": "infantry fighting vehicle",
     "units": [
       {
         "name": "PMC Soldier",
@@ -2831,7 +2831,7 @@
   {
     "name": "Mechanized Infantry Platoon (Middle stage)",
     "size": "platoon",
-    "type": "mechanized infantry",
+    "type": "infantry fighting vehicle",
     "subFormations": [
       {
         "name": "Mechanized Infantry Squad (Middle stage)",
@@ -2881,7 +2881,7 @@
   {
     "name": "Mechanized Infantry Company (Middle stage)",
     "size": "company",
-    "type": "mechanized infantry",
+    "type": "infantry fighting vehicle",
     "subFormations": [
       {
         "name": "Mechanized Infantry Platoon (Middle stage)",
@@ -2958,7 +2958,7 @@
   {
     "name": "Heavy Mechanized Infantry Squad (Early stage, BTR-T)",
     "size": "squad",
-    "type": "heavy mechanized infantry",
+    "type": "heavy infantry fighting vehicle",
     "units": [
       {
         "name": "PMC Soldier",
@@ -2995,7 +2995,7 @@
   {
     "name": "Heavy Mechanized Infantry Platoon (Early stage, BTR-T)",
     "size": "platoon",
-    "type": "heavy mechanized infantry",
+    "type": "heavy infantry fighting vehicle",
     "subFormations": [
       {
         "name": "Heavy Mechanized Infantry Squad (Early stage, BTR-T)",
