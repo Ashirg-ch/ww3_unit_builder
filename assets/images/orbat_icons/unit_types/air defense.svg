@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="135" viewBox="7.1583329875 15.8749996875 53.416666325 35.983332624999996" width="201">
     <g display="inline">
         <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="#80dfff" stop-color="#000000" />
-        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.05833" />
+        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.058333" />
     </g>
 <path d="m59.5166660 50.7999990 s-7.130233-16.933332-25.65-16.933332-25.6499995 16.933332-25.6499995 16.933332" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
 </svg>

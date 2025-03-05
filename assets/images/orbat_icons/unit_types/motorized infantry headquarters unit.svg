@@ -2,11 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="135" viewBox="7.1583329875 15.8749996875 53.416664325 35.983332624999996" width="201">
     <g display="inline">
         <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="#80dfff" stop-color="#000000" />
-        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.05833" />
+        <path d="m8.2166663 16.933333h51.2999977v33.866664h-51.2999977z" fill="none" stop-color="#000000" stroke="#000000" stroke-linejoin="round" stroke-width="1.058333" />
     </g>
 <g display="inline" opacity="1">
         <path d="m8.2166665 16.9333330  51.2999965 33.866666" fill="none" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
         <path d="m59.5166630 16.9333330 -51.2999965 33.866666" fill="none" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
     </g>
+<path d="m33.8666690 16.9333330 v33.866665" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
 <path d="m59.5166630 25.8441500 h-51.2999966" display="inline" fill="none" opacity="1" stop-color="#000000" stroke="#000000" stroke-width="1.05833" />
 </svg>
