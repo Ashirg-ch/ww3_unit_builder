@@ -1199,6 +1199,13 @@
       {
         "name": "Armored Cavalry Troop (Middle stage)",
         "count": 3
+      },
+      {
+        "name": "Cross Domain Troop (Middle stage)",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
       }
     ]
   },
@@ -1266,6 +1273,88 @@
       {
         "name": "PMC Heavy Weapons",
         "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cross Domain Troop (Middle stage)",
+    "size": "company",
+    "type": "reconnaissance and surveillance",
+    "subFormations": [
+      {
+        "name": "TUAS Platoon (Middle stage)",
+        "count": 2
+      },
+      {
+        "name": "Electronic Warfare Platoon (Middle stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "Humvee",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 10
+      },
+      {
+        "name": "PMC Technical Specialist",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "PMC Intelligence Operative",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronic Warfare Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "electronic warfare",
+    "units": [
+      {
+        "name": "Boxer MRAV",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Boxer EW"
+        ]
+      },
+      {
+        "name": "M54 cargo truck",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "PMC Soldier",
+        "count": 3
+      },
+      {
+        "name": "PMC Technical Specialist",
+        "count": 1,
         "modifications": [
           "Augmented Reality Networked Warfighter"
         ]
@@ -1715,7 +1804,7 @@
       },
       {
         "name": "Ammunition Section",
-        "count": 2
+        "count": 1
       }
     ],
     "units": [
@@ -1742,10 +1831,11 @@
         "count": 1
       },
       {
-        "name": "ARTHUR Counter fire radar",
+        "name": "Boxer MRAV",
         "count": 2,
         "modifications": [
-          "Multi-Spectral Camouflage"
+          "Multi-Spectral Camouflage",
+          "Boxer ARTHUR"
         ]
       }
     ]
@@ -1764,10 +1854,18 @@
       },
       {
         "name": "MANTIS C-RAM",
-        "count": 6,
+        "count": 5,
         "modifications": [
           "Multi-Spectral Camouflage",
           "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Boxer MRAV",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Boxer Mobile LWS"
         ]
       },
       {
@@ -1843,7 +1941,7 @@
       },
       {
         "name": "ZSU-23-4 upgrade",
-        "count": 3,
+        "count": 2,
         "modifications": [
           "Multi-Spectral Camouflage",
           "Augmented Reality Networked Warfighter"
@@ -1851,11 +1949,19 @@
       },
       {
         "name": "Humvee",
-        "count": 3,
+        "count": 2,
         "modifications": [
           "Multi-Spectral Camouflage",
           "Augmented Reality Networked Warfighter",
           "Starstreak"
+        ]
+      },
+      {
+        "name": "Boxer MRAV",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Boxer Mobile LWS"
         ]
       },
       {
@@ -4194,6 +4300,10 @@
       },
       {
         "name": "Network Support Platoon",
+        "count": 1
+      },
+      {
+        "name": "Electronic Warfare Platoon (Middle stage)",
         "count": 1
       }
     ]

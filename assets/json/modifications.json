@@ -580,11 +580,13 @@
   },
   {
     "name": "Artillery Gun Module",
-    "fixedCost": 3000000
+    "fixedCost": 3000000,
+    "supplyCategory": "selfPropelledHowitzer"
   },
   {
     "name": "Boxer ARTHUR",
-    "fixedCost": 3000000
+    "fixedCost": 3000000,
+    "supplyCategory": "counterBatteryBattlefieldSurveillanceRadars"
   },
   {
     "name": "Boxer Mobile LWS",
@@ -609,7 +611,8 @@
   {
     "name": "Marder Roland",
     "noRestrictions": true,
-    "fixedCost": 2500000
+    "fixedCost": 2500000,
+    "supplyCategory": "shortRangeSam"
   },
   {
     "name": "Marder Close Combat Vehicle",
@@ -617,7 +620,8 @@
   },
   {
     "name": "Lynx 120",
-    "fixedCost": 1500000
+    "fixedCost": 1500000,
+    "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "PT-76(M) Refit",
@@ -730,7 +734,9 @@
   },
   {
     "name": "ATGM Launcher",
-    "relativeCost": 0.1
+    "relativeCost": 0.1,
+    "supplyCategory": "lightTankTankDestroyer",
+    "overrideSupplyCategory": true
   },
   {
     "name": "Autocannon",
@@ -940,12 +946,14 @@
   {
     "name": "ACH-47A",
     "noRestrictions": true,
-    "fixedCost": 400000
+    "fixedCost": 400000,
+    "supplyCategory": "attackHelicopter"
   },
   {
     "name": "XM204 Aerial Artillery Weapon System",
     "noRestrictions": true,
-    "fixedCost": 1000000
+    "fixedCost": 1000000,
+    "supplyCategory": "selfPropelledHowitzer"
   },
   {
     "name": "AW101 VVIP",
