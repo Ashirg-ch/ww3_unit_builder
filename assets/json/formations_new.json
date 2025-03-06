@@ -1,0 +1,173 @@
+{
+  "Mechanized Infantry Squad": {
+    "size": "squad",
+    "type": "infantry fighting vehicle",
+    "techLevels": {
+      "2": {
+        "units": [
+          {
+            "name": "BMP-3",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter",
+              "Multi-Spectral Camouflage"
+            ]
+          },
+          {
+            "name": "PMC Soldier",
+            "quantity": 5,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Medic",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Heavy Weapons",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          }
+        ]
+      },
+      "4": {
+        "units": [
+          {
+            "name": "Lynx",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter",
+              "Multi-Spectral Camouflage"
+            ]
+          },
+          {
+            "name": "PMC Soldier",
+            "quantity": 5,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Medic",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Heavy Weapons",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Mechanized Infantry Platoon": {
+    "size": "platoon",
+    "type": "infantry fighting vehicle",
+    "subFormations": {
+      "Mechanized Infantry Squad": 3
+    },
+    "techLevels": {
+      "2": {},
+      "4": {}
+    }
+  },
+  "Mechanized Infantry Company": {
+    "size": "company",
+    "type": "infantry fighting vehicle",
+    "subFormations": {
+      "Mechanized Infantry Platoon": 3
+    },
+    "units": [
+      {
+        "name": "M54 Supply Truck",
+        "quantity": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ],
+    "techLevels": {
+      "2": {
+        "units": [
+          {
+            "name": "BMP-3",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter",
+              "Multi-Spectral Camouflage"
+            ]
+          },
+          {
+            "name": "T-72M1",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter",
+              "Multi-Spectral Camouflage",
+              "Electronic Reactive Armor",
+              "T-72M1 Slovak Moderna Turret Refit"
+            ]
+          },
+          {
+            "name": "PMC Soldier",
+            "quantity": 4,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Medic",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Heavy Weapons",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          },
+          {
+            "name": "PMC Sniper",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter"
+            ]
+          }
+        ]
+      },
+      "4": {
+        "units": [
+          {
+            "name": "Lynx",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter",
+              "Multi-Spectral Camouflage"
+            ]
+          },
+          {
+            "name": "Leopard 2A6",
+            "quantity": 1,
+            "modifications": [
+              "Augmented Reality Networked Warfighter",
+              "Multi-Spectral Camouflage"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

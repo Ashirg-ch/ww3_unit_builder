@@ -1,0 +1,23 @@
+{
+  "0": {
+    "description": "Tech Level 0 is a hypothetical set of equipment in case you ever feel like LARPing as a militia or a bunch of rebels that are just scraping by. Avoid in any other case."
+  },
+  "1": {
+    "description": "Tech Level 1 describes a somewhat stealthy starting point. Mediocre units, good to pass as a regular small PMC or private security force."
+  },
+  "2": {
+    "description": "Tech Level 2 is a working basis for conducting proper warfare. This includes most of the things in the independent shop, but does not include other things that might raise questions."
+  },
+  "3": {
+    "description": "Tech Level 3 describes the best things available in the independent shop. You can use this tech level without having to buy from a major faction and there is no need to worry about munition bans."
+  },
+  "4": {
+    "description": "Tech Level 4 includes weaker things from a major faction. Only use this if you still want to retain a solid level of plausible deniability about your employer or trading partner."
+  },
+  "5": {
+    "description": "Tech Level 5 describes good things from a major faction. This is probably what will be used most often, as soon as the cat is out of the bag. Or maybe you want to even start with this for true shock and awe?"
+  },
+  "6": {
+    "description": "Tech Level 6 is the best things from a major faction. Gaining access to this will not be easy, as major factions are usually reluctant to sell their best stuff, such as super carriers, F-35s or B-2s."
+  }
+}
