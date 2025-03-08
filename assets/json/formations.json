@@ -868,7 +868,7 @@
   {
     "name": "Air Cavalry Troop (Middle stage)",
     "size": "company",
-    "type": "reconnaissance rotary wing",
+    "type": "attack reconnaissance rotary wing",
     "subFormations": [
       {
         "name": "Air Cavalry Platoon (Middle stage)",
@@ -896,7 +896,7 @@
   {
     "name": "Air Cavalry Platoon (Middle stage)",
     "size": "platoon",
-    "type": "reconnaissance rotary wing",
+    "type": "attack reconnaissance rotary wing",
     "units": [
       {
         "name": "AH-64E",
@@ -2424,7 +2424,7 @@
   {
     "name": "Fire Direction Platoon (Middle stage)",
     "size": "platoon",
-    "type": "",
+    "type": "radar",
     "units": [
       {
         "name": "Boxer MRAV",

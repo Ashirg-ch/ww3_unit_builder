@@ -54,9 +54,11 @@ if __name__ == '__main__':
         "Attack rotary wing",
         "Reconnaissance rotary wing",
         "Attack reconnaissance rotary wing",
+        "Utility rotary wing",
         "Light utility rotary wing",
         "Medium utility rotary wing",
         "Heavy utility rotary wing",
+        "Medevac rotary wing",
         "Rotary wing",
         "Attack fixed wing",
         "Light utility fixed wing",
@@ -77,8 +79,7 @@ if __name__ == '__main__':
         "UAV Attack",
         "Reconnaissance and Surveillance",
         "Electronic Warfare",
-        "Fire Control",
-        "Electronic ranging",
+        "Radar",
         "K9",
         "Generic",
         "Armor Headquarters unit",
@@ -107,9 +108,6 @@ if __name__ == '__main__':
     # Special types that can't be properly resolved with the from-name method
     special_types = [
         #["Wheeled Mortar Headquarters", "13031000001308029800"] # Doesn't work
-        #["Attack reconnaissance rotary wing", "130310000012060106001"],
-        #["Reconnaissance rotary wing", "13031000001206010000"],
-        #["Reconnaissance fixed wing", "13031000001208010000"],
         #["Unmanned fixed wing reconnaissance", "13031000001208014700"],
         #["Unmanned rotary wing reconnaissance", "13031000001206014700"],
         #["Assault rotary wing", "130310000012060006561"],
