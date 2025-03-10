@@ -2,7 +2,7 @@ import json
 import re
 
 # Define the input and output file paths
-input_file_path = 'units_raw/eu.txt'
+input_file_path = 'units_raw/independent.txt'
 output_file_path = '../assets/json/new_units_2.json'
 
 # Function to parse a single line of unit data
@@ -16,7 +16,7 @@ def parse_unit_line(line):
         return {
             'name': name,
             'cost': cost,
-            'shop': 'eu',
+            'shop': 'independent',
             'supplyCategory': ''
         }
     return None

@@ -147,3 +147,41 @@ Mi-8T - 3,000,000
 Drones
 Explosive kamikaze quadcopter - 55,000  (1kg of explosives strapped to a commercial quadcopter)
 Bayraktar TB2 - 3,500,000
+
+San Juan-class patrol vessel - 1,000,000
+Mercy-class hospital ship - 10,000,000
+Berlin-class replenishment ship - 30,000,000
+Henry J. Kaiser-class replenishment oiler - 45,000,000
+Floating dry dock - 50,000,000 (moves at 5 kts)
+Newport-class LST - 120,000,000
+
+Small Patrol Ships
+Komar-class missile boat - 500,000
+Patrol Boat, River (PBRs) - 2,500,000
+Patrol Craft Fast mk. III - 3,000,000
+Zhuk-class patrol boat - 1,000,000
+Osa-class missile boat - 10,000,000
+
+Landing craft
+LCM-8 - 500,000
+LARC-XV - 150,000
+LARC-V - 200,000
+LARC-LX - 800,000
+
+Corvette
+Nanuchka II-class corvette - 24,000,000
+
+Frigates
+Oliver Hazard Perry-class frigate - 175,000,000
+Knox-class frigate - 50,000,000
+
+Carriers
+1942 Design Light Fleet Carrier - 375,000,000 (8 fp)
+
+Submarines
+Migaloo M2 - 50,000,000
+Hyper-Sub Submersible Powerboat - 10,000,000
+Large Narco submarine - 10,000,000 (2 fp)
+Small Narco submarine - 4,000,000
+Migaloo M5 - 125,000,000
+Migaloo M7 - 175,000,000

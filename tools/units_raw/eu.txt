@@ -210,3 +210,40 @@ RC-135W Rivet Joint - 25,000,000 (32mp)
 Breguet Atlantique 2 - 7,000,000 (12mp)
 P-8 Poseidon - 7,500,000 (9mp)
 Panavia Tornado ECR - 30,000,000 (2mp)
+Queen Elizabeth-class aircraft carrier - 1,800,000,000
+Charles De Gaulle-class aircraft carrier - 1,100,000,000
+Mistral-class Amphibious Assault Carrier - 690,000,000
+Rotterdam-class Amphibious Assault Ship - 430,000,000
+Albion-class Amphibious Assault Ship - 430,000,000
+Type-45 Daring-class destroyer - 320,000,000
+Horizon-class destroyer - 270,000,000
+Carlo Bergamini-class destroyer - 230,000,000
+Karel Doorman-class frigate - 120,000,000
+Baden Württemberg Frigate - 90,000,000
+Type 26 Frigate - 280,000,000
+Sachsen-class frigate - 230,000,000
+Alvaro de Bazan-class frigate - 280,000,000
+Aquitaine-class frigate - 215,000,000
+Iver Huitfeldt-class frigate - 200,000,000
+Absalon-class Amphibious Support Ship - 120,000,000
+De Zeven Provincien-class frigate - 250,000,000
+Visby-class corvette - 30,000,000
+River-class patrol vessel - 8,000,000
+Storm-class patrol ship - 20,000,000
+Hamina-class missile boat - 30,000,000
+Gotland-class patrol submarine - 355,000,000
+Type 212 submarine  - 390,000,000
+Scorpene-class patrol submarine - 360,000,000
+Astute-class attack submarine - 480,000,000
+Trafalgar-class attack submarine - 425,000,000
+Suffren-class submarine - 400,000,000
+Amethyste-class attack submarine - 320,000,000
+Berlin-class replenishment ship - 30,000,000
+Oste-class intelligence collection ship - 35,000,000
+Monge-class telecommunications ship - 40,000,000
+Wave-class tanker - 45,000,000
+Tide-class tanker - 50,000,000
+LCVP Mk.5 - 1,000,000 (3mp)
+LCU Mk.10 - 3,000,000 (7mp)
+Griffon 2000TD - 3,500,000 (3mp)
+CB90-class fast assault craft - 4,500,000

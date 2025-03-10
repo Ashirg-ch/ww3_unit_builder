@@ -1005,7 +1005,7 @@
     "name": "EXACTOR 2",
     "cost": 1000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "XA-202",
@@ -1071,13 +1071,13 @@
     "name": "Shielder",
     "cost": 1750000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "engineeringVehicle"
   },
   {
     "name": "NM142",
     "cost": 2750000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "Griffon APC",
@@ -1948,5 +1948,410 @@
     "cost": 30000000,
     "shop": "eu",
     "supplyCategory": "otherAircraft"
+  },
+  {
+    "name": "Queen Elizabeth-class aircraft carrier",
+    "cost": 1800000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 10
+  },
+  {
+    "name": "Charles De Gaulle-class aircraft carrier",
+    "cost": 1100000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 8
+  },
+  {
+    "name": "Mistral-class Amphibious Assault Carrier",
+    "cost": 690000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Rotterdam-class Amphibious Assault Ship",
+    "cost": 430000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Albion-class Amphibious Assault Ship",
+    "cost": 430000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Type-45 Daring-class destroyer",
+    "cost": 320000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 5
+  },
+  {
+    "name": "Horizon-class destroyer",
+    "cost": 270000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 5
+  },
+  {
+    "name": "Carlo Bergamini-class destroyer",
+    "cost": 230000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 5
+  },
+  {
+    "name": "Karel Doorman-class frigate",
+    "cost": 120000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Baden W\u00fcrttemberg Frigate",
+    "cost": 90000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Type 26 Frigate",
+    "cost": 280000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Sachsen-class frigate",
+    "cost": 230000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Alvaro de Bazan-class frigate",
+    "cost": 280000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Aquitaine-class frigate",
+    "cost": 215000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Iver Huitfeldt-class frigate",
+    "cost": 200000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Absalon-class Amphibious Support Ship",
+    "cost": 120000000,
+    "shop": "eu",
+    "supplyCategory": "",
+    "fp": 3
+  },
+  {
+    "name": "De Zeven Provincien-class frigate",
+    "cost": 250000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 3
+  },
+  {
+    "name": "Visby-class corvette",
+    "cost": 30000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 2
+  },
+  {
+    "name": "River-class patrol vessel",
+    "cost": 8000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 1
+  },
+  {
+    "name": "Storm-class patrol ship",
+    "cost": 20000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 1
+  },
+  {
+    "name": "Hamina-class missile boat",
+    "cost": 30000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 1
+  },
+  {
+    "name": "Gotland-class patrol submarine",
+    "cost": 355000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 5
+  },
+  {
+    "name": "Type 212 submarine",
+    "cost": 390000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 5
+  },
+  {
+    "name": "Scorpene-class patrol submarine",
+    "cost": 360000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 5
+  },
+  {
+    "name": "Astute-class attack submarine",
+    "cost": 480000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Trafalgar-class attack submarine",
+    "cost": 425000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Suffren-class submarine",
+    "cost": 400000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Amethyste-class attack submarine",
+    "cost": 320000000,
+    "shop": "eu",
+    "supplyCategory": "otherShips",
+    "fp": 7
+  },
+  {
+    "name": "Berlin-class replenishment ship",
+    "cost": 30000000,
+    "shop": "eu",
+    "supplyCategory": "cargoSupplyShip",
+    "fp": 1
+  },
+  {
+    "name": "Oste-class intelligence collection ship",
+    "cost": 35000000,
+    "shop": "eu",
+    "supplyCategory": "",
+    "fp": 1
+  },
+  {
+    "name": "Monge-class telecommunications ship",
+    "cost": 40000000,
+    "shop": "eu",
+    "supplyCategory": "",
+    "fp": 1
+  },
+  {
+    "name": "Wave-class tanker",
+    "cost": 45000000,
+    "shop": "eu",
+    "supplyCategory": "cargoSupplyShip",
+    "fp": 1
+  },
+  {
+    "name": "Tide-class tanker",
+    "cost": 50000000,
+    "shop": "eu",
+    "supplyCategory": "cargoSupplyShip",
+    "fp": 1
+  },
+  {
+    "name": "LCVP Mk.5",
+    "cost": 1000000,
+    "shop": "eu",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "LCU Mk.10",
+    "cost": 3000000,
+    "shop": "eu",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "Griffon 2000TD",
+    "cost": 3500000,
+    "shop": "eu",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "CB90-class fast assault craft",
+    "cost": 4500000,
+    "shop": "eu",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "San Juan-class patrol vessel",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Mercy-class hospital ship",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": "cargoSupplyShip"
+  },
+  {
+    "name": "Berlin-class replenishment ship",
+    "cost": 30000000,
+    "shop": "independent",
+    "supplyCategory": "cargoSupplyShip"
+  },
+  {
+    "name": "Henry J. Kaiser-class replenishment oiler",
+    "cost": 45000000,
+    "shop": "independent",
+    "supplyCategory": "cargoSupplyShip"
+  },
+  {
+    "name": "Floating dry dock",
+    "cost": 50000000,
+    "shop": "independent",
+    "supplyCategory": "cargoSupplyShip"
+  },
+  {
+    "name": "Newport-class LST",
+    "cost": 120000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Komar-class missile boat",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Patrol Boat, River (PBRs)",
+    "cost": 2500000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Patrol Craft Fast mk. III",
+    "cost": 3000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Zhuk-class patrol boat",
+    "cost": 1000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Osa-class missile boat",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "LCM-8",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "LARC-XV",
+    "cost": 150000,
+    "shop": "independent",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "LARC-V",
+    "cost": 200000,
+    "shop": "independent",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "LARC-LX",
+    "cost": 800000,
+    "shop": "independent",
+    "supplyCategory": "landingCraft"
+  },
+  {
+    "name": "Nanuchka II-class corvette",
+    "cost": 24000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Oliver Hazard Perry-class frigate",
+    "cost": 175000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Knox-class frigate",
+    "cost": 50000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "1942 Design Light Fleet Carrier",
+    "cost": 375000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Migaloo M2",
+    "cost": 50000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Hyper-Sub Submersible Powerboat",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": "otherShips"
+  },
+  {
+    "name": "Large Narco submarine",
+    "cost": 10000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Small Narco submarine",
+    "cost": 4000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Migaloo M5",
+    "cost": 125000000,
+    "shop": "independent",
+    "supplyCategory": ""
+  },
+  {
+    "name": "Migaloo M7",
+    "cost": 175000000,
+    "shop": "independent",
+    "supplyCategory": ""
   }
 ]
