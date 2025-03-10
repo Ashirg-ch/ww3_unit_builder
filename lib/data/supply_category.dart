@@ -25,6 +25,10 @@ enum SupplyCategory {
   /// Intelligence Operatives and agents that are not part of the regular military.
   intelligence(0),
 
+  /// Animals could be used for both transport and combat,
+  /// and are therefore considered neutral per staff judgement.
+  animal(0),
+
   /// Light vehicles, such as MRAPs.
   ///
   /// They are not included in the supply count system,
@@ -196,28 +200,6 @@ enum SupplyCategory {
   /// - Krasukha 4
   electronicWarfareSystem(-40),
 
-  /// Light drones, such as quadcopters.
-  handheldDrone(-2),
-  tacticalDrone(-10),
-
-  /// Medium-altitude long endurance (MALE) drones.
-  ///
-  /// Examples:
-  /// - General Atomics MQ-1 Predator
-  /// - Baykar Bayraktar TB2
-  maleDrone(-25),
-
-  /// High-altitude long endurance (HALE) drones.
-  ///
-  /// Example: Northrop Grumman RQ-4 Global Hawk.
-  haleDrone(-50),
-
-  /// Attack helicopters and gunships.
-  ///
-  /// This also includes armed helicopters that can be used for transport,
-  /// such as the Mil Mi-24 Hind or the Mil Mi-8T Hip.
-  attackHelicopter(-100),
-
   /// Light utility vehicles and trucks, used for transport and logistics.
   ///
   /// Examples:
@@ -243,6 +225,31 @@ enum SupplyCategory {
   /// - Scania CaRAPACE
   /// - Oshkosh Wheeled Tanker
   fuelTanker(80),
+
+  /// Light drones, such as quadcopters.
+  handheldDrone(-2),
+  tacticalDrone(-10),
+
+  /// Medium-altitude long endurance (MALE) drones.
+  ///
+  /// Examples:
+  /// - General Atomics MQ-1 Predator
+  /// - Baykar Bayraktar TB2
+  maleDrone(-25),
+
+  /// High-altitude long endurance (HALE) drones.
+  ///
+  /// Example: Northrop Grumman RQ-4 Global Hawk.
+  haleDrone(-50),
+
+  /// Attack helicopters and gunships.
+  ///
+  /// This also includes armed helicopters that can be used for transport,
+  /// such as the Mil Mi-24 Hind or the Mil Mi-8T Hip.
+  attackHelicopter(-100),
+
+  /// Non-transport planes are not included in the supply count system due to being base-dependent.
+  otherAircraft(0),
 
   /// Transport helicopters.
   ///
@@ -274,13 +281,8 @@ enum SupplyCategory {
   /// - An-124
   strategicAirLifter(600),
 
-  /// Naval landing craft.
-  ///
-  /// Examples:
-  /// - Zubr
-  /// - LCAC
-  /// - LCM-8
-  landingCraft(500),
+  /// Non-transport ships use a different system for their supplies.
+  otherShips(0),
 
   /// Cargo ships and dedicated supply ships.
   ///
@@ -289,15 +291,13 @@ enum SupplyCategory {
   /// - Berlin-class
   cargoSupplyShip(5000),
 
-  /// Non-transport planes are not included in the supply count system due to being base-dependent.
-  otherAircraft(0),
-
-  /// Non-transport ships use a different system for their supplies.
-  otherShips(0),
-
-  /// Animals could be used for both transport and combat,
-  /// and are therefore considered neutral per staff judgement.
-  animal(0);
+  /// Naval landing craft.
+  ///
+  /// Examples:
+  /// - Zubr
+  /// - LCAC
+  /// - LCM-8
+  landingCraft(500);
 
   /// The number of supply units that a unit costs or provides.
   ///
