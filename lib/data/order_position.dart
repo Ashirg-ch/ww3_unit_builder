@@ -95,6 +95,6 @@ class OrderPosition {
 
     if (mods.isEmpty) return '';
 
-    return '\n-${mods.map((e) => e.name).join('\n- ')}';
+    return '\n-${mods.map((e) => e.name).join('\n-')}';
   }
 }
