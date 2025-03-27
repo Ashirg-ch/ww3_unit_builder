@@ -570,3 +570,187 @@ These can only be applied to tanks, armored cars and tank analogs.
 
 ```Research Store Modifications```
 **Augmented Reality Networked Warfighter** - 20%
+
+```Naval Modifications```
+***__DISCLAIMER:__*** The mods have to fit. You can't simply put a turret on any ship. It needs to make actual sense.
+**Box Launcher** - 20,000,000
+- 2 Mod Slots
+- Small and Up
+- Installs a specified box launcher
+**Small Gun Turret** - 5,000,000
+- 1 mod slot
+- Small and up
+- Installs a single barreled 130mm gun turret
+- Maximum of 6
+**Medium Gun Turret** - 10,000,000
+- 2 Mod Slots
+- Medium and Up
+- Installs a turret with Double 130mm guns
+- Maximum of 4
+**Multiple Rocket Launcher** - 20,000,000
+- 2 Mod Slots
+- Small and Up
+- Installs a single multiple rocket launcher
+- Holds 40x 122mm Rockets
+- Range of 40km
+**Anti-Ship Missile Launcher** - 50,000,000
+- 2 Mod Slots
+- Small and Up
+- Installs a specified Anti-Ship Missile Launcher
+**ASW Multiple Rocket Launcher** - 10,000,000
+- 2 Mod Slots
+- Small and Up
+- Adds single ASW multiple rocket launcher of your choice
+**Anti-Torpedo System** - 15,000,000
+- 2 Mod Slots
+- Small and Up
+- Adds one anti-torpedo torpedo launcher or anti-torpedo decoy system
+**Vertical Launch System** - 5,000,000
+- 1 Mod Slot
+- Small and Up
+- Installs a single VLS Tube
+- Missile must be specified
+**Quad Vertical Launch System** - 20,000,000
+- 2 Mod Slots
+- Medium and Up
+- Installs 4 VLS Tubes
+- Missile must be specified
+**Octuple Vertical Launch System** - 40,000,000
+- 3 Mod Slots
+- Large and Up
+- Installs 8 VLS Tubes
+- Missile must be specified
+**Small Torpedo Launchers** - 8,000,000
+- 1 Mod Slot
+- Small and Up
+- Installs 2x 533 mm Torpedo Launchers
+- 4x 533mm Torpedoes in Storage
+**Medium Torpedo Launchers** - 20,000,000
+- 2 Mod Slots
+- Medium and Up
+- Installs 6x 533mm or 4x 600mm+ Torpedo Launchers
+- 24x 533mm or 16x 600mm+ torpedoes in
+   storage
+**Large Torpedo Launchers** - 30,000,000
+- 5 Mod Slots
+- Large and Up
+- Installs 12x 600 mm+ torpedo launchers
+- 48x 600mm+ Torpedoes in storage
+**Ship Modernization mod** - 25% of unit cost
+- 5 Mod Slots
+- Small and up
+- Refits everything on a ship to a modern standard. This would include things such as an upgraded hull, boilers, drive system, communications and radar, electronic warfare systems, removal of steel armor and addition of kevlar (optional), a better interior, better flight deck, elevators, and arresting wires/catapults for carriers, etc. Puts all the non-weaponry parts of a ship on par with modern day ships.
+- Only for pre-2000 ships that do not already have an existing upgrade not solely related to weaponry in any shop. "Modernized" unit versions of an older unit fall under this if non-weaponry parts of the ship are upgraded.
+**CIWS Systems** - 20,000,000
+- 2 Mod Slots
+- Small Ships and Above
+- Installs 2 CIWS Turrets to the ship
+**30mm Oerlikon** - 5,000,000
+- 1 mod slot
+- Small Ships and Above
+- Installs 2x 30mm Oerlikon guns
+- Protection against smaller boats
+**Depth Charges** - 10,000,000
+- 1 Mod Slot
+- Small Ships and Above
+- Installs 2x Depth Charge Launchers
+**Drone Catapult** - 5,000,000
+- 2 Mod Slots
+- Medium Ships and Above
+- Installs a single catapult for use by UAVs
+**Special Submarine Payload Module** - 80,000,000
+- 6 Mod Slots
+- Adds midsection capable of supporting 15 VLS of your choice or a lock-out chamber for divers and their equipment as well as ROVs (up to 40 divers, ROVs come with the modification)
+- Nuclear submarines only
+- Maximum of 1 per submarine
+- Cannot be added to the Block V Virginia-class or Ohio-class
+- Cannot be stacked with Multi-Mission Platform Refit
+```Naval Refits```
+__**Any Vessel**__
+**Museum Ship Refit** - 50,000,000
+- 4 Mod Slots
+- Vessel must be commissioned before 1980
+- Becomes a museum
+- Removes all FP
+- Ship cannot be used in combat
+**Yacht Refit** - 70,000,000
+- 5 Mod Slots
+- Becomes a modern luxury yacht
+- Removes all FP
+- Ship cannot be used in combat
+- Maximum of 3 Refits per player
+
+**VLS Missile System Refit** - 2,000,000 per VLS cell
+- Replaces the VLS cells of a warship with that of a system indigenous to your faction or that you have been given permission to utilize.
+- Must roughly be the same type and size of VLS for one-to-one conversion; other conversions must be approved separately.
+- 6 Mod Slots.
+
+__**Any Vessel Over 150 Meters**__
+**Flagship Refit** - 50,000,000
+ - 4 Mod Slots
+- Installs more Advanced EW Systems, secure long range communications and other electronic systems, adds a helipad capable of holding 2 small/medium or 1 large helicopter. 1 per person. Cannot be stacked with the EW Upgrade.
+**Reinforced Ice Breaker Bow** - 25,000,000
+- 4 Mod Slots
+- Reinforces the bow of a vessel to be able to break ice up to 3 feet thick ice (Note: this is significantly less than designated icebreakers)
+
+__**Any vessel over 200 Meters or classified as a battleship or aircraft carrier**__
+**Nuclear Reactor** - 60,000,000
+- 4 Mod Slots
+- Replaces current engine with a nuclear reactor
+- Adds +5 knots to top speed
+- Max deviation for using nuclear reactor is 10 meters
+__**Slava Class Cruiser**__
+**Varyag Refit** - 40,000,000
+- 4 Mod Slots
+- Holds P-1000 Missiles as opposed to P-500s
+
+__**Zumwalt Class Destroyer**__
+**Conventional Prompt Strike Refit** - 550,000,000
+- 5 Mod Slots
+- Adds 4 missile tubes for 3 LRHWs each (12 total), replacing Advanced Gun Systems
+- Max 1 per person
+
+__**Queen Elizabeth Class Aircraft Carrier**__
+**CATOBAR Configuration** - 100,000,000
+- 4 Mod Slots
+- Installs the planned CATOBAR configuration to the ship
+
+__**America Class Amphibious Assault Carrier**__
+**Flight I** - 25,000,000
+- 4 Mod Slots
+- Installs well deck
+- Holds 2 Less Helicopters
+- Well deck has space for 2 LCACs
+
+__**Kiev Class**__
+**India Refit** - 150,000,000
+- 2 Mod Slots
+- Refits the ship into a complete Aircraft Carrier
+**Project 11780 Kherson LHD Refit** - 200,000,000
+- 4 Mod Slots
+- Refits the ship into the proposed Project 11780 Kherson LHD.
+- Carries up to 2,200x Marines, 4x Aist-class LCACs and 50x Amphibious combat vehicles.
+- Can carry an air wing of up to 12x Ka-25s/Ka-27s/Ka-29s or 20x Yak-38s.
+__**Kuznetsov-class**__
+**Kuznetsov Armament Overhaul** - 400,000,000
+- 4 Mod Slots
+- Can support up to 56 aircraft.
+- Kashtan CIWS replaced by Pantsir-Ms.
+- P-700 tubes removed.
+- 3K95 Kinzhals replaced by 72x S-350Es.
+
+__**Oscar 2 Class**__
+**Project 949AM Refit** - 300,000,000
+- 1 Mod Slot
+
+__**Seawolf-class**__
+**Multi-Mission Platform Refit** - 80,000,000
+- 1 Mod Slot
+- Length increased by approximately 30 meters
+- Insertion of a section known as the Multi-Mission Platform (MMP) which allows launch and recovery of remotely operated underwater vehicles and the deployment of special forces.
+
+__**De Zeven Provienciën-class**__
+**De Zeven Provienciën-class frigate modernization package** - 120,000,000
+- 4 Mod Slots
+- The SMART-L radar is upgraded to the SMART-L Mk. 2 radar, along with upgrades to the APAR radar
+- Adds 8 Mk. 41 VLS; ESSM Block 2 can now be used too

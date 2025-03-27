@@ -79,9 +79,63 @@
   },
   {
     "name": "Condor A350",
-    "cost": 450000,
+    "cost": 55000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Polaris MV850 TerrainArmor Edition",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "Horse",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Donkey",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Mule",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Llama",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Camel",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Reindeer",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Water Buffalo",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
+  },
+  {
+    "name": "Domestic Yak",
+    "cost": 55000,
+    "shop": "independent",
+    "supplyCategory": "animal"
   },
   {
     "name": "Ferret armored car",
@@ -90,49 +144,55 @@
     "supplyCategory": "lightVehicleMrap"
   },
   {
-    "name": "Renault Sherpa",
-    "cost": 600000,
+    "name": "Renault Sherpa Light",
+    "cost": 250000,
+    "shop": "independent",
+    "supplyCategory": "lightVehicleMrap"
+  },
+  {
+    "name": "FV603 Saracen",
+    "cost": 150000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "Saxon armored car",
-    "cost": 550000,
+    "cost": 200000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "Cadillac Gage Commando V150",
-    "cost": 500000,
+    "cost": 250000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "Casspir Mk6",
-    "cost": 700000,
+    "cost": 250000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "First Win MRAP",
-    "cost": 500000,
+    "cost": 250000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "DillonAero Convoy Escort Vehicle",
-    "cost": 100000,
+    "cost": 225000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "Panhard AML-90",
-    "cost": 1000000,
+    "cost": 300000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
   },
   {
-    "name": "BDRM-2",
+    "name": "BRDM-2",
     "cost": 225000,
     "shop": "independent",
     "supplyCategory": "lightVehicleMrap"
@@ -150,8 +210,8 @@
     "supplyCategory": "lightUtilityVehicle"
   },
   {
-    "name": "Polaris MV850 TerrainArmor Edition",
-    "cost": 650000,
+    "name": "Mercedes-Benz G63 AMG 6x6",
+    "cost": 75000,
     "shop": "independent",
     "supplyCategory": "lightUtilityVehicle"
   },
@@ -169,7 +229,7 @@
   },
   {
     "name": "Lamborghini LM002",
-    "cost": 400000,
+    "cost": 80000,
     "shop": "independent",
     "supplyCategory": "lightUtilityVehicle"
   },
@@ -180,12 +240,6 @@
     "supplyCategory": "lightUtilityVehicle"
   },
   {
-    "name": "Mercedes-Benz G63 AMG 6x6",
-    "cost": 250000,
-    "shop": "independent",
-    "supplyCategory": "heavyUtilityVehicle"
-  },
-  {
     "name": "Heavy technical",
     "cost": 1000000,
     "shop": "independent",
@@ -193,7 +247,7 @@
   },
   {
     "name": "Supacat All-Terrain Mobility Platform",
-    "cost": 100000,
+    "cost": 75000,
     "shop": "independent",
     "supplyCategory": "heavyUtilityVehicle"
   },
@@ -241,13 +295,7 @@
   },
   {
     "name": "Warrior IFV",
-    "cost": 900000,
-    "shop": "independent",
-    "supplyCategory": "ifvApc"
-  },
-  {
-    "name": "MT-LB",
-    "cost": 400000,
+    "cost": 600000,
     "shop": "independent",
     "supplyCategory": "ifvApc"
   },
@@ -258,14 +306,20 @@
     "supplyCategory": "ifvApc"
   },
   {
-    "name": "Paramount Marauder",
-    "cost": 450000,
+    "name": "MT-LB",
+    "cost": 400000,
     "shop": "independent",
     "supplyCategory": "ifvApc"
   },
   {
-    "name": "BTR-152",
-    "cost": 200000,
+    "name": "Paramount Marauder",
+    "cost": 250000,
+    "shop": "independent",
+    "supplyCategory": "ifvApc"
+  },
+  {
+    "name": "BTR 152",
+    "cost": 150000,
     "shop": "independent",
     "supplyCategory": "ifvApc"
   },
@@ -283,31 +337,37 @@
   },
   {
     "name": "FV432 Armored Personnel Carrier",
-    "cost": 650000,
+    "cost": 500000,
     "shop": "independent",
     "supplyCategory": "ifvApc"
   },
   {
     "name": "OT-64 SKOT",
-    "cost": 850000,
+    "cost": 500000,
     "shop": "independent",
     "supplyCategory": "ifvApc"
   },
   {
     "name": "PT-76",
+    "cost": 500000,
+    "shop": "independent",
+    "supplyCategory": "lightTankTankDestroyer"
+  },
+  {
+    "name": "AMX-13/75",
     "cost": 600000,
     "shop": "independent",
     "supplyCategory": "lightTankTankDestroyer"
   },
   {
-    "name": "AMX-13",
-    "cost": 1000000,
+    "name": "AMX-13/105",
+    "cost": 800000,
     "shop": "independent",
     "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "Cadillac Gage Stingray",
-    "cost": 2500000,
+    "cost": 1500000,
     "shop": "independent",
     "supplyCategory": "lightTankTankDestroyer"
   },
@@ -331,31 +391,37 @@
   },
   {
     "name": "T-72M1",
-    "cost": 2500000,
+    "cost": 1500000,
     "shop": "independent",
     "supplyCategory": "mbt"
   },
   {
-    "name": "M-48 Patton",
-    "cost": 2000000,
+    "name": "M48 Patton",
+    "cost": 750000,
     "shop": "independent",
     "supplyCategory": "mbt"
   },
   {
-    "name": "M-41 Walker Bulldog",
-    "cost": 800000,
+    "name": "M41 Walker Bulldog",
+    "cost": 600000,
     "shop": "independent",
     "supplyCategory": "lightTankTankDestroyer"
   },
   {
     "name": "M60A1",
-    "cost": 2500000,
+    "cost": 1000000,
     "shop": "independent",
     "supplyCategory": "mbt"
   },
   {
-    "name": "Chieftain Mk. 10",
-    "cost": 3000000,
+    "name": "Centurion Mk. 3",
+    "cost": 750000,
+    "shop": "independent",
+    "supplyCategory": "mbt"
+  },
+  {
+    "name": "Chieftain Mk. 3/3",
+    "cost": 1250000,
     "shop": "independent",
     "supplyCategory": "mbt"
   },
@@ -378,7 +444,7 @@
     "supplyCategory": "towedHowitzersAndMRLs"
   },
   {
-    "name": "G5 Howitzer",
+    "name": "G5",
     "cost": 1000000,
     "shop": "independent",
     "supplyCategory": "towedHowitzersAndMRLs"

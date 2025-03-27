@@ -26,7 +26,7 @@ for line in content:
         modifications.append(modification)
 
 # Output the parsed modifications in JSON format
-with open('modifications.json', 'w') as json_file:
+with open('modifications_2.json', 'w') as json_file:
     json.dump(modifications, json_file, indent=2)
 
-print("{} modifications have been parsed and saved to modifications.json".format(len(modifications)))
+print("{} modifications have been parsed and saved to modifications_2.json".format(len(modifications)))
