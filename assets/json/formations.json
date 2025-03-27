@@ -1,5 +1,698 @@
 [
   {
+    "name": "Carrier Strike Group (Charles De Gaulle)",
+    "size": "division",
+    "type": "navy",
+    "subFormations": [
+      {
+        "name": "CSG Escorts (Middle stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "Charles De Gaulle-class aircraft carrier",
+        "count": 1,
+        "modifications": [
+          "Drone Catapult"
+        ]
+      },
+      {
+        "name": "Dassault Rafale M",
+        "count": 30,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "E-2C Hawkeye",
+        "count": 2,
+        "modifications": [
+          "Fuel Pods",
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "AW159",
+        "count": 3,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "AW101",
+        "count": 2,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "ScanEagle",
+        "count": 3
+      },
+      {
+        "name": "IAI Harop",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "CSG Escorts (Middle stage)",
+    "type": "navy",
+    "units": [
+      {
+        "name": "Berlin-class replenishment ship",
+        "count": 1
+      },
+      {
+        "name": "Type 26 Frigate",
+        "count": 2
+      },
+      {
+        "name": "De Zeven Provincien-class frigate",
+        "count": 2,
+        "modifications": [
+          "De Zeven Provienciën-class frigate modernization package"
+        ]
+      },
+      {
+        "name": "Type-45 Daring-class destroyer",
+        "count": 2,
+        "modifications": [
+          "Drone Catapult"
+        ]
+      },
+      {
+        "name": "Carlo Bergamini-class destroyer",
+        "count": 2
+      },
+      {
+        "name": "Type 212 submarine",
+        "count": 2
+      },
+      {
+        "name": "AW159",
+        "count": 16,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "AW101",
+        "count": 5,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "ScanEagle",
+        "count": 2
+      },
+      {
+        "name": "IAI Harop",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Amphibious Ready Group (Middle stage)",
+    "size": "regiment",
+    "type": "navy",
+    "subFormations": [
+      {
+        "name": "Marine Infantry Battalion (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Aviation Combat Element (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Marine Aviation Combat Element (Middle stage)",
+    "size": "regiment",
+    "type": "aviation composite",
+    "subFormations": [
+      {
+        "name": "Heavy Helicopter Detachment (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Medium Helicopter Squadron (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Attack Helicopter Detachment (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Unmanned Aerial Vehicle Detachment (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Fixed Wing Detachment (Late stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Heavy Helicopter Detachment (Middle stage)",
+    "size": "company",
+    "type": "heavy utility rotary wing",
+    "units": [
+      {
+        "name": "CH-47 Chinook",
+        "count": 4,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medium Helicopter Squadron (Middle stage)",
+    "size": "battalion",
+    "type": "medium utility rotary wing",
+    "units": [
+      {
+        "name": "AW101",
+        "count": 12,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Attack Helicopter Detachment (Middle stage)",
+    "size": "company",
+    "type": "attack rotary wing",
+    "units": [
+      {
+        "name": "WAH-64D",
+        "count": 7,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Unmanned Aerial Vehicle Detachment (Middle stage)",
+    "size": "company",
+    "type": "uav",
+    "units": [
+      {
+        "name": "ScanEagle",
+        "count": 8
+      },
+      {
+        "name": "IAI Harop",
+        "count": 20
+      },
+      {
+        "name": "Schiebel Camcopter S-100",
+        "count": 4
+      },
+      {
+        "name": "PMC Technical Specialist",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MAN HX81",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Fixed Wing Detachment (Late stage)",
+    "size": "company",
+    "type": "fixed wing",
+    "units": [
+      {
+        "name": "F-35B",
+        "count": 6,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Infantry Battalion (Middle stage)",
+    "size": "battalion",
+    "type": "amphibious infantry fighting vehicle",
+    "subFormations": [
+      {
+        "name": "Marine Headquarters and Service Company (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Mechanized Infantry Company (Middle stage)",
+        "count": 4
+      },
+      {
+        "name": "Leopard 2A6 Tank Platoon",
+        "count": 1
+      },
+      {
+        "name": "Marine Artillery Battery (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Engineer Platoon (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Reconnaissance Platoon (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Marine Headquarters and Service Company (Middle stage)",
+    "size": "company",
+    "type": "amphibious supply headquarters unit",
+    "subFormations": [
+      {
+        "name": "Electronic Warfare Platoon (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine Medical Platoon (Middle stage)",
+        "count": 1
+      },
+      {
+        "name": "Signal Platoon",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "MAN HX81",
+        "count": 5,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Medical Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "amphibious medical",
+    "subFormations": [
+      {
+        "name": "Marine Medical Squad (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Medical Squad (Middle stage)",
+    "size": "squad",
+    "type": "amphibious medical",
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 8,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Mechanized Infantry Company (Middle stage)",
+    "size": "company",
+    "type": "amphibious infantry fighting vehicle",
+    "subFormations": [
+      {
+        "name": "Marine Mechanized Infantry Platoon (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "Patria AMV XP",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "105mm Smoothbore Cannon",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 8,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MAN HX81",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Mechanized Infantry Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "amphibious infantry fighting vehicle",
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 5,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 51,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Artillery Battery (Middle stage)",
+    "size": "company",
+    "type": "artillery",
+    "subFormations": [
+      {
+        "name": "Marine Howitzer Platoon (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Marine SP Mortar Platoon (Middle stage)",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "Boxer MRAV",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Boxer ARTHUR",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MAN HX81",
+        "count": 3,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Howitzer Platoon (Early stage)",
+    "size": "platoon",
+    "type": "towed artillery",
+    "units": [
+      {
+        "name": "G5",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MAZ-537",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine SP Mortar Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "amphibious wheeled mortar",
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 4,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS",
+          "AMOS 120mm Mortar"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 4,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MAN HX81",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Engineer Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "amphibious engineer",
+    "subFormations": [
+      {
+        "name": "Marine Engineer Squad (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 1,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "MAN HX81",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Engineer Squad (Middle stage)",
+    "size": "squad",
+    "type": "amphibious engineer",
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS",
+          "Mine Blade"
+        ]
+      },
+      {
+        "name": "PMC Engineer",
+        "count": 8,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Reconnaissance Platoon (Middle stage)",
+    "size": "platoon",
+    "type": "amphibious armored cavalry",
+    "subFormations": [
+      {
+        "name": "Marine Reconnaissance Squad (Middle stage)",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "BMP-3",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS",
+          "BRM-3K \"Rys\""
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 3,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Reconnaissance Squad (Middle stage)",
+    "size": "squad",
+    "type": "amphibious armored cavalry",
+    "units": [
+      {
+        "name": "Patria AMV XP",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "AMAP-ADS"
+        ]
+      },
+      {
+        "name": "Direct Action Operators",
+        "count": 8,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Reinforced Armor Division (Middle stage)",
     "size": "division",
     "type": "combined arms",
