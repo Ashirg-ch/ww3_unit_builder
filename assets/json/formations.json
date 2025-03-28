@@ -1,5 +1,178 @@
 [
   {
+    "name": "Parachute Assault Brigade",
+    "size": "brigade",
+    "type": "airborne infantry",
+    "subFormations": [
+      {
+        "name": "HQ Company (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Parachute Assault Battalion",
+        "count": 3
+      },
+      {
+        "name": "Light Reconnaissance Company",
+        "count": 1
+      },
+      {
+        "name": "Mobile Protected Firepower Company",
+        "count": 1
+      },
+      {
+        "name": "Light Support Battalion",
+        "count": 1
+      }
+    ],
+    "units": [
+      {
+        "name": "PMC Engineer",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Parachute Assault Battalion",
+    "size": "battalion",
+    "type": "airborne infantry",
+    "subFormations": [
+      {
+        "name": "HQ Company (Early stage)",
+        "count": 1
+      },
+      {
+        "name": "Parachute Infantry Company",
+        "count": 4
+      },
+      {
+        "name": "TUAS Platoon (Middle stage)",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Mobile Protected Firepower Company",
+    "size": "company",
+    "type": "light armor",
+    "units": [
+      {
+        "name": "Lynx",
+        "count": 14,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "Augmented Reality Networked Warfighter",
+          "Lynx 120",
+          "AMAP-ADS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Parachute Infantry Company",
+    "size": "company",
+    "type": "airborne infantry",
+    "subFormations": [
+      {
+        "name": "Parachute Platoon",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Wiesel 2",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Wiesel 2",
+        "count": 1,
+        "modifications": [
+          "Multi-Spectral Camouflage",
+          "120mm Mortar"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Parachute Platoon",
+    "size": "platoon",
+    "type": "airborne infantry",
+    "subFormations": [
+      {
+        "name": "Parachute Squad",
+        "count": 3
+      }
+    ],
+    "units": [
+      {
+        "name": "Direct Action Operators",
+        "count": 5,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Parachute Squad",
+    "size": "squad",
+    "type": "airborne infantry",
+    "units": [
+      {
+        "name": "Direct Action Operators",
+        "count": 8,
+        "modifications": [
+          "Augmented Reality Networked Warfighter"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 2,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Light Support Battalion",
+    "size": "battalion",
+    "type": "maintenance and supply",
+    "units": [
+      {
+        "name": "MAN HX81",
+        "count": 5,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      },
+      {
+        "name": "Humvee",
+        "count": 10,
+        "modifications": [
+          "Multi-Spectral Camouflage"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Light Reconnaissance Company",
+    "size": "company",
+    "type": "reconnaissance",
+    "subFormations": [
+      {
+        "name": "Parachute Platoon",
+        "count": 3
+      }
+    ]
+  },
+  {
     "name": "Carrier Strike Group (Charles De Gaulle)",
     "size": "division",
     "type": "navy",
