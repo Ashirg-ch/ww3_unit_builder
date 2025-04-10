@@ -555,67 +555,67 @@
     "name": "F-5",
     "cost": 7500000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-21",
     "cost": 5500000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-23MLD",
     "cost": 8000000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-25",
     "cost": 10000000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "AV-8B Harrier II",
     "cost": 7500000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F-4E Phantom",
     "cost": 5500000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "C-23 Sherpa",
     "cost": 1200000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "tacticalAirLifter"
   },
   {
     "name": "Textron AirLand Scorpion",
     "cost": 6500000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "Mirage F1E",
     "cost": 8000000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F-14A",
     "cost": 15000000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "Il-28",
     "cost": 6000000,
     "shop": "independent",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "de Havilland Canada DHC-6 Twin Otter",
@@ -1083,37 +1083,37 @@
     "name": "Piranha ASV",
     "cost": 2000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "ifvApc"
   },
   {
     "name": "Piranha ACV",
     "cost": 2500000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "ifvApc"
   },
   {
     "name": "FV102",
     "cost": 3000000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "ifvApc"
   },
   {
     "name": "FV104 Samaritan",
     "cost": 250000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "lightVehicleMrap"
   },
   {
     "name": "Panhard VBL",
     "cost": 200000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "ifvApc"
   },
   {
     "name": "Panhard CRAB",
     "cost": 250000,
     "shop": "eu",
-    "supplyCategory": ""
+    "supplyCategory": "ifvApc"
   },
   {
     "name": "Jaguar",
@@ -1689,91 +1689,91 @@
     "name": "AMX International",
     "cost": 9000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "JAS 39 Gripen C",
     "cost": 10000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "Eurofighter Typhoon",
     "cost": 20000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "Dassault Rafale M",
     "cost": 20000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "Panavia Tornado IDS",
     "cost": 10000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "JAS 39 Gripen E",
     "cost": 12500000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F/A-18 Hornet",
     "cost": 12500000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F/A-18E/F Super Hornet",
     "cost": 15500000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-29AS",
     "cost": 10000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-29A",
     "cost": 10000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F-16V",
     "cost": 12000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F-35A",
     "cost": 35000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "F-35B",
     "cost": 35000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-21Bis",
     "cost": 5000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "MiG-21LanceR",
     "cost": 6000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "C-130 Hercules",
@@ -2013,7 +2013,7 @@
     "name": "Panavia Tornado ECR",
     "cost": 30000000,
     "shop": "eu",
-    "supplyCategory": "otherAircraft"
+    "supplyCategory": "otherCombatAircraft"
   },
   {
     "name": "Queen Elizabeth-class aircraft carrier",
@@ -2222,14 +2222,14 @@
     "name": "Oste-class intelligence collection ship",
     "cost": 35000000,
     "shop": "eu",
-    "supplyCategory": "",
+    "supplyCategory": "otherShips",
     "fp": 1
   },
   {
     "name": "Monge-class telecommunications ship",
     "cost": 40000000,
     "shop": "eu",
-    "supplyCategory": "",
+    "supplyCategory": "otherShips",
     "fp": 1
   },
   {
@@ -2274,7 +2274,7 @@
     "name": "San Juan-class patrol vessel",
     "cost": 1000000,
     "shop": "independent",
-    "supplyCategory": ""
+    "supplyCategory": "otherShips"
   },
   {
     "name": "Mercy-class hospital ship",
@@ -2304,7 +2304,7 @@
     "name": "Newport-class LST",
     "cost": 120000000,
     "shop": "independent",
-    "supplyCategory": ""
+    "supplyCategory": "landingCraft"
   },
   {
     "name": "Komar-class missile boat",
@@ -2400,24 +2400,24 @@
     "name": "Large Narco submarine",
     "cost": 10000000,
     "shop": "independent",
-    "supplyCategory": ""
+    "supplyCategory": "landingCraft"
   },
   {
     "name": "Small Narco submarine",
     "cost": 4000000,
     "shop": "independent",
-    "supplyCategory": ""
+    "supplyCategory": "landingCraft"
   },
   {
     "name": "Migaloo M5",
     "cost": 125000000,
     "shop": "independent",
-    "supplyCategory": ""
+    "supplyCategory": "landingCraft"
   },
   {
     "name": "Migaloo M7",
     "cost": 175000000,
     "shop": "independent",
-    "supplyCategory": ""
+    "supplyCategory": "landingCraft"
   }
 ]

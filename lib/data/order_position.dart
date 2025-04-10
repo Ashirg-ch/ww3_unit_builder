@@ -1,3 +1,4 @@
+import 'package:ww3_unit_builder/data/enabled_discounts.dart';
 import 'package:ww3_unit_builder/data/modifications_list.dart';
 import 'package:ww3_unit_builder/data/supply_category.dart';
 import 'package:ww3_unit_builder/data/unit_modification.dart';
@@ -39,11 +40,22 @@ class OrderPosition {
   List<UnitModification> get modifications => List.unmodifiable(_modifications);
 
   int get totalCost {
-    return _unitType.cost * count +
+    int unitCost = (_unitType.cost * (1 - getDiscount() / 100)).ceil();
+    return unitCost * count +
         getUnlockedModifications().fold(
           0,
           (sum, mod) => sum + mod.calculateCost(_unitType.cost) * count,
         );
+  }
+
+  int getDiscount() {
+    int totalDiscount = 0;
+
+    for (final discount in EnabledDiscounts().enabledDiscounts) {
+      totalDiscount += discount.getDiscount(_unitType);
+    }
+
+    return totalDiscount;
   }
 
   SupplyCategory get supplyCategory {

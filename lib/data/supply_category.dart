@@ -248,6 +248,14 @@ enum SupplyCategory {
   /// such as the Mil Mi-24 Hind or the Mil Mi-8T Hip.
   attackHelicopter(-100),
 
+  /// Fixed wing aircraft intended to perform active combat roles,
+  /// such as fighters, bombers, and attack aircraft.
+  ///
+  /// Non-transport planes are not included in the supply count system due to being base-dependent.
+  otherCombatAircraft(0),
+
+  /// Non-combat aircraft, such as unarmed AWACS and reconnaissance aircraft.
+  ///
   /// Non-transport planes are not included in the supply count system due to being base-dependent.
   otherAircraft(0),
 

@@ -28,6 +28,7 @@ class _UnlocksWidgetState extends State<UnlocksWidget> {
                 onChanged: (value) {
                   Unlocks().setUnlocked(unlock, value!);
                 },
+                dense: true,
               );
             },
             itemCount: Unlocks().getAll().length,

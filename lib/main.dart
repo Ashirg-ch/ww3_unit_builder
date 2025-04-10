@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:provider/provider.dart';
+import 'package:ww3_unit_builder/data/enabled_discounts.dart';
 import 'package:ww3_unit_builder/data/enabled_shops.dart';
 import 'package:ww3_unit_builder/data/order_provider.dart';
 import 'package:ww3_unit_builder/data/unit_type_list.dart';
@@ -15,7 +16,8 @@ void main() {
       providers: [
         ChangeNotifierProvider(create: (_) => OrderProvider()),
         ChangeNotifierProvider(create: (_) => FormationsList()),
-        ChangeNotifierProvider(create: (_) => EnabledShops())
+        ChangeNotifierProvider(create: (_) => EnabledShops()),
+        ChangeNotifierProvider(create: (_) => EnabledDiscounts()),
       ],
       child: const MyApp(),
     ),
