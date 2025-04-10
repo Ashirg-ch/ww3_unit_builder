@@ -2,7 +2,9 @@ import 'package:flutter/foundation.dart';
 import 'package:ww3_unit_builder/data/shops.dart';
 
 class EnabledShops with ChangeNotifier {
-  final List<Shops> _enabledShops = [];
+  final List<Shops> _enabledShops = [
+    Shops.all
+  ];
 
   List<Shops> get enabledShops {
     return [..._enabledShops];

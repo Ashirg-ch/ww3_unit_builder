@@ -1,249 +1,339 @@
-Vespa 150 TAP- 1,000,000 (2 MP)
-Harley MT500/350 - 650,000 (1 MP)
-ACMAT VLA - 125,000 (0 mp)
-Mercedes-Benz G-Class 6x6 - 120,000 (0 mp)
-Mercedes-Benz Unimog - 175,000 (0 mp)
-ACMAT VLRA - 100,000 (0 mp)
-Sisu SA-150 - 200,000 (0 mp)
-Saurer 6DM - 175,000 (0 mp)
-MAN HX77 - 250,000 (0 mp)
-MAN SX44 - 225,000 (0 mp)
-MAN SX45 - 350,000 (0 mp)
-MAN HX81 - 400,000 (0 mp)
-Volvo N10 - 200,000 (0 mp)
-Volvo FMX 6x6 - 250,000 (0 mp)
-Oshkosh 1070F - 400,000 (0 mp)
-Scania CaRaPACE - 400,000 (0MP)
-Unipower M-series - 450,000 (0 mp)
-Kodiak - 200,000 (0 mp)
-Wisent 2 - 225,000 (0 mp)
-Trojan - 300,000 (0 mp)
-Terrier - 250,000 (0 mp)
-Leclerc DNG - 175,000 (0 mp)
-Bergepanzer 3 Buffel - 200,000 (0 mp)
-Bulldog - 125,000 (0 mp)
-CRARRV - 350,000 (0 mp)
-PSB 2 - 200,000 (0 mp)
-Titan - 225,000 (0 mp)
-M3 - 400,000 (0 mp)
-SEE - 125,000 (0 mp)
-JCB 4CXM - 175,000 (0 mp)
-Patria Heavy Mine Breaching Vehicle - 225,000 (0 mp)
-Keiler - 250,000 (0 mp)
-Aardvark - 245,000 (0 mp)
-Liebherr LTM 1055-3.1 - 400,000 (0 mp)
-HMRTF - 125,000 (0 mp)
-Case 721 CXT - 250,000 (0 mp)
-Land Rover Defender 110 - 50,000 (2mp, carries 6)
-LIV (SO) Serval - 120,000 (2 mp)
-Supacat Extenda - 125,000 (2 mp)
-Land Rover Defender 130CC-R - 300,000 (2 mp) (Max 70)
-Mercedes Benz G-class Unimog- 275,000 (2 mp)
-Iveco LMV - 550,000 (1 mp, carries 4)
-International MXT-MV - 600,000 (1 mp, carries 10)
-Mowag Eagle - 700,000 (1 mp, carries 4)
-Enok - 760,000 (2 mp, carries 6)
-MWMIK Jackal - 800,000 (4 mp, carries 1)
-LGS Fennek - 1,500,000 (3 mp)
-M1114 Humvee - 200,000 (2 mp)
-Oshkosh L-ATV - 250,000 (2 mp)
-Cougar H - 475,000 (2 mp)
-Dingo 2 - 500,000 (2 mp)
-RG-32 Scout - 1,000,000 (1 mp)
-Force Protection Ocelot LPPV - 1,500,000 (2 mp)
-Luchs - 600,000 (3 mp)
-EXACTOR 2 - 1,000,000 (2 mp)
-XA-202 - 1,750,000 (3 mp)
-Piranha ASV - 2,000,000 (3 mp)
-Piranha ACV - 2,500,000 (3 mp)
-FV102 - 3,000,000 (3 mp)
-FV104 Samaritan - 250,000 (2 mp)
-Panhard VBL - 200,000 (2 mp)
-Panhard CRAB - 250,000 (2 mp)
-Jaguar - 750,000 (3 mp)
-AMV35 - 900,000 (3 mp)
-Scout Specialist Vehicle - 750,000 (3 mp)
-Shielder - 1,750,000 (3 mp)
-NM142 - 2,750,000 (3 mp)
-Griffon APC - 320,000 (2 mp)
-Patria AMV XP - 750,000 (2 mp)
-Patria AMV - 700,000 (2 mp)
-Puma APC - 375,000 (2 mp)
-Piranha V - 700,000 (2 mp)
-Piranha IIIC - 450,000 (2 mp)
-Boxer MRAV - 500,000 (2 mp)
-BMR-600 - 375,000 (2 mp)
-PANDUR II - 400,000 (2 mp)
-M113A2 - 550,000 (3 mp)
-Stormer - 500,000 (3 mp)
-Spartan - 400,000 (3 mp)
-Mk.3 Bulldog - 750,000 (3 mp)
-PMRS - 750,000 (3 mp)
-Marder Evolution APC - 600,000 (3 mp)
-Fuchs - 550,000 (2 mp)
-VAB Mk.3 - 450,000 (2 mp)
-XA-203 - 450,000 (2 mp)
-Tatrapan - 1,000,000 (2 mp)
-Warrior - 900,000 (3 mp)
-CV90 - 900,000 (3 mp)
-Marder - 750,000 (3 mp)
-Marder 2 - 900,000 (3 mp)
-Puma - 1,000,000 (3 mp)
-Lynx - 1,000,000 (3 mp)
-Wiesel 1 - 700,000 (3 mp)
-Wiesel 2 - 750,000 (2 mp)
-VCAC Mephisto - 750,000 (2 mp)
-EBRC Jaguar - 1,200,000  (3 mp)
-T-72M1 - 1,500,000 (3 mp)
-T-72M4 - 1,750,000 (3 mp)
-PT-91 Twardy - 3,000,000 (3 mp)
-M-95 Degman - 3,250,000 (3 mp)
-C-1 Ariete - 3,250,000 (4 mp)
-Leopard 2A4 - 3,400,000 (4 mp)
-Leopard 2A5 - 3,500,000 (4 mp)
-Leopard 2PL - 3,500,000 (4 mp)
-Leopard 2A6 - 3,750,000 (4 mp)
-Leopard 2A7 - 3,900,000 (4 mp)
-Leopard 2A7+ - 4,000,000 (4 mp)
-AMX Leclerc - 3,750,000 (3 mp)
-Challenger 2 - 4,250,000 (4 mp)
-Challenger 2 Black Night - 5,000,000 (4 mp)
-EMBT - 5,000,000 (3 mp)
-PL-01 - 6,000,000 (3 mp)
-L118 Light Gun - 450,000 (3 mp)
-FH-70 - 600,000 (8 mp)
-2A18 - 450,000 (7 mp)
-GIAT LG1 - 400,000 (5 mp)
-TRF1 - 600,000 (8 mp)
-OTO Melara Mod 56 - 400,000 (7 mp)
-AS-90 - 3,000,000 (5 mp)
-Panzerhaubitze 2000 - 3,500,000 (5 mp)
-K9 Thunder - 3,250,000 (5 mp)
-AHS Krab - 3,000,000 (5 mp)
-2S1 Gvozdika - 2,000,000 (4 mp)
-Archer - 2,750,000 (4 mp)
-CAESAR 8x8 - 2,650,000 (5 mp)
-CAESAR - 2,500,000 (6 mp)
-DANA M1 CZ - 2,600,000 (4 mp)
-DANA - 2,500,000 (6 mp)
-Zuzana - 2,500,000 (4 mp)
-Zuzana 2 - 2,750,000 (4 mp)
-Centauro 155/39LW - 3,000,000  (2mp)
-MARS2/LRU - 13,000,000 (3 mp)
-M270B1 - 13,000,000 (3 mp)
-M142 HIMARS - 12,500,000 (3 mp)
-WR-40 Langusta - 14,000,000 (4 mp)
-RM-70 Vampir - 15,000,000 (6 mp)
-Centauro 2 - 2,100,000 (3 mp)
-Aegis Ashore - 100,000,000 (10 mp) (non mobile, it cannot move unless it is destroyed and respawned)
-NASAMS 1 - 12,500,000 (5 mp)
-NASAMS 2 - 14,000,000 (5 mp)
-Patriot PAC-1 - 20,000,000 (5 mp)
-Patriot PAC-2 - 25,000,000 (5 mp)
-Patriot PAC-3 - 30,000,000 (5 mp)
-MEADS - 27,000,000 (5 mp)
-SAMP/T - 20,000,000 (5 mp)
-Crotale - 1,600,000 (3 mp)
-Stormer HVM - 1,500,000 (3 mp)
-Gepard - 750,000 (3 mp)
-Loara - 750,000 (3 mp)
-ZSU-23-4MP - 800,000 (4mp)
-MANTIS C-RAM - 1,000,000 (4 mp)
-ZSU-23-4 upgrade - 3,000,000 (4mp)
-NSM Land based - 20,000,000 (4mp)
-Ground Master 400 - 18,750,000 (4 mp)
-ARTHUR Counter fire radar - 3,250,000 (4 mp)
-NOSTRADAMUS OTH radar - 100,000,000 (110 mp)
-AN/FPS-132 - 140,000,000 (100 mp)
-AMX International - 9,000,000 (1mp)
-JAS 39 Gripen C- 10,000,000 (1mp)
-Eurofighter Typhoon -20,000,000 (1mp)
-Dassault Rafale M - 20,000,000 (1mp)
-Panavia Tornado IDS - 10,000,000 (2mp)
-JAS 39 Gripen E - 12,500,000 (1mp)
-F/A-18 Hornet - 12,500,000 (1mp)
-F/A-18E/F Super Hornet - 15,500,000 (1mp)
-MiG-29AS - 10,000,000 (1mp)
-MiG-29A - 10,000,000 (1mp)
-F-16V - 12,000,000 (1mp)
-F-35A - 35,000,000 (1mp)
-F-35B - 35,000,000 (1mp)
-MiG-21Bis - 5,000,000 (1mp)
-MiG-21LanceR - 6,000,000 (1mp)
-C-130 Hercules - 4,000,000 (5 mp)
-C-295 - 4,000,000 (2mp)
-A310 MRTT - 4,250,000 (3 mp)
-A330 MRTT - 4,500,000 (3 mp)
-Airbus A400M - 5,000,000 (3 mp)
-C-17 Globemaster III - 6,250,000 (3 mp)
-Eurocopter Dauphin - 750,000 (1 mp)
-NH-90 - 1,000,000 (2 mp)
-Eurocopter Puma - 1,000,000 (2 mp)
-EC725 Caracal - 1,500,000 (3 mp)
-AW101 - 1,500,000 (4 mp)
-AW159 - 2,000,000 (2 mp)
-CH-47 Chinook - 2,000,000 (5 mp)
-Aérospatiale Gazelle SA 342 - 3,250,000  (2 mp)
-Agusta A-129 Mangusta - 3,000,000 (2 mp)
-Eurocopter Tiger - 4,000,000 (2 mp)
-WAH-64D - 5,000,000 (2 mp)
-AH-64E - 5,300,000 (2 mp)
-WB Electronics Warmate - 100,000 (1 mp)
-Elbit SkyStriker - 150,000 (1 mp)
-IAI Harop - 400,000 (1 mp)
-ScanEagle - 750,000 (1mp)
-Schiebel Camcopter S-100 - 750,000 (1 mp)
-MQ-9 Reaper - 3,500,000 (1 mp)
-Merlin Crowsnest AEW - 6,000,000 (4 mp)
-C-295 AEW&C - 10,000,000 (2 mp)
-C-295 SINGT - 8,000,000 (2 mp)
-E-99 - 7,500,000 (9mp)
-Saab 340 - 8,000,000 (9mp)
-G550 AEW - 6,500,000 (8mp)
-P-3C - 7,000,000 (9mp)
-P-72AS - 5,000,000 (8mp)
-Voyager KC3 - 11,000,000 (4mp)
-E-2C Hawkeye - 12,500,000 (6mp)
-E-3 Sentry - 10,000,000 (6mp)
-Raytheon Sentinel - 18,000,000 (5mp)
-RC-135W Rivet Joint - 25,000,000 (32mp)
-Breguet Atlantique 2 - 7,000,000 (12mp)
-P-8 Poseidon - 7,500,000 (9mp)
-Panavia Tornado ECR - 30,000,000 (2mp)
-Queen Elizabeth-class aircraft carrier - 1,800,000,000
-Charles De Gaulle-class aircraft carrier - 1,100,000,000
-Mistral-class Amphibious Assault Carrier - 690,000,000
-Rotterdam-class Amphibious Assault Ship - 430,000,000
-Albion-class Amphibious Assault Ship - 430,000,000
-Type-45 Daring-class destroyer - 320,000,000
-Horizon-class destroyer - 270,000,000
-Carlo Bergamini-class destroyer - 230,000,000
-Karel Doorman-class frigate - 120,000,000
-Baden Württemberg Frigate - 90,000,000
-Type 26 Frigate - 280,000,000
-Sachsen-class frigate - 230,000,000
-Alvaro de Bazan-class frigate - 280,000,000
-Aquitaine-class frigate - 215,000,000
-Iver Huitfeldt-class frigate - 200,000,000
-Absalon-class Amphibious Support Ship - 120,000,000
-De Zeven Provincien-class frigate - 250,000,000
-Visby-class corvette - 30,000,000
-River-class patrol vessel - 8,000,000
-Storm-class patrol ship - 20,000,000
-Hamina-class missile boat - 30,000,000
-Gotland-class patrol submarine - 355,000,000
-Type 212 submarine  - 390,000,000
-Scorpene-class patrol submarine - 360,000,000
-Astute-class attack submarine - 480,000,000
-Trafalgar-class attack submarine - 425,000,000
-Suffren-class submarine - 400,000,000
-Amethyste-class attack submarine - 320,000,000
-Berlin-class replenishment ship - 30,000,000
-Oste-class intelligence collection ship - 35,000,000
-Monge-class telecommunications ship - 40,000,000
-Wave-class tanker - 45,000,000
-Tide-class tanker - 50,000,000
-LCVP Mk.5 - 1,000,000 (3mp)
-LCU Mk.10 - 3,000,000 (7mp)
-Griffon 2000TD - 3,500,000 (3mp)
+```ARMY```
+
+> **Infantry**
+EU Marine - 50,000
+EU Marine Sniper - 100,000
+EU Marine Heavy Weapons - 80,000
+EU Marine Medic - 75,000
+EU Marine Engineer - 120,000
+EU Marine Reservist - 35,000
+EU Army Soldier - 50,000
+EU Army Sniper - 100,000
+EU Army Heavy Weapon Trooper - 80,000
+EU Army Medic - 75,000
+EU Army Engineer - 120,000
+National Gendarmerie - 35,000
+EU Technical Specialist - 2,000,000
+EU Paratrooper - 1.5x the original cost of the unit (multiply by 1.5 when doing calculations, infantry already in your UC cannot be converted, only new ones)
+
+> **Special Forces**
+MI6 Agent - 7,500,000 (max 200)
+
+> **Motorcycles**
+Vespa 150 TAP - 1,000,000
+Harley MT500/350 - 650,000
+
+> **Light Utility Vehicles**
+ACMAT VLA - 125,000
+Mercedes-Benz G-Class 6x6 - 120,000
+Mercedes-Benz Unimog - 175,000
+ACMAT VLRA - 100,000
+Sisu SA-150 - 200,000
+Saurer 6DM - 175,000
+
+> **Heavy Utility Vehicles**
+MAN HX77 - 250,000
+MAN SX44 - 225,000
+MAN SX45 - 350,000
+MAN HX81 - 400,000
+Volvo N10 - 200,000
+Volvo FMX 6x6 - 250,000
+Oshkosh 1070F - 400,000
+Scania CaRaPACE - 400,000
+Unipower M-series - 450,000
+
+> **Engineering Vehicles**
+Kodiak - 200,000
+Wisent 2 - 225,000
+Trojan - 300,000
+Terrier - 250,000
+Leclerc DNG - 175,000
+Bergepanzer 3 Buffel - 200,000
+Bulldog - 125,000
+CRARRV - 350,000
+PSB 2 - 200,000
+Titan - 225,000
+M3 - 400,000
+SEE - 125,000
+JCB 4CXM - 175,000
+Patria Heavy Mine Breaching Vehicle - 225,000
+Keiler - 250,000
+Aardvark - 245,000
+Liebherr LTM 1055-3.1 - 400,000
+HMRTF - 125,000
+Case 721 CXT - 250,000
+
+> **Light Armored Ground Vehicles**
+Land Rover Defender 110 - 50,000
+LIV (SO) Serval - 120,000
+Supacat Extenda - 125,000
+Land Rover Defender 130CC-R - 300,000 (Max 70)
+Mercedes Benz G-class Unimog - 275,000
+Iveco LMV - 550,000
+International MXT-MV - 600,000
+Mowag Eagle - 700,000
+Enok - 760,000
+MWMIK Jackal - 800,000
+LGS Fennek - 1,500,000
+
+> **Heavily Armored Vehicles**
+M1114 Humvee - 200,000
+Oshkosh L-ATV - 250,000
+Cougar H - 475,000
+Dingo 2 - 500,000
+RG-32 Scout - 1,000,000
+Force Protection Ocelot LPPV - 1,500,000
+
+> **Other Vehicles**
+Luchs - 600,000
+EXACTOR 2 - 1,000,000
+XA-202 - 1,750,000
+Piranha ASV - 2,000,000
+Piranha ACV - 2,500,000
+FV102 - 3,000,000
+FV104 Samaritan - 250,000
+Panhard VBL - 200,000
+Panhard CRAB - 250,000
+Jaguar - 750,000
+AMV35 - 900,000
+Scout Specialist Vehicle - 750,000
+Shielder - 1,750,000
+NM142 - 2,750,000
+
+> **Armored Personnel Carriers**
+Griffon APC - 320,000
+Patria AMV XP - 750,000
+Patria AMV - 700,000
+Puma APC - 375,000
+Piranha V - 700,000
+Piranha IIIC - 450,000
+Boxer MRAV - 500,000
+BMR-600 - 375,000
+PANDUR II - 400,000
+M113A2 - 550,000
+Stormer - 500,000
+Spartan - 400,000
+Mk.3 Bulldog - 750,000
+PMRS - 750,000
+Marder Evolution APC - 600,000
+Fuchs - 550,000
+VAB Mk.3 - 450,000
+XA-203 - 450,000
+Tatrapan - 1,000,000
+
+> **Infantry Fighting Vehicles**
+Warrior - 900,000
+CV90 - 900,000
+Marder - 750,000
+Marder 2 - 900,000
+Puma - 1,000,000
+Lynx - 1,000,000
+Wiesel 1 - 700,000
+Wiesel 2 - 750,000
+VCAC Mephisto - 750,000
+EBRC Jaguar - 1,200,000
+
+> **Tanks**
+T-72M1 - 1,500,000
+T-72M4 - 1,750,000
+PT-91 Twardy - 3,000,000
+M-95 Degman - 3,250,000
+C-1 Ariete - 3,250,000
+Leopard 2A4 - 3,400,000
+Leopard 2A5 - 3,500,000
+Leopard 2PL - 3,500,000
+Leopard 2A6 - 3,750,000
+Leopard 2A7 - 3,900,000
+Leopard 2A7+ - 4,000,000
+AMX Leclerc - 3,750,000
+Challenger 2 - 4,250,000
+Challenger 2 Black Night - 5,000,000
+EMBT - 5,000,000
+PL-01 - 6,000,000
+
+> **Artillery**
+L118 Light Gun - 450,000
+FH-70 - 600,000
+2A18 - 450,000
+GIAT LG1 - 400,000
+TRF1 - 600,000
+OTO Melara Mod 56 - 400,000
+AS-90 - 3,000,000
+Panzerhaubitze 2000 - 3,500,000
+K9 Thunder - 3,250,000
+AHS Krab - 3,000,000
+2S1 Gvozdika - 2,000,000
+Archer - 2,750,000
+CAESAR 8x8 - 2,650,000
+CAESAR - 2,500,000
+DANA M1 CZ - 2,600,000
+DANA - 2,500,000
+Zuzana - 2,500,000
+Zuzana 2 - 2,750,000
+Centauro 155/39LW - 3,000,000
+MARS2/LRU - 13,000,000
+M270B1 - 13,000,000
+M142 HIMARS - 12,500,000
+WR-40 Langusta - 14,000,000
+RM-70 Vampir - 15,000,000
+Centauro 2 - 2,100,000
+Aegis Ashore - 100,000,000 (non mobile, it cannot move unless it is destroyed and respawned)
+
+> **Air Defence**
+NASAMS 1 - 12,500,000
+NASAMS 2 - 14,000,000
+Patriot PAC-1 - 20,000,000
+Patriot PAC-2 - 25,000,000
+Patriot PAC-3 - 30,000,000
+MEADS - 27,000,000
+SAMP/T - 20,000,000
+Crotale - 1,600,000
+Stormer HVM - 1,500,000
+Gepard - 750,000
+Loara - 750,000
+ZSU-23-4MP - 800,000
+MANTIS C-RAM - 1,000,000
+ZSU-23-4 upgrade - 3,000,000
+NSM Land based - 20,000,000
+
+> **Standalone Radars**
+Ground Master 400 - 18,750,000
+ARTHUR Counter fire radar - 3,250,000
+NOSTRADAMUS OTH radar - 100,000,000
+AN/FPS-132 - 140,000,000
+
+```AVIATION```
+
+> **Fixed Wing Aircraft**
+AMX International - 9,000,000
+JAS 39 Gripen C - 10,000,000
+Eurofighter Typhoon - 20,000,000
+Dassault Rafale M - 20,000,000
+Panavia Tornado IDS - 10,000,000
+JAS 39 Gripen E - 12,500,000
+F/A-18 Hornet - 12,500,000
+F/A-18E/F Super Hornet - 15,500,000
+MiG-29AS - 10,000,000
+MiG-29A - 10,000,000
+F-16V - 12,000,000
+F-35A - 35,000,000
+F-35B - 35,000,000
+MiG-21Bis - 5,000,000
+MiG-21LanceR - 6,000,000
+
+> **Transport Planes**
+C-130 Hercules - 2,500,000
+C-295 - 4,000,000
+A310 MRTT - 4,250,000
+A330 MRTT - 4,500,000
+Airbus A400M - 5,000,000
+C-17 Globemaster III - 6,250,000
+
+> **Transport helicopters**
+Eurocopter Dauphin - 750,000
+NH-90 - 1,000,000
+Eurocopter Puma - 1,000,000
+EC725 Caracal - 1,500,000
+AW101 - 1,500,000
+AW159 - 2,000,000
+CH-47 Chinook - 2,000,000
+
+> **Attack helicopters**
+Aérospatiale Gazelle SA 342 - 3,250,000
+Agusta A-129 Mangusta - 3,000,000
+Eurocopter Tiger - 4,000,000
+WAH-64D - 5,000,000
+AH-64E - 5,300,000
+
+> **UAVs**
+WB Electronics Warmate - 100,000
+Elbit SkyStriker - 150,000
+IAI Harop - 400,000
+ScanEagle - 750,000
+Schiebel Camcopter S-100 - 750,000
+MQ-9 Reaper - 3,500,000
+
+> **Patrol Aircraft**
+Merlin Crowsnest AEW - 6,000,000
+C-295 AEW&C - 10,000,000
+C-295 SINGT - 8,000,000
+E-99 - 7,500,000
+Saab 340 - 8,000,000
+G550 AEW - 6,500,000
+P-3C - 7,000,000
+P-72AS - 5,000,000
+Voyager KC3 - 11,000,000
+E-2C Hawkeye - 12,500,000
+E-3 Sentry - 10,000,000
+Raytheon Sentinel - 18,000,000
+RC-135W Rivet Joint - 25,000,000
+Breguet Atlantique 2 - 7,000,000
+P-8 Poseidon - 7,500,000
+Panavia Tornado ECR - 30,000,000
+
+```NAVY```
+
+> **Super Carriers** (10 FP)
+Queen Elizabeth-class aircraft carrier - 1,800,000,000 (10 FP)
+
+> **Aircraft Carriers** (8 FP)
+Charles De Gaulle-class aircraft carrier - 1,100,000,000 (8 FP)
+
+> **Amphibious Assault Ships** (7 FP)
+Mistral-class Amphibious Assault Carrier - 690,000,000 (7 FP)
+Rotterdam-class Amphibious Assault Ship - 430,000,000 (7 FP)
+Albion-class Amphibious Assault Ship - 430,000,000 (7 FP)
+Trieste-class landing helicopter dock - 530,000,000 (7 FP)
+
+> **Destroyers** (5 FP)
+Type-45 Daring-class destroyer - 320,000,000 (5 FP)
+Horizon-class destroyer - 270,000,000 (5 FP)
+Carlo Bergamini-class destroyer - 230,000,000 (5 FP)
+
+> **Frigates** (3 FP)
+Karel Doorman-class frigate - 120,000,000 (3 FP)
+Baden Württemberg Frigate - 90,000,000 (3 FP)
+Type 26 Frigate - 280,000,000 (3 FP)
+Sachsen-class frigate - 230,000,000 (3 FP)
+Alvaro de Bazan-class frigate - 280,000,000 (3 FP)
+Aquitaine-class frigate - 215,000,000 (3 FP)
+Iver Huitfeldt-class frigate - 200,000,000 (3 FP)
+Absalon-class Amphibious Support Ship - 120,000,000 (3 FP)
+De Zeven Provincien-class frigate - 280,000,000 (3 FP)
+FDI-class frigate - 140,000,000 (3 FP)
+
+> **Corvettes** (2FP)
+Visby-class corvette - 30,000,000 (2FP)
+Braunschweig-class corvette - 35,000,000 (2FP)
+
+> **Large Patrol Boats** (1 FP)
+River-class patrol vessel - 8,000,000 (1 FP)
+Storm-class patrol ship - 20,000,000 (1 FP)
+Hamina-class missile boat - 30,000,000 (1 FP)
+
+> **Diesel Attack submarines** (5 FP)
+Gotland-class patrol submarine - 355,000,000 (5 FP)
+Type 212 submarine  - 390,000,000 (5 FP)
+Scorpene-class patrol submarine - 360,000,000 (5 FP)
+
+> **Nuclear Attack submarines** (7 FP)
+Astute-class attack submarine - 480,000,000 (7 FP)
+Trafalgar-class attack submarine - 425,000,000 (7 FP)
+Suffren-class submarine - 400,000,000 (7 FP)
+Amethyste-class attack submarine - 320,000,000 (7 FP)
+
+> **Support ships** (1 FP)
+Berlin-class replenishment ship - 30,000,000 (1 FP)
+Oste-class intelligence collection ship - 35,000,000 (1 FP)
+Dupuy de Lôme-class intelligence collection ship - 50,000,000 (1 FP)
+Monge-class telecommunications ship - 40,000,000 (1 FP)
+Wave-class tanker - 45,000,000 (1 FP)
+Tide-class tanker - 50,000,000 (1 FP)
+Mercuur-class submarine support ship - 15,000,000 (1 FP)
+
+> **Landing Craft** 
+LCVP Mk.5 - 1,000,000
+LCU Mk.10 - 3,000,000
+Griffon 2000TD - 3,500,000
 CB90-class fast assault craft - 4,500,000
+Bay-class landing ship - 250,000,000 (5 FP)

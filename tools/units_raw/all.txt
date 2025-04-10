@@ -1,0 +1,6 @@
+> **Special Forces**
+Commandos - 100,000 (max 15,000)
+Counter-Terrorist Operators - 150,000 (max 5,000)
+Direct Action Operators - 250,000 (max 5,000)
+Special Warfare Operators - 300,000 (max 2,500)
+Intelligence Operative - 3,750,000

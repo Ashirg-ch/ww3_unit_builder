@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 /// The various shops that units can belong to.
 enum Shops {
+  /// Units available to all factions.
+  all(Colors.white),
   independent(Color(0xfffa6969)),
   eu(Color(0xff00b0ff)),
   russia(Color(0xffff0000)),
