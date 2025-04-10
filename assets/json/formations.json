@@ -173,6 +173,48 @@
     ]
   },
   {
+    "name": "Tactical Airlift Group (Middle stage)",
+    "size": "regiment",
+    "type": "heavy utility fixed wing",
+    "units": [
+      {
+        "name": "Airbus A400M",
+        "count": 30,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "Panavia Tornado IDS",
+        "count": 6,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tactical Airlift Group (Middle stage)",
+    "size": "regiment",
+    "type": "heavy utility fixed wing",
+    "units": [
+      {
+        "name": "Airbus A400M",
+        "count": 30,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      },
+      {
+        "name": "Panavia Tornado IDS",
+        "count": 6,
+        "modifications": [
+          "Directional Infrared Counter Measures"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Carrier Strike Group (Charles De Gaulle)",
     "size": "division",
     "type": "navy",
@@ -300,6 +342,15 @@
         "name": "Marine Aviation Combat Element (Middle stage)",
         "count": 1
       }
+    ],
+    "units": [
+      {
+        "name": "Mistral-class Amphibious Assault Carrier",
+        "count": 1,
+        "modifications": [
+          "Drone Catapult"
+        ]
+      }
     ]
   },
   {
@@ -321,10 +372,6 @@
       },
       {
         "name": "Marine Unmanned Aerial Vehicle Detachment (Middle stage)",
-        "count": 1
-      },
-      {
-        "name": "Marine Fixed Wing Detachment (Late stage)",
         "count": 1
       }
     ]
